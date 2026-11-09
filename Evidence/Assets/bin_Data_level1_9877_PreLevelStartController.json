@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "389"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1663"
+  },
+  "m_Name": "",
+  "mainMenuPlayButton": {
+    "m_FileID": 0,
+    "m_PathID": "8596"
+  },
+  "preLevelMenu": {
+    "m_FileID": 0,
+    "m_PathID": "7837"
+  },
+  "popup": {
+    "m_FileID": 0,
+    "m_PathID": "5523"
+  },
+  "preBoosterGenerator": {
+    "m_FileID": 0,
+    "m_PathID": "9094"
+  },
+  "superHardOffer": {
+    "m_FileID": 0,
+    "m_PathID": "10372"
+  },
+  "levelText": {
+    "m_FileID": 0,
+    "m_PathID": "8292"
+  },
+  "headerBg": {
+    "m_FileID": 0,
+    "m_PathID": "10854"
+  },
+  "containerBg": {
+    "m_FileID": 0,
+    "m_PathID": "10741"
+  },
+  "menuDifficultyBg": {
+    "m_FileID": 0,
+    "m_PathID": "8745"
+  },
+  "menuMultiplierTag": {
+    "m_FileID": 0,
+    "m_PathID": "1987"
+  },
+  "menuDifficultyText": {
+    "m_FileID": 0,
+    "m_PathID": "8060"
+  },
+  "menuMultiplierText": {
+    "m_FileID": 0,
+    "m_PathID": "8268"
+  },
+  "buttonDifficultyBg": {
+    "m_FileID": 0,
+    "m_PathID": "10294"
+  },
+  "buttonMultiplierTag": {
+    "m_FileID": 0,
+    "m_PathID": "2026"
+  },
+  "buttonDifficultyText": {
+    "m_FileID": 0,
+    "m_PathID": "8398"
+  },
+  "buttonMultiplierText": {
+    "m_FileID": 0,
+    "m_PathID": "8232"
+  },
+  "IsExtraDockBoosterActive": 0,
+  "IsMeteorShowerBoosterActive": 0,
+  "isPopupActive": 0
+}

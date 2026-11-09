@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1196"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "346"
+  },
+  "m_Name": "",
+  "claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "4232"
+  },
+  "claimedIcon": {
+    "m_FileID": 0,
+    "m_PathID": "4053"
+  },
+  "claimParticle": {
+    "m_FileID": 0,
+    "m_PathID": "4345"
+  },
+  "lockAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "2625"
+  },
+  "rewardEntriesParent": {
+    "m_FileID": 0,
+    "m_PathID": "3876"
+  },
+  "rewardEntryPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "4550"
+  },
+  "<RewardEntriesGridLayout>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "4116"
+  }
+}

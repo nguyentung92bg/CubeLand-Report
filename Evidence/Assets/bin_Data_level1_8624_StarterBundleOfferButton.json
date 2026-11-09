@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1290"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "942"
+  },
+  "m_Name": "",
+  "offerButton": {
+    "m_FileID": 0,
+    "m_PathID": "10688"
+  },
+  "offerButtonRect": {
+    "m_FileID": 0,
+    "m_PathID": "5426"
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7903"
+  },
+  "deactivateCanvasGroupOnHide": 0,
+  "offerType": 1,
+  "discountBadges": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2413"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1489"
+    }
+  ],
+  "discountAmountTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8329"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8194"
+    }
+  ],
+  "bundleSo": {
+    "m_FileID": 2,
+    "m_PathID": "3989"
+  },
+  "contentArea": {
+    "m_FileID": 0,
+    "m_PathID": "5557"
+  },
+  "mainScreenBundleOfferItem": {
+    "m_FileID": 2,
+    "m_PathID": "4456"
+  }
+}

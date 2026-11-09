@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "45"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "430"
+  },
+  "m_Name": "",
+  "docksRoot": {
+    "m_FileID": 0,
+    "m_PathID": "2710"
+  },
+  "blasterDockPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4055"
+  },
+  "blasterDocksPosition": {
+    "m_FileID": 0,
+    "m_PathID": "2738"
+  },
+  "blasterDocksSpacing": 0.699999988079071,
+  "utilityDockPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4057"
+  },
+  "utilityDocksStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": "2713"
+  },
+  "utilityDocksPositionOffset": {
+    "x": -0.25,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ghostDocks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "10449"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9273"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9278"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9279"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9276"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9274"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9277"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9275"
+    }
+  ],
+  "ghostBlasterScaleUpToSixDocks": 0.75,
+  "ghostBlasterScaleAtSevenDocks": 0.6600000262260437,
+  "ghostBlasterScaleAtEightDocks": 0.5799999833106995,
+  "<PilotBlasterDocks>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "9870"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9869"
+    }
+  ]
+}

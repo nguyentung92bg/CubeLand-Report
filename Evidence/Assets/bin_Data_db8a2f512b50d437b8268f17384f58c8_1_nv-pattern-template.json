@@ -1,0 +1,4 @@
+{
+  "m_Name": "nv-pattern-template",
+  "m_Script": "{\n    \"version\": {\n        \"major\": 1,\n        \"minor\": 0,\n        \"patch\": 0\n    },\n    \"signals\": {\n        \"continuous\": {\n            \"envelopes\": {\n                \"amplitude\": [ {amplitude-envelope} ]\n            }\n        }\n    }\n}"
+}

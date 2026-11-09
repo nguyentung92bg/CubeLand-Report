@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1233"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "948"
+  },
+  "m_Name": "",
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": "9014"
+  },
+  "info": {
+    "m_FileID": 0,
+    "m_PathID": "8218"
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7850"
+  },
+  "spawnOffsetY": 120.0,
+  "popDuration": 0.25,
+  "holdDuration": 0.3499999940395355,
+  "floatDistance": 300.0,
+  "floatDuration": 1.0,
+  "fadeDuration": 0.4000000059604645
+}

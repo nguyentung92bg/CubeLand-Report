@@ -1,0 +1,502 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1481"
+  },
+  "m_Name": "DailyQuestSo",
+  "dailyQuestData": [
+    {
+      "questIndex": 0,
+      "difficultyType": 0,
+      "questType": 0,
+      "target": 1
+    },
+    {
+      "questIndex": 1,
+      "difficultyType": 1,
+      "questType": 0,
+      "target": 2
+    },
+    {
+      "questIndex": 2,
+      "difficultyType": 2,
+      "questType": 0,
+      "target": 5
+    },
+    {
+      "questIndex": 3,
+      "difficultyType": 3,
+      "questType": 0,
+      "target": 10
+    },
+    {
+      "questIndex": 4,
+      "difficultyType": 0,
+      "questType": 1,
+      "target": 10
+    },
+    {
+      "questIndex": 5,
+      "difficultyType": 1,
+      "questType": 1,
+      "target": 20
+    },
+    {
+      "questIndex": 6,
+      "difficultyType": 2,
+      "questType": 1,
+      "target": 45
+    },
+    {
+      "questIndex": 7,
+      "difficultyType": 3,
+      "questType": 1,
+      "target": 90
+    },
+    {
+      "questIndex": 8,
+      "difficultyType": 1,
+      "questType": 2,
+      "target": 1
+    },
+    {
+      "questIndex": 9,
+      "difficultyType": 2,
+      "questType": 2,
+      "target": 2
+    },
+    {
+      "questIndex": 10,
+      "difficultyType": 3,
+      "questType": 2,
+      "target": 5
+    },
+    {
+      "questIndex": 11,
+      "difficultyType": 1,
+      "questType": 3,
+      "target": 1
+    },
+    {
+      "questIndex": 12,
+      "difficultyType": 1,
+      "questType": 4,
+      "target": 1
+    },
+    {
+      "questIndex": 13,
+      "difficultyType": 1,
+      "questType": 5,
+      "target": 1
+    },
+    {
+      "questIndex": 14,
+      "difficultyType": 0,
+      "questType": 7,
+      "target": 2
+    },
+    {
+      "questIndex": 15,
+      "difficultyType": 1,
+      "questType": 7,
+      "target": 4
+    },
+    {
+      "questIndex": 16,
+      "difficultyType": 2,
+      "questType": 7,
+      "target": 6
+    },
+    {
+      "questIndex": 17,
+      "difficultyType": 3,
+      "questType": 7,
+      "target": 10
+    },
+    {
+      "questIndex": 18,
+      "difficultyType": 0,
+      "questType": 8,
+      "target": 250
+    },
+    {
+      "questIndex": 19,
+      "difficultyType": 1,
+      "questType": 8,
+      "target": 500
+    },
+    {
+      "questIndex": 20,
+      "difficultyType": 2,
+      "questType": 8,
+      "target": 1000
+    },
+    {
+      "questIndex": 21,
+      "difficultyType": 3,
+      "questType": 8,
+      "target": 2000
+    }
+  ],
+  "dailyQuestRewardsData": [
+    {
+      "difficultyType": 0,
+      "singleRewards": [
+        {
+          "type": 0,
+          "amount": 50
+        },
+        {
+          "type": 8,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "difficultyType": 1,
+      "singleRewards": [
+        {
+          "type": 0,
+          "amount": 100
+        },
+        {
+          "type": 8,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "difficultyType": 2,
+      "singleRewards": [
+        {
+          "type": 0,
+          "amount": 250
+        },
+        {
+          "type": 8,
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "difficultyType": 0,
+      "singleRewards": [
+        {
+          "type": 5,
+          "amount": -15
+        },
+        {
+          "type": 8,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "difficultyType": 1,
+      "singleRewards": [
+        {
+          "type": 5,
+          "amount": -30
+        },
+        {
+          "type": 8,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "difficultyType": 2,
+      "singleRewards": [
+        {
+          "type": 1,
+          "amount": 1
+        },
+        {
+          "type": 8,
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "difficultyType": 3,
+      "singleRewards": [
+        {
+          "type": 1,
+          "amount": 2
+        },
+        {
+          "type": 8,
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "difficultyType": 2,
+      "singleRewards": [
+        {
+          "type": 2,
+          "amount": 1
+        },
+        {
+          "type": 8,
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "difficultyType": 3,
+      "singleRewards": [
+        {
+          "type": 2,
+          "amount": 1
+        },
+        {
+          "type": 8,
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "difficultyType": 3,
+      "singleRewards": [
+        {
+          "type": 3,
+          "amount": 1
+        },
+        {
+          "type": 8,
+          "amount": 16
+        }
+      ]
+    }
+  ],
+  "dailyQuestWeeklyData": [
+    {
+      "target": 50,
+      "singleRewards": [
+        {
+          "type": 0,
+          "amount": 100
+        },
+        {
+          "type": 1,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "target": 50,
+      "singleRewards": [
+        {
+          "type": 0,
+          "amount": 250
+        },
+        {
+          "type": 1,
+          "amount": 1
+        },
+        {
+          "type": 2,
+          "amount": 1
+        },
+        {
+          "type": 5,
+          "amount": -15
+        }
+      ]
+    },
+    {
+      "target": 50,
+      "singleRewards": [
+        {
+          "type": 0,
+          "amount": 500
+        },
+        {
+          "type": 1,
+          "amount": 1
+        },
+        {
+          "type": 3,
+          "amount": 1
+        },
+        {
+          "type": 5,
+          "amount": -30
+        }
+      ]
+    },
+    {
+      "target": 50,
+      "singleRewards": [
+        {
+          "type": 0,
+          "amount": 1000
+        },
+        {
+          "type": 2,
+          "amount": 1
+        },
+        {
+          "type": 3,
+          "amount": 1
+        },
+        {
+          "type": 5,
+          "amount": -60
+        }
+      ]
+    }
+  ],
+  "dailyQuestDifficulties": [
+    0,
+    0,
+    1,
+    2,
+    3
+  ],
+  "dailyQuestTypeData": [
+    {
+      "type": 0,
+      "info": "Complete Levels",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "867"
+      }
+    },
+    {
+      "type": 1,
+      "info": "Play for|Minutes",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "796"
+      }
+    },
+    {
+      "type": 2,
+      "info": "Use Play On",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "907"
+      }
+    },
+    {
+      "type": 3,
+      "info": "Booster 1",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "350"
+      }
+    },
+    {
+      "type": 4,
+      "info": "Booster 2",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "430"
+      }
+    },
+    {
+      "type": 5,
+      "info": "Booster 3",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "94"
+      }
+    },
+    {
+      "type": 6,
+      "info": "Booster 4",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "384"
+      }
+    },
+    {
+      "type": 7,
+      "info": "Win|Levels in a Row",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "883"
+      }
+    },
+    {
+      "type": 8,
+      "info": "Collect Objective",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "1013"
+      }
+    }
+  ],
+  "dailyQuestRewardTypeData": [
+    {
+      "type": 0,
+      "prefix": "",
+      "postfix": "",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "285"
+      }
+    },
+    {
+      "type": 1,
+      "prefix": "X",
+      "postfix": "",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "350"
+      }
+    },
+    {
+      "type": 2,
+      "prefix": "X",
+      "postfix": "",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "430"
+      }
+    },
+    {
+      "type": 3,
+      "prefix": "X",
+      "postfix": "",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "94"
+      }
+    },
+    {
+      "type": 4,
+      "prefix": "X",
+      "postfix": "",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "384"
+      }
+    },
+    {
+      "type": 5,
+      "prefix": "",
+      "postfix": "M",
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "236"
+      }
+    },
+    {
+      "type": 8,
+      "prefix": "",
+      "postfix": "",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "983"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1550"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1248"
+  },
+  "m_Name": "",
+  "type": 6,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7866"
+  },
+  "playerRankText": {
+    "m_FileID": 0,
+    "m_PathID": "8278"
+  },
+  "competitorsParent": {
+    "m_FileID": 0,
+    "m_PathID": "10550"
+  },
+  "playerPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4074"
+  },
+  "botPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4410"
+  },
+  "playerSeparatorDot": {
+    "m_FileID": 0,
+    "m_PathID": "771"
+  },
+  "footer": {
+    "m_FileID": 0,
+    "m_PathID": "5517"
+  },
+  "continueButton": {
+    "m_FileID": 0,
+    "m_PathID": "9964"
+  },
+  "claimArea": {
+    "m_FileID": 0,
+    "m_PathID": "971"
+  },
+  "claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "10722"
+  },
+  "rewardEntries": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8824"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10257"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8855"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9358"
+    }
+  ]
+}

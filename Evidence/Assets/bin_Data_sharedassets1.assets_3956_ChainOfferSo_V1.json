@@ -1,0 +1,734 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "915"
+  },
+  "m_Name": "ChainOfferSo_V1",
+  "Offers": [
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -15,
+          "info": "15M"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "3967"
+      },
+      "FreeOffer": []
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -30,
+          "info": "30M"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "121"
+          },
+          "amount": 200,
+          "info": "200"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "3968"
+      },
+      "FreeOffer": []
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 4,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "384"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "121"
+          },
+          "amount": 500,
+          "info": "500"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -60,
+          "info": "1H"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "3969"
+      },
+      "FreeOffer": []
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 9,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "393"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -60,
+          "info": "1H"
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "121"
+          },
+          "amount": 1000,
+          "info": "1000"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 2,
+          "info": "x2"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 2,
+          "info": "x2"
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 2,
+          "info": "x2"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "3970"
+      },
+      "FreeOffer": []
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 4,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "384"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": 9,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "393"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "121"
+          },
+          "amount": 2500,
+          "info": "2500"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -60,
+          "info": "1H"
+        },
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 3,
+          "info": "x3"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 3,
+          "info": "x3"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 3,
+          "info": "x3"
+        },
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 3,
+          "info": "x3"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "3971"
+      },
+      "FreeOffer": []
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "121"
+          },
+          "amount": 4000,
+          "info": "4000"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 3,
+          "info": "x3"
+        },
+        {
+          "type": 4,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "384"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 3,
+          "info": "x3"
+        },
+        {
+          "type": 9,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "393"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -120,
+          "info": "2H"
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 3,
+          "info": "x3"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 3,
+          "info": "x3"
+        },
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 3,
+          "info": "x3"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "3972"
+      },
+      "FreeOffer": []
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "121"
+          },
+          "amount": 7500,
+          "info": "7500"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 5,
+          "info": "x5"
+        },
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 5,
+          "info": "x5"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -300,
+          "info": "5H"
+        },
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 5,
+          "info": "x5"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 4,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "384"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 5,
+          "info": "x5"
+        }
+      ]
+    },
+    {
+      "PaidOffer": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "FreeOffer": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 5,
+          "info": "x5"
+        },
+        {
+          "type": 9,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "393"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    }
+  ]
+}

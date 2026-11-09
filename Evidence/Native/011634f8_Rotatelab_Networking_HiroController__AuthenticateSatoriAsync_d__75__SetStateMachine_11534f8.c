@@ -1,0 +1,26 @@
+/* IL2CPP: Rotatelab.Networking.HiroController.<AuthenticateSatoriAsync>d__75$$SetStateMachine
+void Rotatelab_Networking_HiroController__AuthenticateSatoriAsync_d__75__SetStateMachine (Rotatelab_Networking_HiroController__AuthenticateSatoriAsync_d__75_o __this, System_Runtime_CompilerServices_IAsyncStateMachine_o* stateMachine, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+/* IL2CPP: Rotatelab.Networking.HiroController.<AuthenticateSatoriAsync>d__75$$SetStateMachine
+   void Rotatelab_Networking_HiroController__AuthenticateSatoriAsync_d__75__SetStateMachine
+   (Rotatelab_Networking_HiroController__AuthenticateSatoriAsync_d__75_o __this,
+   System_Runtime_CompilerServices_IAsyncStateMachine_o* stateMachine, const MethodInfo* method); */
+
+undefined8
+Rotatelab_Networking_HiroController__AuthenticateSatoriAsync_d__75__SetStateMachine_11534f8
+          (int param_1,undefined4 param_2)
+
+{
+  char *pcVar1;
+  
+  pcVar1 = (char *)(_UNK_01163548 + 0x1163510);
+  if (*pcVar1 == '\0') {
+    FUN_00ec37c0(*(undefined4 *)(_UNK_0116354c + 0x1163524));
+    *pcVar1 = '\x01';
+  }
+  return CONCAT44(param_2,param_1 + 4);
+}
+

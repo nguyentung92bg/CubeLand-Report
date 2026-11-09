@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2648"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "749"
+  },
+  "m_Name": "",
+  "visual": {
+    "m_FileID": 0,
+    "m_PathID": "1703"
+  },
+  "boosterType": 1,
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": "2923"
+  },
+  "magnetVisual": {
+    "m_FileID": 0,
+    "m_PathID": "2828"
+  }
+}

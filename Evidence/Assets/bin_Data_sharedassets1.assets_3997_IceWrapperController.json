@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1868"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1601"
+  },
+  "m_Name": "",
+  "mergedBlockController": {
+    "m_FileID": 0,
+    "m_PathID": "4485"
+  },
+  "iceRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2419"
+  },
+  "breakParticlePrefab": {
+    "m_FileID": 0,
+    "m_PathID": "2767"
+  },
+  "hitParticlePrefab": {
+    "m_FileID": 0,
+    "m_PathID": "2770"
+  }
+}

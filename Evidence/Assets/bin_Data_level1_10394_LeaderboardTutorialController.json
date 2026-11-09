@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "349"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2574"
+  },
+  "m_Name": "",
+  "<Type>k__BackingField": 5,
+  "steps": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "7790"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7918"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7849"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7907"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7957"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7879"
+    }
+  ],
+  "timerInfoText": {
+    "m_FileID": 0,
+    "m_PathID": "8352"
+  }
+}

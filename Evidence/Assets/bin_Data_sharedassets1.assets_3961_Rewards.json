@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1900"
+  },
+  "m_Name": "Rewards",
+  "Rewards": [
+    {
+      "Rewards": [
+        {
+          "Currency": 0,
+          "Amount": 5000,
+          "Icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "Info": "5000"
+        }
+      ]
+    },
+    {
+      "Rewards": [
+        {
+          "Currency": 0,
+          "Amount": 3000,
+          "Icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "Info": "3000"
+        }
+      ]
+    },
+    {
+      "Rewards": [
+        {
+          "Currency": 0,
+          "Amount": 2000,
+          "Icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "Info": "2000"
+        }
+      ]
+    }
+  ]
+}

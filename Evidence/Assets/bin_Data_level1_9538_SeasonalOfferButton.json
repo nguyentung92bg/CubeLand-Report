@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1001"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2564"
+  },
+  "m_Name": "",
+  "offerButton": {
+    "m_FileID": 0,
+    "m_PathID": "10366"
+  },
+  "offerButtonRect": {
+    "m_FileID": 0,
+    "m_PathID": "5841"
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7893"
+  },
+  "deactivateCanvasGroupOnHide": 0,
+  "offerType": 11,
+  "discountBadges": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2170"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1766"
+    }
+  ],
+  "discountAmountTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8280"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8157"
+    }
+  ],
+  "seasonalOfferSo": {
+    "m_FileID": 2,
+    "m_PathID": "3986"
+  },
+  "contentArea": {
+    "m_FileID": 0,
+    "m_PathID": "5772"
+  },
+  "mainScreenBundleOfferItem": {
+    "m_FileID": 2,
+    "m_PathID": "4456"
+  },
+  "headerImage": {
+    "m_FileID": 0,
+    "m_PathID": "8715"
+  },
+  "bgImage": {
+    "m_FileID": 0,
+    "m_PathID": "9110"
+  },
+  "buttonImage": {
+    "m_FileID": 0,
+    "m_PathID": "9842"
+  },
+  "offerDurationObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "905"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1311"
+    }
+  ],
+  "offerDurationTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8389"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8282"
+    }
+  ]
+}

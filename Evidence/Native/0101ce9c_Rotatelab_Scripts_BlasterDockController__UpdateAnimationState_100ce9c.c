@@ -1,0 +1,108 @@
+/* IL2CPP: Rotatelab.Scripts.BlasterDockController$$UpdateAnimationState
+void Rotatelab_Scripts_BlasterDockController__UpdateAnimationState (Rotatelab_Scripts_BlasterDockController_o* __this, int32_t state, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+/* IL2CPP: Rotatelab.Scripts.BlasterDockController$$UpdateAnimationState
+   void Rotatelab_Scripts_BlasterDockController__UpdateAnimationState
+   (Rotatelab_Scripts_BlasterDockController_o* __this, int32_t state, const MethodInfo* method); */
+
+void Rotatelab_Scripts_BlasterDockController__UpdateAnimationState_100ce9c(int param_1,int param_2)
+
+{
+  bool bVar1;
+  uint *puVar2;
+  int iVar3;
+  undefined4 uVar4;
+  char *pcVar5;
+  int *piVar6;
+  int *piVar7;
+  int iVar8;
+  
+  pcVar5 = (char *)(_UNK_0101d088 + 0x101ceb8);
+  if (*pcVar5 == '\0') {
+    FUN_00ec37c0(*(undefined4 *)(_UNK_0101d08c + 0x101cecc));
+    *pcVar5 = '\x01';
+  }
+  if (*(int *)(param_1 + 0x44) != param_2) {
+    piVar6 = (int *)(param_1 + 0x30);
+    *(int *)(param_1 + 0x44) = param_2;
+    if (*piVar6 != 0) {
+      UnityEngine_MonoBehaviour__StopCoroutine_3604570(param_1,*piVar6,0);
+      *(undefined4 *)(param_1 + 0x30) = 0;
+      thunk_FUN_00ec5080(piVar6,0);
+    }
+    if (*(int *)(param_1 + 0x18) == 0) {
+                    /* WARNING: Subroutine does not return */
+      thunk_FUN_00f078d4();
+    }
+    UnityEngine_Behaviour__set_enabled_35fd7dc(*(int *)(param_1 + 0x18),1,0);
+    if (*(int *)(param_1 + 0x44) == 2) {
+      iVar3 = Rotatelab_Scripts_BlasterDockController__get_HasIvyLock_100c628(param_1);
+      if (iVar3 == 0) {
+        piVar6 = *(int **)(_UNK_0101d094 + 0x101d010);
+        iVar8 = *(int *)(param_1 + 0x18);
+        iVar3 = *piVar6;
+        if (*(int *)(iVar3 + 0x74) == 0) {
+          FUN_00ec3934();
+          iVar3 = *piVar6;
+        }
+        iVar3 = *(int *)(*(int *)(iVar3 + 0x5c) + 4);
+        if (iVar3 == 0) {
+                    /* WARNING: Subroutine does not return */
+          thunk_FUN_00f078d4();
+        }
+        if (*(uint *)(iVar3 + 0xc) <= *(uint *)(param_1 + 0x34)) {
+                    /* WARNING: Subroutine does not return */
+          thunk_FUN_00f07924();
+        }
+        if (iVar8 == 0) {
+                    /* WARNING: Subroutine does not return */
+          thunk_FUN_00f078d4();
+        }
+        UnityEngine_Animator__Play_35915ac
+                  (iVar8,*(undefined4 *)(iVar3 + *(uint *)(param_1 + 0x34) * 4 + 0x10),0,0,0);
+      }
+    }
+    else if (*(int *)(param_1 + 0x44) == 1) {
+      piVar7 = *(int **)(_UNK_0101d090 + 0x101cf54);
+      iVar8 = *(int *)(param_1 + 0x18);
+      iVar3 = *piVar7;
+      if (*(int *)(iVar3 + 0x74) == 0) {
+        FUN_00ec3934();
+        iVar3 = *piVar7;
+      }
+      iVar3 = **(int **)(iVar3 + 0x5c);
+      if (iVar3 == 0) {
+                    /* WARNING: Subroutine does not return */
+        thunk_FUN_00f078d4();
+      }
+      if (*(uint *)(iVar3 + 0xc) <= *(uint *)(param_1 + 0x34)) {
+                    /* WARNING: Subroutine does not return */
+        thunk_FUN_00f07924();
+      }
+      if (iVar8 != 0) {
+        UnityEngine_Animator__Play_35915ac
+                  (iVar8,*(undefined4 *)(iVar3 + *(uint *)(param_1 + 0x34) * 4 + 0x10),0,0,0);
+        uVar4 = Rotatelab_Scripts_BlasterDockController__SleepAnimatorAfterCurrentTransitionCoroutine_100d0cc
+                          (param_1);
+        uVar4 = UnityEngine_MonoBehaviour__StartCoroutine_36042a4(param_1,uVar4,0);
+        *(undefined4 *)(param_1 + 0x30) = uVar4;
+        if (*(int *)(_UNK_00f30580 + 0xf30540) != 0) {
+          puVar2 = (uint *)(_UNK_00f30584 + ((uint)piVar6 >> 0x11) * 4 + 0xf547cc);
+          do {
+            bVar1 = (bool)hasExclusiveAccess(puVar2);
+          } while (!bVar1);
+          *puVar2 = *puVar2 | 1 << (((uint)piVar6 & 0x1ffff) >> 0xc);
+          return;
+        }
+        return;
+      }
+                    /* WARNING: Subroutine does not return */
+      thunk_FUN_00f078d4();
+    }
+  }
+  return;
+}
+

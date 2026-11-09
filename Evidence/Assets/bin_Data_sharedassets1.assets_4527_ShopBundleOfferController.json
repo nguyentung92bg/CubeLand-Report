@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1575"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1228"
+  },
+  "m_Name": "",
+  "purchaseButton": {
+    "m_FileID": 0,
+    "m_PathID": "4234"
+  },
+  "coinOfferText": {
+    "m_FileID": 0,
+    "m_PathID": "4048"
+  },
+  "hideNoAdsOffer": 1,
+  "offersParent": {
+    "m_FileID": 0,
+    "m_PathID": "3889"
+  },
+  "offerPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "4550"
+  },
+  "offersGrid": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "spacingByOfferCount": []
+}

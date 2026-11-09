@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "pages": [
+    {
+      "file": "LevelDesign.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Levels/Levels.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Items/Items.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Boosters/Boosters.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "IAP/IAP.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Events/Events.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Leaderboard/Leaderboard.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Daily/Daily.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Analytics/Analytics.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "file": "Evidence/Evidence.html",
+      "mobile": {
+        "inner": 390,
+        "scroll": 390
+      }
+    }
+  ],
+  "levelCount": 850,
+  "checks": [
+    "local navigation and resources",
+    "10 responsive pages at 390px",
+    "no unrelated game copy",
+    "images decoded",
+    "level search and pagination",
+    "offline chunk loading",
+    "voxel canvas",
+    "shooter queues",
+    "mobile detail dialog",
+    "unique evidence files",
+    "850 level icons and source records",
+    "no browser JS errors"
+  ]
+}

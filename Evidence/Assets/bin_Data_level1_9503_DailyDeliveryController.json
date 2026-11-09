@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2338"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "251"
+  },
+  "m_Name": "",
+  "popupController": {
+    "m_FileID": 0,
+    "m_PathID": "10241"
+  },
+  "popup": {
+    "m_FileID": 0,
+    "m_PathID": "7077"
+  },
+  "dailyDeliverySo": {
+    "m_FileID": 2,
+    "m_PathID": "3958"
+  },
+  "dayCards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8831"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8572"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9181"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9634"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8594"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9757"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9695"
+    }
+  ],
+  "claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "8808"
+  },
+  "rewardParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "10797"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9944"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8696"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8665"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8941"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9561"
+    }
+  ],
+  "claimCloseDelay": 0.75
+}

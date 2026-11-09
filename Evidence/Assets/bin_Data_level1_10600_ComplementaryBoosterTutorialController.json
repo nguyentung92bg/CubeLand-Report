@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2650"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2035"
+  },
+  "m_Name": "",
+  "tutorialPanel": {
+    "m_FileID": 0,
+    "m_PathID": "7847"
+  },
+  "boosterRect": {
+    "m_FileID": 0,
+    "m_PathID": "7385"
+  },
+  "inGameBoosterPanel": {
+    "m_FileID": 0,
+    "m_PathID": "2037"
+  },
+  "preGameBoosterPanel": {
+    "m_FileID": 0,
+    "m_PathID": "635"
+  },
+  "specialBoosterPanel": {
+    "m_FileID": 0,
+    "m_PathID": "1596"
+  },
+  "tutorialInfo": {
+    "m_FileID": 0,
+    "m_PathID": "8236"
+  },
+  "tutorialHeader": {
+    "m_FileID": 0,
+    "m_PathID": "8159"
+  },
+  "icons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "9963"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8514"
+    }
+  ]
+}

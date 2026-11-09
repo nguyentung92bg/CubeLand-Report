@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1473"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "357"
+  },
+  "m_Name": "",
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": "4484"
+  },
+  "info": {
+    "m_FileID": 0,
+    "m_PathID": "4475"
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "3906"
+  },
+  "popDuration": 0.25,
+  "holdDuration": 0.3499999940395355,
+  "floatDistance": 300.0,
+  "floatDuration": 1.0,
+  "fadeDuration": 0.4000000059604645
+}

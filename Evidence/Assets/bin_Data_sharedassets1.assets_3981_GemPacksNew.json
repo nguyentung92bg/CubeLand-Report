@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2194"
+  },
+  "m_Name": "GemPacksNew",
+  "title": "COINS",
+  "packOfferElements": [
+    {
+      "iapData": {
+        "productId": "iap_coin_cubeblast_1",
+        "adjustKey": "xn0gk3"
+      },
+      "type": 0,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "121"
+      },
+      "iconScale": 1.2000000476837158,
+      "amount": 1000,
+      "info": "1K COINS"
+    },
+    {
+      "iapData": {
+        "productId": "iap_coin_cubeblast_2",
+        "adjustKey": "4r8gv3"
+      },
+      "type": 0,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "283"
+      },
+      "iconScale": 1.4288549423217773,
+      "amount": 5000,
+      "info": "5K COINS"
+    },
+    {
+      "iapData": {
+        "productId": "iap_coin_cubeblast_3",
+        "adjustKey": "oywm7w"
+      },
+      "type": 0,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "990"
+      },
+      "iconScale": 1.3556050062179565,
+      "amount": 10000,
+      "info": "10K COINS"
+    },
+    {
+      "iapData": {
+        "productId": "iap_coin_cubeblast_4",
+        "adjustKey": "b7kt3v"
+      },
+      "type": 0,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "860"
+      },
+      "iconScale": 1.4918509721755981,
+      "amount": 25000,
+      "info": "25K COINS"
+    },
+    {
+      "iapData": {
+        "productId": "iap_coin_cubeblast_5",
+        "adjustKey": "7ksvdt"
+      },
+      "type": 0,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "820"
+      },
+      "iconScale": 1.7387559413909912,
+      "amount": 50000,
+      "info": "50K COINS"
+    },
+    {
+      "iapData": {
+        "productId": "iap_coin_cubeblast_6",
+        "adjustKey": "8xlt8m"
+      },
+      "type": 0,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "831"
+      },
+      "iconScale": 1.8279629945755005,
+      "amount": 100000,
+      "info": "100K COINS"
+    }
+  ],
+  "shopPanelPackItem": {
+    "m_FileID": 0,
+    "m_PathID": "4254"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1865"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2008"
+  },
+  "m_Name": "",
+  "preventTransform": {
+    "m_FileID": 0,
+    "m_PathID": "7620"
+  },
+  "popup": {
+    "m_FileID": 0,
+    "m_PathID": "6835"
+  },
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": "8412"
+  },
+  "cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": "10100"
+  },
+  "shuffleButton": {
+    "m_FileID": 0,
+    "m_PathID": "10717"
+  },
+  "backgroundDim": {
+    "m_FileID": 0,
+    "m_PathID": "9583"
+  },
+  "popupTopAlignedPosition": {
+    "x": 0.0,
+    "y": 1050.0
+  }
+}

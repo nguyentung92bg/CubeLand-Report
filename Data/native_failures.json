@@ -1,0 +1,1316 @@
+[
+  {
+    "address": "0154e7c8",
+    "method": "UnityEngine.Rendering.ProbeReferenceVolume$$<RegisterDebug>g__RefreshDebug|42_0<bool>",
+    "status": "FAILED: Exception while decompiling 0154e7c8: Response buffer size exceeded for: libil2cpp.so ",
+    "file": ""
+  },
+  {
+    "address": "0154e7ec",
+    "method": "UnityEngine.Rendering.ProbeReferenceVolume$$<RegisterDebug>g__RefreshDebug|42_0<__Il2CppFullySharedGenericType>",
+    "status": "FAILED: Exception while decompiling 0154e7ec: Response buffer size exceeded for: libil2cpp.so ",
+    "file": ""
+  },
+  {
+    "address": "017bd538",
+    "method": "UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase<SceneInstance>$$UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.get_ResultType",
+    "status": "FAILED: Exception while decompiling 017bd538: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "017c0440",
+    "method": "UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase<__Il2CppFullySharedGenericType>$$UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.get_ResultType",
+    "status": "FAILED: Exception while decompiling 017c0440: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bd24",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<bool>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bd24: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bd6c",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<byte>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bd6c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bdb4",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<char>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bdb4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bdfc",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<DateTime>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bdfc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188be44",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<Decimal>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188be44: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188be8c",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<double>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188be8c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bed4",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<short>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bed4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bf1c",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<int>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bf1c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bf64",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<long>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bf64: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bfac",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<object>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bfac: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188bff4",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<sbyte>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188bff4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188c03c",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<float>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188c03c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188c084",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<ushort>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188c084: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188c0cc",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<uint>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188c0cc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188c114",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<ulong>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188c114: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0188c15c",
+    "method": "System.Linq.Expressions.PrimitiveParameterExpression<__Il2CppFullySharedGenericType>$$get_Type",
+    "status": "FAILED: Exception while decompiling 0188c15c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018b98b4",
+    "method": "Unity.Properties.Property<StyleEnum<Int32Enum>, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018b98b4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ba1ac",
+    "method": "Unity.Properties.Property<StyleList<EasingFunction>, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ba1ac: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018baaa4",
+    "method": "Unity.Properties.Property<StyleList<EasingFunction>, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018baaa4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018bb39c",
+    "method": "Unity.Properties.Property<StyleList<FilterFunction>, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018bb39c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018bbc94",
+    "method": "Unity.Properties.Property<StyleList<FilterFunction>, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018bbc94: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018bc58c",
+    "method": "Unity.Properties.Property<StyleList<StylePropertyName>, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018bc58c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018bce84",
+    "method": "Unity.Properties.Property<StyleList<StylePropertyName>, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018bce84: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018bd77c",
+    "method": "Unity.Properties.Property<StyleList<TimeValue>, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018bd77c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018be074",
+    "method": "Unity.Properties.Property<StyleList<TimeValue>, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018be074: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018be96c",
+    "method": "Unity.Properties.Property<Angle, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018be96c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018bf264",
+    "method": "Unity.Properties.Property<Angle, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018bf264: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018bfb5c",
+    "method": "Unity.Properties.Property<Background, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018bfb5c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c0454",
+    "method": "Unity.Properties.Property<BackgroundPosition, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c0454: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c0d4c",
+    "method": "Unity.Properties.Property<BackgroundPosition, Length>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c0d4c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c1644",
+    "method": "Unity.Properties.Property<BackgroundRepeat, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c1644: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c1f3c",
+    "method": "Unity.Properties.Property<BackgroundSize, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c1f3c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c2834",
+    "method": "Unity.Properties.Property<BackgroundSize, Length>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c2834: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c312c",
+    "method": "Unity.Properties.Property<Bounds, Vector3>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c312c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c3a24",
+    "method": "Unity.Properties.Property<BoundsInt, Vector3Int>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c3a24: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c431c",
+    "method": "Unity.Properties.Property<Color, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c431c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c4c14",
+    "method": "Unity.Properties.Property<Cursor, int>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c4c14: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c550c",
+    "method": "Unity.Properties.Property<Cursor, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c550c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c5e04",
+    "method": "Unity.Properties.Property<Cursor, Vector2>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c5e04: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c66fc",
+    "method": "Unity.Properties.Property<EasingFunction, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c66fc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c6ff4",
+    "method": "Unity.Properties.Property<FontDefinition, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c6ff4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c78ec",
+    "method": "Unity.Properties.Property<Length, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c78ec: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c81e4",
+    "method": "Unity.Properties.Property<Length, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c81e4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c8adc",
+    "method": "Unity.Properties.Property<MaterialDefinition, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c8adc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c93d4",
+    "method": "Unity.Properties.Property<object, StyleEnum<Int32Enum>>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c93d4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018c9ccc",
+    "method": "Unity.Properties.Property<object, StyleList<EasingFunction>>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018c9ccc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ca5c4",
+    "method": "Unity.Properties.Property<object, StyleList<FilterFunction>>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ca5c4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018caebc",
+    "method": "Unity.Properties.Property<object, StyleList<StylePropertyName>>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018caebc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018cb7b4",
+    "method": "Unity.Properties.Property<object, StyleList<TimeValue>>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018cb7b4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018cc0ac",
+    "method": "Unity.Properties.Property<object, Background>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018cc0ac: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018cc9a4",
+    "method": "Unity.Properties.Property<object, BackgroundPosition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018cc9a4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018cd29c",
+    "method": "Unity.Properties.Property<object, BackgroundRepeat>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018cd29c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018cdb94",
+    "method": "Unity.Properties.Property<object, BackgroundSize>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018cdb94: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ce48c",
+    "method": "Unity.Properties.Property<object, Color>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ce48c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ced84",
+    "method": "Unity.Properties.Property<object, EasingFunction>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ced84: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018cf67c",
+    "method": "Unity.Properties.Property<object, FilterFunction>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018cf67c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018cff74",
+    "method": "Unity.Properties.Property<object, FontDefinition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018cff74: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d086c",
+    "method": "Unity.Properties.Property<object, int>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d086c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d1164",
+    "method": "Unity.Properties.Property<object, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d1164: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d1a5c",
+    "method": "Unity.Properties.Property<object, MaterialDefinition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d1a5c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d2354",
+    "method": "Unity.Properties.Property<object, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d2354: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d2c4c",
+    "method": "Unity.Properties.Property<object, Ratio>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d2c4c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d3544",
+    "method": "Unity.Properties.Property<object, Rotate>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d3544: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d3e3c",
+    "method": "Unity.Properties.Property<object, Scale>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d3e3c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d4734",
+    "method": "Unity.Properties.Property<object, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d4734: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d502c",
+    "method": "Unity.Properties.Property<object, StyleBackground>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d502c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d5924",
+    "method": "Unity.Properties.Property<object, StyleBackgroundPosition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d5924: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d621c",
+    "method": "Unity.Properties.Property<object, StyleBackgroundRepeat>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d621c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d6b14",
+    "method": "Unity.Properties.Property<object, StyleBackgroundSize>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d6b14: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d740c",
+    "method": "Unity.Properties.Property<object, StyleColor>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d740c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d7d04",
+    "method": "Unity.Properties.Property<object, StyleCursor>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d7d04: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d85fc",
+    "method": "Unity.Properties.Property<object, StyleFloat>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d85fc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d8ef4",
+    "method": "Unity.Properties.Property<object, StyleFont>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d8ef4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018d97ec",
+    "method": "Unity.Properties.Property<object, StyleFontDefinition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018d97ec: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018da0e4",
+    "method": "Unity.Properties.Property<object, StyleInt>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018da0e4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018da9dc",
+    "method": "Unity.Properties.Property<object, StyleLength>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018da9dc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018db2d4",
+    "method": "Unity.Properties.Property<object, StyleMaterialDefinition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018db2d4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018dbbcc",
+    "method": "Unity.Properties.Property<object, StylePropertyName>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018dbbcc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018dc4c4",
+    "method": "Unity.Properties.Property<object, StyleRatio>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018dc4c4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018dcdbc",
+    "method": "Unity.Properties.Property<object, StyleRotate>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018dcdbc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018dd6b4",
+    "method": "Unity.Properties.Property<object, StyleScale>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018dd6b4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ddfac",
+    "method": "Unity.Properties.Property<object, StyleTextAutoSize>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ddfac: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018de8a4",
+    "method": "Unity.Properties.Property<object, StyleTextShadow>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018de8a4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018df19c",
+    "method": "Unity.Properties.Property<object, StyleTransformOrigin>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018df19c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018dfa94",
+    "method": "Unity.Properties.Property<object, StyleTranslate>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018dfa94: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e038c",
+    "method": "Unity.Properties.Property<object, TimeValue>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e038c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e0c84",
+    "method": "Unity.Properties.Property<object, Vector3>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e0c84: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e157c",
+    "method": "Unity.Properties.Property<Ratio, bool>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e157c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e1e74",
+    "method": "Unity.Properties.Property<Ratio, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e1e74: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e276c",
+    "method": "Unity.Properties.Property<Rect, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e276c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e3064",
+    "method": "Unity.Properties.Property<RectInt, int>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e3064: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e395c",
+    "method": "Unity.Properties.Property<Rotate, Angle>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e395c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e4254",
+    "method": "Unity.Properties.Property<Rotate, Vector3>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e4254: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e4b4c",
+    "method": "Unity.Properties.Property<Scale, Vector3>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e4b4c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e5444",
+    "method": "Unity.Properties.Property<StyleBackground, Background>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e5444: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e5d3c",
+    "method": "Unity.Properties.Property<StyleBackground, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e5d3c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e6634",
+    "method": "Unity.Properties.Property<StyleBackgroundPosition, BackgroundPosition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e6634: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e6f2c",
+    "method": "Unity.Properties.Property<StyleBackgroundPosition, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e6f2c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e7824",
+    "method": "Unity.Properties.Property<StyleBackgroundRepeat, BackgroundRepeat>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e7824: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e811c",
+    "method": "Unity.Properties.Property<StyleBackgroundRepeat, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e811c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e8a14",
+    "method": "Unity.Properties.Property<StyleBackgroundSize, BackgroundSize>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e8a14: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e930c",
+    "method": "Unity.Properties.Property<StyleBackgroundSize, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e930c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018e9c04",
+    "method": "Unity.Properties.Property<StyleColor, Color>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018e9c04: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ea4fc",
+    "method": "Unity.Properties.Property<StyleColor, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ea4fc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018eadf4",
+    "method": "Unity.Properties.Property<StyleCursor, Cursor>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018eadf4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018eb6ec",
+    "method": "Unity.Properties.Property<StyleCursor, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018eb6ec: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ebfe4",
+    "method": "Unity.Properties.Property<StyleFloat, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ebfe4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ec8dc",
+    "method": "Unity.Properties.Property<StyleFloat, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ec8dc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ed1d4",
+    "method": "Unity.Properties.Property<StyleFont, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ed1d4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018edacc",
+    "method": "Unity.Properties.Property<StyleFont, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018edacc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ee3c4",
+    "method": "Unity.Properties.Property<StyleFontDefinition, FontDefinition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ee3c4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018eecbc",
+    "method": "Unity.Properties.Property<StyleFontDefinition, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018eecbc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ef5b4",
+    "method": "Unity.Properties.Property<StyleInt, int>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ef5b4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018efeac",
+    "method": "Unity.Properties.Property<StyleInt, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018efeac: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f07a4",
+    "method": "Unity.Properties.Property<StyleLength, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f07a4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f109c",
+    "method": "Unity.Properties.Property<StyleLength, Length>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f109c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f1994",
+    "method": "Unity.Properties.Property<StyleMaterialDefinition, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f1994: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f228c",
+    "method": "Unity.Properties.Property<StyleMaterialDefinition, MaterialDefinition>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f228c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f2b84",
+    "method": "Unity.Properties.Property<StylePropertyName, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f2b84: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f347c",
+    "method": "Unity.Properties.Property<StylePropertyName, object>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f347c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f3d74",
+    "method": "Unity.Properties.Property<StyleRatio, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f3d74: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f466c",
+    "method": "Unity.Properties.Property<StyleRatio, Ratio>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f466c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f4f64",
+    "method": "Unity.Properties.Property<StyleRotate, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f4f64: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f585c",
+    "method": "Unity.Properties.Property<StyleRotate, Rotate>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f585c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f6154",
+    "method": "Unity.Properties.Property<StyleScale, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f6154: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f6a4c",
+    "method": "Unity.Properties.Property<StyleScale, Scale>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f6a4c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f7344",
+    "method": "Unity.Properties.Property<StyleTextAutoSize, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f7344: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f7c3c",
+    "method": "Unity.Properties.Property<StyleTextAutoSize, TextAutoSize>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f7c3c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f8534",
+    "method": "Unity.Properties.Property<StyleTextShadow, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f8534: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f8e2c",
+    "method": "Unity.Properties.Property<StyleTextShadow, TextShadow>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f8e2c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018f9724",
+    "method": "Unity.Properties.Property<StyleTransformOrigin, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018f9724: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fa01c",
+    "method": "Unity.Properties.Property<StyleTransformOrigin, TransformOrigin>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fa01c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fa914",
+    "method": "Unity.Properties.Property<StyleTranslate, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fa914: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fb20c",
+    "method": "Unity.Properties.Property<StyleTranslate, Translate>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fb20c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fbb04",
+    "method": "Unity.Properties.Property<TextAutoSize, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fbb04: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fc3fc",
+    "method": "Unity.Properties.Property<TextAutoSize, Length>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fc3fc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fccf4",
+    "method": "Unity.Properties.Property<TextShadow, Color>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fccf4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fd5ec",
+    "method": "Unity.Properties.Property<TextShadow, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fd5ec: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fdee4",
+    "method": "Unity.Properties.Property<TextShadow, Vector2>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fdee4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018fe7dc",
+    "method": "Unity.Properties.Property<TimeValue, Int32Enum>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018fe7dc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ff0d4",
+    "method": "Unity.Properties.Property<TimeValue, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ff0d4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "018ff9cc",
+    "method": "Unity.Properties.Property<TransformOrigin, Length>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 018ff9cc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "019002c4",
+    "method": "Unity.Properties.Property<TransformOrigin, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 019002c4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01900bbc",
+    "method": "Unity.Properties.Property<Translate, Length>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 01900bbc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "019014b4",
+    "method": "Unity.Properties.Property<Translate, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 019014b4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01901dac",
+    "method": "Unity.Properties.Property<Vector2, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 01901dac: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "019026a4",
+    "method": "Unity.Properties.Property<Vector2Int, int>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 019026a4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01902f9c",
+    "method": "Unity.Properties.Property<Vector3, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 01902f9c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01903894",
+    "method": "Unity.Properties.Property<Vector3Int, int>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 01903894: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0190418c",
+    "method": "Unity.Properties.Property<Vector4, float>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 0190418c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01904a84",
+    "method": "Unity.Properties.Property<__Il2CppFullySharedGenericType, __Il2CppFullySharedGenericType>$$DeclaredValueType",
+    "status": "FAILED: Exception while decompiling 01904a84: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01905d1c",
+    "method": "UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation<object>$$get_RequestedType",
+    "status": "FAILED: Exception while decompiling 01905d1c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01907ab4",
+    "method": "UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation<__Il2CppFullySharedGenericType>$$get_RequestedType",
+    "status": "FAILED: Exception while decompiling 01907ab4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01a955fc",
+    "method": "UnityEngine.Rendering.RenderPipelineAsset<object>$$get_pipelineType",
+    "status": "FAILED: Exception while decompiling 01a955fc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01a956a0",
+    "method": "UnityEngine.Rendering.RenderPipelineAsset<object>$$get_renderPipelineType",
+    "status": "FAILED: Exception while decompiling 01a956a0: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01e7b138",
+    "method": "UnityEngine.UIElements.BaseUxmlFactory<object, object>$$get_uxmlType",
+    "status": "FAILED: Exception while decompiling 01e7b138: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "01e7b2f4",
+    "method": "UnityEngine.UIElements.BaseUxmlFactory<__Il2CppFullySharedGenericType, object>$$get_uxmlType",
+    "status": "FAILED: Exception while decompiling 01e7b2f4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0235f3f8",
+    "method": "System.Linq.Expressions.Expression<object>$$get_TypeCore",
+    "status": "FAILED: Exception while decompiling 0235f3f8: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0235f438",
+    "method": "System.Linq.Expressions.Expression<object>$$get_PublicType",
+    "status": "FAILED: Exception while decompiling 0235f438: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0235f5fc",
+    "method": "System.Linq.Expressions.Expression<__Il2CppFullySharedGenericType>$$get_TypeCore",
+    "status": "FAILED: Exception while decompiling 0235f5fc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0235f63c",
+    "method": "System.Linq.Expressions.Expression<__Il2CppFullySharedGenericType>$$get_PublicType",
+    "status": "FAILED: Exception while decompiling 0235f63c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "027a30c4",
+    "method": "UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase<bool>$$UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.get_ResultType",
+    "status": "FAILED: Exception while decompiling 027a30c4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "027a4e14",
+    "method": "UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase<long>$$UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.get_ResultType",
+    "status": "FAILED: Exception while decompiling 027a4e14: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "027a6aa0",
+    "method": "UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase<object>$$UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.get_ResultType",
+    "status": "FAILED: Exception while decompiling 027a6aa0: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "029b37f0",
+    "method": "Lofelt.NiceVibrations.MMFPSCounter$$.cctor",
+    "status": "FAILED: Exception while decompiling 029b37f0: Response buffer size exceeded for: libil2cpp.so ",
+    "file": ""
+  },
+  {
+    "address": "02ae4da8",
+    "method": "System.Globalization.EncodingTable$$.cctor",
+    "status": "FAILED: Exception while decompiling 02ae4da8: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "02cb0ed8",
+    "method": "Newtonsoft.Json.Linq.JPropertyDescriptor$$get_ComponentType",
+    "status": "FAILED: Exception while decompiling 02cb0ed8: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02cb0f54",
+    "method": "Newtonsoft.Json.Linq.JPropertyDescriptor$$get_PropertyType",
+    "status": "FAILED: Exception while decompiling 02cb0f54: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02d3be04",
+    "method": "System.Linq.Expressions.LogicalBinaryExpression$$get_Type",
+    "status": "FAILED: Exception while decompiling 02d3be04: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02d630dc",
+    "method": "System.Linq.Expressions.LoopExpression$$get_Type",
+    "status": "FAILED: Exception while decompiling 02d630dc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02d660e8",
+    "method": "System.Linq.Expressions.ParameterExpression$$get_Type",
+    "status": "FAILED: Exception while decompiling 02d660e8: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02d66448",
+    "method": "System.Linq.Expressions.TypeBinaryExpression$$get_Type",
+    "status": "FAILED: Exception while decompiling 02d66448: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02d95a54",
+    "method": "System.Linq.Expressions.Interpreter.LightCompiler$$CompileNoLabelPush",
+    "status": "FAILED: Exception while decompiling 02d95a54: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "02d96fb8",
+    "method": "System.Linq.Expressions.Interpreter.LightCompiler.<>c$$<CompileNoLabelPush>b__101_0",
+    "status": "FAILED: Exception while decompiling 02d96fb8: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "02db2f40",
+    "method": "System.Dynamic.DynamicMetaObjectBinder$$get_ReturnType",
+    "status": "FAILED: Exception while decompiling 02db2f40: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02db8dc0",
+    "method": "System.Dynamic.GetMemberBinder$$get_ReturnType",
+    "status": "FAILED: Exception while decompiling 02db8dc0: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02db92e4",
+    "method": "System.Dynamic.SetMemberBinder$$get_ReturnType",
+    "status": "FAILED: Exception while decompiling 02db92e4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02de365c",
+    "method": "System.Data.AutoIncrementInt64$$get_DataType",
+    "status": "FAILED: Exception while decompiling 02de365c: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02de3c74",
+    "method": "System.Data.AutoIncrementBigInteger$$get_DataType",
+    "status": "FAILED: Exception while decompiling 02de3c74: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02e0a6d0",
+    "method": "System.Data.DataTable$$GetRowType",
+    "status": "FAILED: Exception while decompiling 02e0a6d0: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02e22af4",
+    "method": "System.Data.DataColumnPropertyDescriptor$$get_ComponentType",
+    "status": "FAILED: Exception while decompiling 02e22af4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02e2b264",
+    "method": "System.Data.DataRelationPropertyDescriptor$$get_ComponentType",
+    "status": "FAILED: Exception while decompiling 02e2b264: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02e2b2e0",
+    "method": "System.Data.DataRelationPropertyDescriptor$$get_PropertyType",
+    "status": "FAILED: Exception while decompiling 02e2b2e0: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "02ffc870",
+    "method": "System.Xml.Schema.XmlListConverter$$ChangeListType",
+    "status": "FAILED: Exception while decompiling 02ffc870: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "0300bcd8",
+    "method": "System.Xml.Schema.XsdBuilder$$.cctor",
+    "status": "FAILED: Exception while decompiling 0300bcd8: Response buffer size exceeded for: libil2cpp.so ",
+    "file": ""
+  },
+  {
+    "address": "03031360",
+    "method": "System.Xml.XmlReader$$get_ValueType",
+    "status": "FAILED: Exception while decompiling 03031360: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "030e39e8",
+    "method": "System.Xml.Schema.DatatypeImplementation$$get_ValueType",
+    "status": "FAILED: Exception while decompiling 030e39e8: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0314d2d8",
+    "method": "System.Text.RegularExpressions.RegexCharClass$$.cctor",
+    "status": "FAILED: Exception while decompiling 0314d2d8: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "0317ffcc",
+    "method": "System.ComponentModel.ByteConverter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 0317ffcc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "03181b60",
+    "method": "System.ComponentModel.CultureInfoConverter.CultureInfoMapper$$CreateMap",
+    "status": "FAILED: Exception while decompiling 03181b60: Response buffer size exceeded for: libil2cpp.so ",
+    "file": ""
+  },
+  {
+    "address": "03189eb4",
+    "method": "System.ComponentModel.DecimalConverter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 03189eb4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0318a8ec",
+    "method": "System.ComponentModel.DoubleConverter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 0318a8ec: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0318e354",
+    "method": "System.ComponentModel.Int16Converter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 0318e354: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0318e528",
+    "method": "System.ComponentModel.Int32Converter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 0318e528: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0318e6fc",
+    "method": "System.ComponentModel.Int64Converter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 0318e6fc: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "031951a4",
+    "method": "System.ComponentModel.SByteConverter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 031951a4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "03195380",
+    "method": "System.ComponentModel.SingleConverter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 03195380: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "03196900",
+    "method": "System.ComponentModel.UInt16Converter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 03196900: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "03196ad4",
+    "method": "System.ComponentModel.UInt32Converter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 03196ad4: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "03196ca8",
+    "method": "System.ComponentModel.UInt64Converter$$get_TargetType",
+    "status": "FAILED: Exception while decompiling 03196ca8: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "031a95b0",
+    "method": "System.ComponentModel.TypeDescriptor$$get_ComObjectType",
+    "status": "FAILED: Exception while decompiling 031a95b0: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "031a9624",
+    "method": "System.ComponentModel.TypeDescriptor$$get_InterfaceType",
+    "status": "FAILED: Exception while decompiling 031a9624: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "0332e37c",
+    "method": "UnityEngine.Rendering.ProbeReferenceVolume$$InitializeDebug",
+    "status": "FAILED: Exception while decompiling 0332e37c: Response buffer size exceeded for: libil2cpp.so ",
+    "file": ""
+  },
+  {
+    "address": "0332e39c",
+    "method": "UnityEngine.Rendering.ProbeReferenceVolume$$RegisterDebug",
+    "status": "FAILED: Exception while decompiling 0332e39c: Response buffer size exceeded for: libil2cpp.so ",
+    "file": ""
+  },
+  {
+    "address": "034c6238",
+    "method": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider$$GetDefaultType",
+    "status": "FAILED: Exception while decompiling 034c6238: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "034caf68",
+    "method": "UnityEngine.ResourceManagement.ResourceProviders.ResourceProviderBase$$GetDefaultType",
+    "status": "FAILED: Exception while decompiling 034caf68: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "03515338",
+    "method": "TMPro.TMP_Text$$ValidateHtmlTag",
+    "status": "FAILED: Exception while decompiling 03515338: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "03557414",
+    "method": "TMPro.TextMeshPro$$GenerateTextMesh",
+    "status": "FAILED: Exception while decompiling 03557414: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "03563b6c",
+    "method": "TMPro.TextMeshProUGUI$$GenerateTextMesh",
+    "status": "FAILED: Exception while decompiling 03563b6c: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "03646924",
+    "method": "UnityEngine.Rendering.RenderStateBlock$$Equals",
+    "status": "FAILED:  Low-level Error: Cannot properly adjust input varnodes",
+    "file": ""
+  },
+  {
+    "address": "036cae08",
+    "method": "UnityEngine.TextCore.RichTextTagParser.TagTypeInfo$$get_EqualityContract",
+    "status": "FAILED: Exception while decompiling 036cae08: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "036cb748",
+    "method": "UnityEngine.TextCore.RichTextTagParser.TagValue$$get_EqualityContract",
+    "status": "FAILED: Exception while decompiling 036cb748: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "036cc320",
+    "method": "UnityEngine.TextCore.RichTextTagParser.ParseError$$get_EqualityContract",
+    "status": "FAILED: Exception while decompiling 036cc320: Decompiler process died ",
+    "file": ""
+  },
+  {
+    "address": "037c9f90",
+    "method": "UnityEngine.UIElements.UIToolkitConverters$$RegisterBuiltInStyleConverters",
+    "status": "FAILED: Exception while decompiling 037c9f90: process: timeout ",
+    "file": ""
+  },
+  {
+    "address": "038dfaf8",
+    "method": "UnityEngine.UIElements.Experimental.Lerp$$Interpolate",
+    "status": "FAILED:  Low-level Error: Duplicate VariablePiece",
+    "file": ""
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1695"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "505"
+  },
+  "m_Name": "",
+  "deactivateGameObjectOnHide": 1,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7812"
+  },
+  "popup": {
+    "m_FileID": 0,
+    "m_PathID": "5603"
+  },
+  "boosterIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "9122"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10661"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10710"
+    }
+  ],
+  "boosterNameText": {
+    "m_FileID": 0,
+    "m_PathID": "8284"
+  },
+  "boosterInfoText": {
+    "m_FileID": 0,
+    "m_PathID": "8100"
+  },
+  "currencyCostText": {
+    "m_FileID": 0,
+    "m_PathID": "8353"
+  },
+  "purchaseAmountWithCurrencyText": {
+    "m_FileID": 0,
+    "m_PathID": "8402"
+  },
+  "rewardedCapText": {
+    "m_FileID": 0,
+    "m_PathID": "8310"
+  },
+  "buyWithCurrencyButton": {
+    "m_FileID": 0,
+    "m_PathID": "9860"
+  },
+  "buyWithRewardedAdButton": {
+    "m_FileID": 0,
+    "m_PathID": "9702"
+  },
+  "cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": "10318"
+  },
+  "rewardedArea": {
+    "m_FileID": 0,
+    "m_PathID": "303"
+  },
+  "rewardedCapArea": {
+    "m_FileID": 0,
+    "m_PathID": "331"
+  },
+  "rewardedLeftIconBg": {
+    "m_FileID": 0,
+    "m_PathID": "9060"
+  }
+}

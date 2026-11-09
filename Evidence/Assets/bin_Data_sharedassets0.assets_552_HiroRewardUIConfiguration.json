@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2699"
+  },
+  "m_Name": "HiroRewardUIConfiguration",
+  "data": [
+    {
+      "ID": "Coins",
+      "Type": 0,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "285"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "NoAds",
+      "Type": 0,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "318"
+      },
+      "UseIDAsLabel": 1
+    },
+    {
+      "ID": "CubePass",
+      "Type": 0,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "374"
+      },
+      "UseIDAsLabel": 1
+    },
+    {
+      "ID": "Level",
+      "Type": 0,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "172"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "Round",
+      "Type": 0,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "172"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "Magnet",
+      "Type": 1,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "350"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "MagicWand",
+      "Type": 1,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "430"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "Bounce",
+      "Type": 1,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "94"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "Vacuum",
+      "Type": 1,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "384"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "ExtraSlot",
+      "Type": 1,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "393"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "Lives",
+      "Type": 2,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "442"
+      },
+      "UseIDAsLabel": 0
+    },
+    {
+      "ID": "Lives",
+      "Type": 3,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": "236"
+      },
+      "UseIDAsLabel": 0
+    }
+  ],
+  "fallbackData": {
+    "ID": "StarterBundle",
+    "Type": 0,
+    "Icon": {
+      "m_FileID": 0,
+      "m_PathID": "276"
+    },
+    "UseIDAsLabel": 1
+  }
+}

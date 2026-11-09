@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1057"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "595"
+  },
+  "m_Name": "",
+  "burst": {
+    "m_FileID": 0,
+    "m_PathID": "4073"
+  },
+  "currentCheckpoint": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "progress": {
+    "m_FileID": 0,
+    "m_PathID": "4146"
+  },
+  "bonusBankIcon": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "bonusBankAmount": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "slider": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  }
+}

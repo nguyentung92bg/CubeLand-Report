@@ -1,0 +1,114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1323"
+  },
+  "m_Name": "BulletMovementSettings",
+  "normalCurveDuration": 0.23999999463558197,
+  "normalMoveSpeedCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.2370564937591553,
+        "outSlope": 2.2370564937591553,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06375227868556976
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.438314437866211,
+        "outSlope": 2.438314437866211,
+        "weightedMode": 0,
+        "inWeight": 0.03096538782119751,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "winCurveDuration": 0.07999999821186066,
+  "winMoveSpeedCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.2370564937591553,
+        "outSlope": 2.2370564937591553,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06375227868556976
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.438314437866211,
+        "outSlope": 2.438314437866211,
+        "weightedMode": 0,
+        "inWeight": 0.03096538782119751,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "normalScaleSpeedCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "winScaleSpeedCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

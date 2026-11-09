@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1137"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1501"
+  },
+  "m_Name": "",
+  "coinButton": {
+    "m_FileID": 0,
+    "m_PathID": "10158"
+  },
+  "coinButtonAddIcon": {
+    "m_FileID": 0,
+    "m_PathID": "2621"
+  },
+  "heartButton": {
+    "m_FileID": 0,
+    "m_PathID": "10165"
+  },
+  "heartButtonAddIcon": {
+    "m_FileID": 0,
+    "m_PathID": "2457"
+  },
+  "heartCountText": {
+    "m_FileID": 0,
+    "m_PathID": "8360"
+  },
+  "heartRemainingTimeText": {
+    "m_FileID": 0,
+    "m_PathID": "8243"
+  },
+  "heartIcon": {
+    "m_FileID": 0,
+    "m_PathID": "10824"
+  },
+  "heartNormalSprite": {
+    "m_FileID": 6,
+    "m_PathID": "442"
+  },
+  "heartInfiniteSprite": {
+    "m_FileID": 6,
+    "m_PathID": "236"
+  }
+}

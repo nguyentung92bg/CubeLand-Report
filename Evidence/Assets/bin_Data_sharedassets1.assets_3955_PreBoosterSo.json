@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2262"
+  },
+  "m_Name": "PreBoosterSo",
+  "preBoosterData": [
+    {
+      "index": 0,
+      "boosterType": 10,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "133"
+      },
+      "name": "Meteor Shower",
+      "info": "Blast your way ahead!",
+      "boosterCost": 600,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 20
+    },
+    {
+      "index": 1,
+      "boosterType": 11,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "393"
+      },
+      "name": "Bonus Slot",
+      "info": "Play with a bonus slot!",
+      "boosterCost": 1900,
+      "purchaseAmountWithCurrency": 1,
+      "unlockLevel": 25
+    }
+  ]
+}

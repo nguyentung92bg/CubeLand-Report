@@ -1,0 +1,158 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2146"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2355"
+  },
+  "m_Name": "",
+  "<Leaderboard>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "8815"
+  },
+  "<ResultsPanel>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "9257"
+  },
+  "<Tutorial>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "10394"
+  },
+  "<Info>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "8657"
+  },
+  "showLeaderboardButton": {
+    "m_FileID": 0,
+    "m_PathID": "10297"
+  },
+  "playerRankChangedNotification": {
+    "m_FileID": 0,
+    "m_PathID": "2386"
+  },
+  "botNameGenerator": {
+    "m_FileID": 2,
+    "m_PathID": "3960"
+  },
+  "botConfiguration": [
+    {
+      "Tier": 1,
+      "Count": 17,
+      "PlayTimes": [
+        4
+      ]
+    },
+    {
+      "Tier": 2,
+      "Count": 12,
+      "PlayTimes": [
+        3,
+        4
+      ]
+    },
+    {
+      "Tier": 3,
+      "Count": 10,
+      "PlayTimes": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "Tier": 4,
+      "Count": 8,
+      "PlayTimes": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "Tier": 5,
+      "Count": 2,
+      "PlayTimes": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8333"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8199"
+    }
+  ],
+  "winStreakScoreMultipliers": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    10
+  ],
+  "botTiers": [
+    {
+      "Type": 1,
+      "DailyLevelCountRange": {
+        "x": 1,
+        "y": 10
+      },
+      "LevelWinChance": 0.20000000298023224
+    },
+    {
+      "Type": 2,
+      "DailyLevelCountRange": {
+        "x": 11,
+        "y": 20
+      },
+      "LevelWinChance": 0.30000001192092896
+    },
+    {
+      "Type": 3,
+      "DailyLevelCountRange": {
+        "x": 21,
+        "y": 35
+      },
+      "LevelWinChance": 0.5
+    },
+    {
+      "Type": 4,
+      "DailyLevelCountRange": {
+        "x": 36,
+        "y": 60
+      },
+      "LevelWinChance": 0.699999988079071
+    },
+    {
+      "Type": 5,
+      "DailyLevelCountRange": {
+        "x": 71,
+        "y": 75
+      },
+      "LevelWinChance": 0.800000011920929
+    }
+  ],
+  "rewardsSo": {
+    "m_FileID": 2,
+    "m_PathID": "3964"
+  },
+  "alternateRewardsSo": {
+    "m_FileID": 2,
+    "m_PathID": "3962"
+  },
+  "themeSo": {
+    "m_FileID": 2,
+    "m_PathID": "3963"
+  }
+}

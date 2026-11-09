@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "355"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1355"
+  },
+  "m_Name": "",
+  "metaProgressionSo": {
+    "m_FileID": 2,
+    "m_PathID": "3965"
+  },
+  "metaProgressionStageCityPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4040"
+  },
+  "metaProgressionStageRewardPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4512"
+  },
+  "stageEndPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "3551"
+  },
+  "backgroundScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": "10856"
+  },
+  "contentRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": "5639"
+  },
+  "contentVerticalLayoutGroup": {
+    "m_FileID": 0,
+    "m_PathID": "9555"
+  },
+  "backgroundTapListener": {
+    "m_FileID": 0,
+    "m_PathID": "9166"
+  },
+  "artworkTapListener": {
+    "m_FileID": 0,
+    "m_PathID": "9308"
+  },
+  "rewardParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8629"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8650"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9827"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9755"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9446"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10720"
+    }
+  ],
+  "confetti": {
+    "m_FileID": 0,
+    "m_PathID": "9395"
+  },
+  "generatedStages": []
+}

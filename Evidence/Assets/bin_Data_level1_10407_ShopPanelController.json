@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "212"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1072"
+  },
+  "m_Name": "",
+  "carouselBundleSos": [
+    {
+      "m_FileID": 2,
+      "m_PathID": "3989"
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": "3979"
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": "3978"
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": "3983"
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": "3991"
+    }
+  ],
+  "postNoAdsBundleSos": [
+    {
+      "m_FileID": 2,
+      "m_PathID": "3982"
+    }
+  ],
+  "seasonPassBundleSos": {
+    "m_FileID": 2,
+    "m_PathID": "3984"
+  },
+  "noAdsSo": {
+    "m_FileID": 6,
+    "m_PathID": "568"
+  },
+  "gemPackSo": {
+    "m_FileID": 2,
+    "m_PathID": "3981"
+  },
+  "shopPopup": {
+    "m_FileID": 0,
+    "m_PathID": "5940"
+  },
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "8688"
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": "9288"
+  },
+  "carouselScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": "9183"
+  },
+  "carouselPoints": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "10654"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10806"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9007"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8560"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10022"
+    }
+  ],
+  "carouselPointActiveColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.8274509906768799
+  },
+  "carouselPointInactiveColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.5882353186607361
+  }
+}

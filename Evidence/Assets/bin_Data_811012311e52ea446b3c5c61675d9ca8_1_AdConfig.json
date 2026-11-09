@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2348"
+  },
+  "m_Name": "AdConfig",
+  "<IsEnabled>k__BackingField": 1,
+  "<DebugMode>k__BackingField": 0,
+  "<AutoInitialize>k__BackingField": 1,
+  "isNeftaEnabled": 1,
+  "androidData": {
+    "InterstitialAdUnitId": "40762ec90fd6c39e",
+    "BannerAdUnitId": "2f3ae384121233e7",
+    "RewardedAdUnitId": "713aaf03435ef864",
+    "NeftaInterstitialAdUnitIdA": "d073823464bc092f",
+    "NeftaInterstitialAdUnitIdB": "6caac7ab6ea04e89",
+    "NeftaRewardedAdUnitIdA": "b6c38b381b6612ad",
+    "NeftaRewardedAdUnitIdB": "6b566acff837207e",
+    "NeftaAppId": "5658770986237952"
+  },
+  "<InterstitialAdEnabled>k__BackingField": 1,
+  "<ShowInterstitialWhenLevelEnds>k__BackingField": 0,
+  "<InterstitialFirstAllowedLevel>k__BackingField": 20,
+  "<InterstitialInitialCooldown>k__BackingField": 30.0,
+  "<InterstitialRegularCooldown>k__BackingField": 90.0,
+  "<AutoShowInterstitialAfterCooldown>k__BackingField": 0,
+  "<BannerAdEnabled>k__BackingField": 0,
+  "<ShowBannerAtStart>k__BackingField": 0,
+  "<BannerRefreshInterval>k__BackingField": 0.0,
+  "<BannerBackgroundColor>k__BackingField": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "<RewardedAdEnabled>k__BackingField": 1
+}

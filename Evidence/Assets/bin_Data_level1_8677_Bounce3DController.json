@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1390"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "403"
+  },
+  "m_Name": "",
+  "visual": {
+    "m_FileID": 0,
+    "m_PathID": "2482"
+  },
+  "boosterType": 3,
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": "2926"
+  }
+}

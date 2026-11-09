@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2369"
+  },
+  "m_Name": "NoAds",
+  "iapData": {
+    "productId": "iap_noads_cubeblast",
+    "adjustKey": "2h0fcc"
+  },
+  "discountAmount": 0,
+  "title": "NO-ADS",
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": "370"
+  },
+  "shopPanelNoAdsItem": {
+    "m_FileID": 0,
+    "m_PathID": "577"
+  }
+}

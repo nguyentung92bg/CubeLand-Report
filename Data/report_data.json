@@ -1,0 +1,571 @@
+{
+  "stats": {
+    "levels": 850,
+    "levelBundles": 170,
+    "difficulty": {
+      "Normal": 600,
+      "Hard": 167,
+      "VeryHard": 83
+    },
+    "mechanics": {
+      "LargeVoxelData": 41,
+      "DoubleLargeVoxelData": 9,
+      "IceWrapperData": 38,
+      "GiftWrapperData": 25,
+      "PlaypenData": 27,
+      "ShrinkingCoverData": 10,
+      "BombData": 0,
+      "ColorBoxData": 10,
+      "ShieldData": 0,
+      "FlyingPiggyData": 0,
+      "HiddenChestData": 0
+    },
+    "boosters": 7,
+    "levelIcons": 850,
+    "loop": 689,
+    "meteor": 576,
+    "uniqueHashes": 731,
+    "catalogReferences": 850
+  },
+  "boosters": [
+    {
+      "index": 0,
+      "boosterType": 1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "350"
+      },
+      "name": "Magnet",
+      "info": "Select any shooter!",
+      "boosterCost": 600,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 4,
+      "phase": "Trong màn"
+    },
+    {
+      "index": 1,
+      "boosterType": 2,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "430"
+      },
+      "name": "Magic Wand",
+      "info": "Shuffle the shooters!",
+      "boosterCost": 300,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 6,
+      "phase": "Trong màn"
+    },
+    {
+      "index": 2,
+      "boosterType": 3,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "94"
+      },
+      "name": "Bounce",
+      "info": "Select a shooter to free a slot!",
+      "boosterCost": 700,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 8,
+      "phase": "Trong màn"
+    },
+    {
+      "index": 3,
+      "boosterType": 4,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "384"
+      },
+      "name": "Vacuum",
+      "info": "Pick a color to vacuum!",
+      "boosterCost": 1900,
+      "purchaseAmountWithCurrency": 1,
+      "unlockLevel": 10,
+      "phase": "Trong màn"
+    },
+    {
+      "index": 4,
+      "boosterType": 9,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "393"
+      },
+      "name": "Extra Slot",
+      "info": "Play with an extra slot!",
+      "boosterCost": 1900,
+      "purchaseAmountWithCurrency": 1,
+      "unlockLevel": 12,
+      "phase": "Trong màn"
+    },
+    {
+      "index": 0,
+      "boosterType": 10,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "133"
+      },
+      "name": "Meteor Shower",
+      "info": "Blast your way ahead!",
+      "boosterCost": 600,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 20,
+      "phase": "Trước màn"
+    },
+    {
+      "index": 1,
+      "boosterType": 11,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "393"
+      },
+      "name": "Bonus Slot",
+      "info": "Play with a bonus slot!",
+      "boosterCost": 1900,
+      "purchaseAmountWithCurrency": 1,
+      "unlockLevel": 25,
+      "phase": "Trước màn"
+    }
+  ],
+  "remote": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": "460"
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": "400"
+    },
+    "m_Name": "",
+    "remoteIsComplementaryBoosterTutorialActive": {
+      "m_FileID": 2,
+      "m_PathID": "554"
+    },
+    "remoteIsRewardedActivationCheckByCoinAmount": {
+      "m_FileID": 2,
+      "m_PathID": "555"
+    },
+    "remoteShopPopularBadgeIndex": {
+      "m_FileID": 2,
+      "m_PathID": "557"
+    },
+    "remoteShopBestOfferBadgeIndex": {
+      "m_FileID": 2,
+      "m_PathID": "556"
+    },
+    "remoteRateUsAndroid": {
+      "m_FileID": 2,
+      "m_PathID": "560"
+    },
+    "remoteRateUsIos": {
+      "m_FileID": 2,
+      "m_PathID": "561"
+    },
+    "AdsConfig": {
+      "remoteKey": "AdsConfig",
+      "banner": {
+        "enabledLevel": 999999
+      },
+      "interstitial": {
+        "enabledLevel": 20,
+        "timerSeconds": 90,
+        "timerOverrides": []
+      },
+      "rewarded": {
+        "dailyCap": 5,
+        "capStartLevel": 54,
+        "capOverrides": [],
+        "enabledLevels": {
+          "life": 1,
+          "boosters": 1,
+          "playOn": 1,
+          "levelUp": 11
+        }
+      }
+    },
+    "IsAlternateCrownTournamentRewardEnabled": {
+      "remoteKey": "IsAlternateCrownTournamentRewardEnabled",
+      "defaultValue": 0
+    },
+    "IsIAPUser": {
+      "remoteKey": "IsIAPUser",
+      "defaultValue": 0
+    },
+    "IsLevelStartMotionEnabled": {
+      "remoteKey": "IsLevelStartMotionEnabled",
+      "defaultValue": 0
+    },
+    "IsLossAversionEnabled": {
+      "remoteKey": "IsLossAversionEnabled",
+      "defaultValue": 0
+    },
+    "IsOfflinePlayAllowed": {
+      "remoteKey": "IsOfflinePlayAllowed",
+      "defaultValue": 1
+    },
+    "IsConsecutivePlayOnEnabled": {
+      "remoteKey": "IsConsecutivePlayOnEnabled",
+      "defaultValue": 0
+    },
+    "AdBreakConfig": {
+      "remoteKey": "AdBreakConfig",
+      "mod": 0,
+      "duration": 2,
+      "skipIn": 1
+    },
+    "LevelUpCoinReward": {
+      "remoteKey": "LevelUpCoinReward",
+      "normal": 30,
+      "hard": 30,
+      "superHard": 30
+    },
+    "LevelUpDifficultyMultiplier": {
+      "remoteKey": "LevelUpDifficultyMultiplier",
+      "normal": 1,
+      "hard": 2,
+      "superHard": 5
+    },
+    "AppUpdate": {
+      "remoteKey": "AppUpdate",
+      "checkByRoundSystem": 1,
+      "closeButtonAvailable": 1,
+      "releasedAndroidVersion": "",
+      "releasedIOSVersion": "",
+      "message": "Update to play new levels!",
+      "androidUrl": "market://details?id=com.rotatelab.cubeblast",
+      "iosUrl": "itms-apps://apps.apple.com/us/app/cube-land-puzzle-game/id6757154335"
+    },
+    "FailCountdown": {
+      "remoteKey": "FailCountdown",
+      "defaultValue": 3
+    },
+    "SeasonalOffer": {
+      "remoteKey": "SeasonalOffer",
+      "index": 0,
+      "startTimeInSeconds": 0,
+      "endTimeInSeconds": 0,
+      "discountAmount": 0,
+      "version": 0
+    },
+    "LevelVersion": {
+      "remoteKey": "LevelVersion",
+      "defaultValue": 6
+    },
+    "CloudRushLevel": {
+      "remoteKey": "CloudRushLevel",
+      "defaultValue": 999999
+    },
+    "NeftaConfig": {
+      "remoteKey": "NeftaConfig",
+      "status": 1,
+      "cohort": "none"
+    },
+    "IsEcpmAnyTrackEnabled": {
+      "remoteKey": "IsEcpmAnyTrackEnabled",
+      "defaultValue": 0
+    },
+    "OfferPopupConfig": {
+      "remoteKey": "OfferPopupConfig",
+      "starter": {
+        "homeEnabledLevel": 25,
+        "shopEnabledLevel": 25,
+        "mod": 1,
+        "limit": 1,
+        "limitResetHours": 876000,
+        "runOnSessionStart": 0,
+        "sessionStartIntervalHours": 876000,
+        "runOnShopExit": 0,
+        "runOnHeartZero": 0
+      },
+      "noAds": {
+        "homeEnabledLevel": 21,
+        "shopEnabledLevel": 21,
+        "mod": 1,
+        "limit": 1,
+        "limitResetHours": 876000,
+        "runOnSessionStart": 0,
+        "sessionStartIntervalHours": 876000,
+        "runOnShopExit": 0,
+        "runOnHeartZero": 0
+      },
+      "noAdsBundle": {
+        "homeEnabledLevel": 999999,
+        "shopEnabledLevel": 21,
+        "mod": 1,
+        "limit": 1,
+        "limitResetHours": 876000,
+        "runOnSessionStart": 0,
+        "sessionStartIntervalHours": 876000,
+        "runOnShopExit": 0,
+        "runOnHeartZero": 0
+      },
+      "chainOffer": {
+        "homeEnabledLevel": 37,
+        "shopEnabledLevel": 999999,
+        "mod": 1,
+        "limit": 1,
+        "limitResetHours": 876000,
+        "runOnSessionStart": 0,
+        "sessionStartIntervalHours": 876000,
+        "runOnShopExit": 0,
+        "runOnHeartZero": 0
+      }
+    },
+    "SuperHardOfferConfig": {
+      "remoteKey": "SuperHardOfferConfig",
+      "enabledLevel": 999999,
+      "mod": 1,
+      "limit": 1,
+      "runOnPlayButton": 1
+    },
+    "JewelConfig": {
+      "remoteKey": "JewelConfig",
+      "unlockLevel": 999999,
+      "visibleLevel": 999999,
+      "rewardSo": 0
+    },
+    "NoAdsBundleConfig": {
+      "remoteKey": "NoAdsBundleConfig",
+      "defaults": {
+        "productId": "iap_noads_bundle_cubeblast",
+        "adjustKey": "u45ovc",
+        "elements": [
+          {
+            "type": "NoAds",
+            "amount": 1,
+            "info": ""
+          },
+          {
+            "type": "Coin",
+            "amount": 2000,
+            "info": "2K Coins"
+          },
+          {
+            "type": "Booster1",
+            "amount": 1,
+            "info": "x1"
+          },
+          {
+            "type": "Booster2",
+            "amount": 1,
+            "info": "x1"
+          },
+          {
+            "type": "Booster3",
+            "amount": 1,
+            "info": "x1"
+          }
+        ]
+      },
+      "icons": [
+        {
+          "type": 7,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "370"
+          }
+        },
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "121"
+          }
+        },
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "236"
+          }
+        },
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "350"
+          }
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "430"
+          }
+        },
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "94"
+          }
+        },
+        {
+          "type": 4,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "384"
+          }
+        },
+        {
+          "type": 9,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "393"
+          }
+        }
+      ],
+      "ecpmOverrides": []
+    },
+    "FailProofOfferConfig": {
+      "remoteKey": "FailProofOfferConfig",
+      "defaults": {
+        "productId": "iap_fail_proof_offer_cubeblast",
+        "adjustKey": "o9waom",
+        "elements": [
+          {
+            "type": "Heart",
+            "amount": -60,
+            "info": "1h"
+          },
+          {
+            "type": "Booster1",
+            "amount": 1,
+            "info": "x1"
+          },
+          {
+            "type": "Booster2",
+            "amount": 1,
+            "info": "x1"
+          },
+          {
+            "type": "Booster3",
+            "amount": 1,
+            "info": "x1"
+          },
+          {
+            "type": "Coin",
+            "amount": 1000,
+            "info": "1K Coins"
+          }
+        ]
+      },
+      "icons": [
+        {
+          "type": 7,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "370"
+          }
+        },
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "121"
+          }
+        },
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "236"
+          }
+        },
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "350"
+          }
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "430"
+          }
+        },
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "94"
+          }
+        },
+        {
+          "type": 4,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "384"
+          }
+        },
+        {
+          "type": 9,
+          "icon": {
+            "m_FileID": 2,
+            "m_PathID": "393"
+          }
+        }
+      ],
+      "ecpmOverrides": []
+    },
+    "MidGameLeaderboardConfig": {
+      "remoteKey": "MidGameLeaderboardConfig",
+      "pirateDays": ""
+    }
+  },
+  "mechanics": [
+    "LargeVoxelData",
+    "DoubleLargeVoxelData",
+    "IceWrapperData",
+    "GiftWrapperData",
+    "PlaypenData",
+    "ShrinkingCoverData",
+    "BombData",
+    "ColorBoxData",
+    "ShieldData",
+    "FlyingPiggyData",
+    "HiddenChestData"
+  ],
+  "colors": {
+    "0": "None",
+    "1": "Beige",
+    "2": "Black",
+    "3": "Blue",
+    "4": "Brown",
+    "5": "DarkGreen",
+    "6": "Green",
+    "7": "Orange",
+    "8": "Pink",
+    "9": "Purple",
+    "10": "Red",
+    "11": "Turquoise",
+    "12": "Yellow",
+    "13": "White",
+    "14": "Gray",
+    "15": "DarkGray",
+    "16": "Lilac",
+    "17": "Champagne",
+    "18": "DarkRed",
+    "19": "Greenish",
+    "20": "Orangish",
+    "21": "Golden",
+    "22": "Rainbow"
+  },
+  "currencyNames": {
+    "0": "Coin",
+    "1": "Magnet",
+    "2": "Magic Wand",
+    "3": "Bounce",
+    "4": "Vacuum",
+    "5": "Heart",
+    "6": "Jewel",
+    "7": "No Ads",
+    "8": "Daily Quest Star",
+    "9": "Extra Slot",
+    "10": "Meteor Shower",
+    "11": "Bonus Slot"
+  }
+}

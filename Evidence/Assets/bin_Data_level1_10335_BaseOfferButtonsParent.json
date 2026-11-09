@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1236"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2413"
+  },
+  "m_Name": "",
+  "topOnePiece": {
+    "m_FileID": 0,
+    "m_PathID": "6653"
+  },
+  "leftGrid": {
+    "m_FileID": 0,
+    "m_PathID": "5914"
+  },
+  "rightGrid": {
+    "m_FileID": 0,
+    "m_PathID": "5723"
+  },
+  "leftMenuItems": [],
+  "rightMenuItems": []
+}

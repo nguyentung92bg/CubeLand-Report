@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1185"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "440"
+  },
+  "m_Name": "",
+  "freeReward": {
+    "m_FileID": 0,
+    "m_PathID": "4197"
+  },
+  "paidReward": {
+    "m_FileID": 0,
+    "m_PathID": "4538"
+  },
+  "indexBg": {
+    "m_FileID": 0,
+    "m_PathID": "4463"
+  },
+  "indexText": {
+    "m_FileID": 0,
+    "m_PathID": "4419"
+  },
+  "freeSprite": {
+    "m_FileID": 54,
+    "m_PathID": "119"
+  },
+  "collectedSprite": {
+    "m_FileID": 54,
+    "m_PathID": "291"
+  },
+  "uncollectedSprite": {
+    "m_FileID": 54,
+    "m_PathID": "414"
+  },
+  "currentCheckpointHighlighter": {
+    "m_FileID": 0,
+    "m_PathID": "1293"
+  }
+}

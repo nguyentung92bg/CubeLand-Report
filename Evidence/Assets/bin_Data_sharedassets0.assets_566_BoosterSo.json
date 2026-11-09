@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2324"
+  },
+  "m_Name": "BoosterSo",
+  "boosterData": [
+    {
+      "index": 0,
+      "boosterType": 1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "350"
+      },
+      "name": "Magnet",
+      "info": "Select any shooter!",
+      "boosterCost": 600,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 4
+    },
+    {
+      "index": 1,
+      "boosterType": 2,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "430"
+      },
+      "name": "Magic Wand",
+      "info": "Shuffle the shooters!",
+      "boosterCost": 300,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 6
+    },
+    {
+      "index": 2,
+      "boosterType": 3,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "94"
+      },
+      "name": "Bounce",
+      "info": "Select a shooter to free a slot!",
+      "boosterCost": 700,
+      "purchaseAmountWithCurrency": 3,
+      "unlockLevel": 8
+    },
+    {
+      "index": 3,
+      "boosterType": 4,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "384"
+      },
+      "name": "Vacuum",
+      "info": "Pick a color to vacuum!",
+      "boosterCost": 1900,
+      "purchaseAmountWithCurrency": 1,
+      "unlockLevel": 10
+    },
+    {
+      "index": 4,
+      "boosterType": 9,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": "393"
+      },
+      "name": "Extra Slot",
+      "info": "Play with an extra slot!",
+      "boosterCost": 1900,
+      "purchaseAmountWithCurrency": 1,
+      "unlockLevel": 12
+    }
+  ]
+}

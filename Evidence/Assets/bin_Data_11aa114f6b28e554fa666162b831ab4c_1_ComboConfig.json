@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2585"
+  },
+  "m_Name": "ComboConfig",
+  "comboEnabled": 0,
+  "startingLevel": 0,
+  "maxLevel": 3,
+  "idleResetTimeout": 5.0,
+  "referenceBlasterCount": 5.0,
+  "referenceWindowSeconds": 2.0,
+  "voxelsPerBlasterPerSecond": 28.5,
+  "thresholdIncreasePerLevel": 0.0,
+  "drainPerSecond": 30.0,
+  "drainIncreasePerLevel": 0.0,
+  "drainGracePeriod": 0.5,
+  "dockFireDuration": 5.0
+}

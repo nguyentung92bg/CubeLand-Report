@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "254"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "190"
+  },
+  "m_Name": "",
+  "headerText": {
+    "m_FileID": 0,
+    "m_PathID": "1582"
+  },
+  "messageText": {
+    "m_FileID": 0,
+    "m_PathID": "1568"
+  },
+  "discardButton": {
+    "m_FileID": 0,
+    "m_PathID": "1894"
+  },
+  "claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "1791"
+  },
+  "claimButtonText": {
+    "m_FileID": 0,
+    "m_PathID": "1533"
+  },
+  "rewardEntryContainer": {
+    "m_FileID": 0,
+    "m_PathID": "1815"
+  }
+}

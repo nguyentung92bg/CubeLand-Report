@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1874"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1035"
+  },
+  "m_Name": "",
+  "vacuum": {
+    "m_FileID": 0,
+    "m_PathID": "2762"
+  },
+  "hoseTip": {
+    "m_FileID": 0,
+    "m_PathID": "2839"
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": "2929"
+  },
+  "skinnedMeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2968"
+  },
+  "hoseIK": {
+    "m_FileID": 0,
+    "m_PathID": "10599"
+  },
+  "vacuumParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2993"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2992"
+    }
+  ],
+  "vacuumSmokeParticlesStartPos": {
+    "m_FileID": 0,
+    "m_PathID": "2817"
+  },
+  "idleRotationSpeed": -20.0,
+  "vacuumingRotationSpeed": -360.0
+}

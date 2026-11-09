@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "837"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "967"
+  },
+  "m_Name": "",
+  "<Leaderboard>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "10852"
+  },
+  "<ResultsPanel>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "8537"
+  },
+  "<Tutorial>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "9636"
+  },
+  "<Info>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "10224"
+  },
+  "showLeaderboardButton": {
+    "m_FileID": 0,
+    "m_PathID": "9667"
+  },
+  "playerRankChangedNotification": {
+    "m_FileID": 0,
+    "m_PathID": "1139"
+  },
+  "botNameGenerator": {
+    "m_FileID": 2,
+    "m_PathID": "3960"
+  },
+  "botConfiguration": [
+    {
+      "Tier": 3,
+      "Count": 7,
+      "PlayTimes": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "Tier": 4,
+      "Count": 7,
+      "PlayTimes": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "Tier": 5,
+      "Count": 5,
+      "PlayTimes": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8449"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8305"
+    }
+  ],
+  "botTiers": [
+    {
+      "Type": 3,
+      "DailyScoreRange": {
+        "x": 20,
+        "y": 30
+      }
+    },
+    {
+      "Type": 4,
+      "DailyScoreRange": {
+        "x": 30,
+        "y": 40
+      }
+    },
+    {
+      "Type": 5,
+      "DailyScoreRange": {
+        "x": 40,
+        "y": 60
+      }
+    }
+  ],
+  "rewardsSo": {
+    "m_FileID": 2,
+    "m_PathID": "3961"
+  },
+  "scoreIcon": {
+    "m_FileID": 2,
+    "m_PathID": "992"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1877"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1254"
+  },
+  "m_Name": "",
+  "rewardClaimStagger": 0.5,
+  "title": {
+    "m_FileID": 0,
+    "m_PathID": "8121"
+  },
+  "checkMark": {
+    "m_FileID": 0,
+    "m_PathID": "6930"
+  },
+  "rewardParent": {
+    "m_FileID": 0,
+    "m_PathID": "6854"
+  },
+  "singleRewardPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4003"
+  },
+  "chestPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4621"
+  },
+  "dayBg": {
+    "m_FileID": 0,
+    "m_PathID": "9116"
+  },
+  "passedDays": {
+    "m_FileID": 2,
+    "m_PathID": "854"
+  },
+  "currentDay": {
+    "m_FileID": 2,
+    "m_PathID": "773"
+  },
+  "nextDays": {
+    "m_FileID": 2,
+    "m_PathID": "1041"
+  },
+  "pin": {
+    "m_FileID": 0,
+    "m_PathID": "9345"
+  },
+  "passedPin": {
+    "m_FileID": 2,
+    "m_PathID": "865"
+  },
+  "currentPin": {
+    "m_FileID": 2,
+    "m_PathID": "1029"
+  }
+}

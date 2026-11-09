@@ -1,0 +1,215 @@
+{
+  "root": "D:\\APK Decompiler\\AssetRipper_win_x64\\temp\\9d3a\\a0a1ee5d\\assets",
+  "unity": "6000.3.21f1",
+  "bundles": 171,
+  "types": {
+    "Sprite": 696,
+    "Texture2D": 1255,
+    "AssetBundle": 171,
+    "MonoScript": 2912,
+    "MonoBehaviour": 5845,
+    "Material": 531,
+    "Shader": 118,
+    "GameObject": 4685,
+    "CanvasRenderer": 3285,
+    "RectTransform": 4067,
+    "Canvas": 23,
+    "TextAsset": 8,
+    "Font": 5,
+    "Mesh": 121,
+    "PlayerSettings": 1,
+    "InputManager": 1,
+    "TagManager": 1,
+    "AudioManager": 1,
+    "ScriptMapper": 1,
+    "MonoManager": 1,
+    "GraphicsSettings": 1,
+    "TimeManager": 1,
+    "DelayedCallManager": 1,
+    "PhysicsManager": 1,
+    "BuildSettings": 1,
+    "QualitySettings": 1,
+    "ResourceManager": 1,
+    "NavMeshProjectSettings": 1,
+    "Physics2DSettings": 1,
+    "RuntimeInitializeOnLoadManager": 1,
+    "StreamingManager": 1,
+    "VFXManager": 1,
+    "Unknown (655991488)": 1,
+    "PreloadData": 3,
+    "ComputeShader": 11,
+    "Transform": 618,
+    "RenderSettings": 2,
+    "LightmapSettings": 2,
+    "NavMeshSettings": 2,
+    "CanvasGroup": 191,
+    "PositionConstraint": 10,
+    "ScaleConstraint": 1,
+    "Camera": 3,
+    "MeshRenderer": 131,
+    "MeshFilter": 120,
+    "AudioListener": 1,
+    "AudioSource": 5,
+    "Animator": 109,
+    "Light": 5,
+    "SkinnedMeshRenderer": 20,
+    "ParticleSystem": 227,
+    "ParticleSystemRenderer": 227,
+    "SpriteRenderer": 6,
+    "VideoPlayer": 2,
+    "VideoClip": 22,
+    "SpriteAtlas": 7,
+    "AnimationClip": 107,
+    "AudioClip": 35,
+    "RenderTexture": 1,
+    "AnimatorController": 45,
+    "AnimatorOverrideController": 2,
+    "BoxCollider": 3,
+    "TrailRenderer": 1
+  },
+  "records": 1291,
+  "images": 695,
+  "errors": [
+    {
+      "source": "bin_Data",
+      "serialized": "040cc5e55b935a44a9c220b74afac470",
+      "path_id": 1,
+      "type": "MonoBehaviour",
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "06853a6e16cb05342946da9f0742d5cc",
+      "path_id": 1,
+      "type": "MonoBehaviour",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "bb7f417bf46f74f66bda4bf9858269de",
+      "path_id": 1,
+      "type": "MonoBehaviour",
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "f8cf610fd02ff4047a80dba6e2d6de76",
+      "path_id": 1,
+      "type": "MonoBehaviour",
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "globalgamemanagers",
+      "path_id": 1,
+      "type": "PlayerSettings",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "globalgamemanagers.assets",
+      "path_id": 2744,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 216 bytes, but only read 192 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "globalgamemanagers.assets",
+      "path_id": 2761,
+      "type": "MonoBehaviour",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "level0",
+      "path_id": 1850,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 700 bytes, but only read 352 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "level0",
+      "path_id": 1880,
+      "type": "MonoBehaviour",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "level1",
+      "path_id": 8782,
+      "type": "MonoBehaviour",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "level1",
+      "path_id": 8806,
+      "type": "MonoBehaviour",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "level1",
+      "path_id": 9213,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 92 bytes, but only read 84 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "level1",
+      "path_id": 10291,
+      "type": "MonoBehaviour",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": 3960,
+      "type": "MonoBehaviour",
+      "error": "read_str out of bounds"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": 3966,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 4228 bytes, but only read 4048 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": 4139,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 92 bytes, but only read 84 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": 4216,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 92 bytes, but only read 84 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": 4243,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 92 bytes, but only read 84 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": 4404,
+      "type": "MonoBehaviour",
+      "error": "Expected to read 92 bytes, but only read 84 bytes"
+    },
+    {
+      "source": "bin_Data",
+      "serialized": "unity default resources",
+      "path_id": 11000,
+      "type": "MonoBehaviour",
+      "error": "failed to dump nodes raw"
+    }
+  ],
+  "redaction": "Credential-like string fields redacted. Native MonoBehaviour script references resolved from raw headers."
+}

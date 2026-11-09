@@ -1,0 +1,29 @@
+{
+  "source": "D:\\APK Decompiler\\IL2CPP Workbench\\Results\\Run-20261109-095015-15c6c9",
+  "version": "0.6.3",
+  "package": "com.rotatelab.cubeblast",
+  "architecture": "armeabi-v7a",
+  "metadata": 39,
+  "assemblies": 111,
+  "types": 13700,
+  "gameTypes": 1157,
+  "scriptCounts": {
+    "ScriptMethod": 196966,
+    "ScriptString": 17469,
+    "ScriptMetadata": 12428,
+    "ScriptMetadataMethod": 23927,
+    "Addresses": 222281
+  },
+  "matched": 196925,
+  "exported": 196706,
+  "failed": 219,
+  "failureReasons": {
+    "FAILED: Exception: Response buffer size exceeded for: libil2cpp.so ": 7,
+    "FAILED: Exception: Decompiler process died ": 201,
+    "FAILED: Exception: process: timeout ": 9,
+    "FAILED:  Low-level Error: Cannot properly adjust input varnodes": 1,
+    "FAILED:  Low-level Error: Duplicate VariablePiece": 1
+  },
+  "analysisTimeoutSeconds": 1800,
+  "focusMethods": 6729
+}

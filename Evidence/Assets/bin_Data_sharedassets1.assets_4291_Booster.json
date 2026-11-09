@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1905"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "114"
+  },
+  "m_Name": "",
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": "4186"
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": "4324"
+  },
+  "contentsWhenPaymentNeeded": {
+    "m_FileID": 0,
+    "m_PathID": "1206"
+  },
+  "contentsWhenPaymentNotNeeded": {
+    "m_FileID": 0,
+    "m_PathID": "1742"
+  },
+  "contentsWhenLocked": {
+    "m_FileID": 0,
+    "m_PathID": "1120"
+  },
+  "remainingUsagesText": {
+    "m_FileID": 0,
+    "m_PathID": "4260"
+  },
+  "unlockLevelText": {
+    "m_FileID": 0,
+    "m_PathID": "4022"
+  },
+  "unlockAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "2616"
+  },
+  "grayscaleMatImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "4145"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4324"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4004"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4586"
+    }
+  ],
+  "grayscaleMat": {
+    "m_FileID": 0,
+    "m_PathID": "177"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1822"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2567"
+  },
+  "m_Name": "",
+  "title": {
+    "m_FileID": 0,
+    "m_PathID": "4043"
+  },
+  "offerPanel": {
+    "m_FileID": 0,
+    "m_PathID": "3595"
+  },
+  "packOffer": {
+    "m_FileID": 0,
+    "m_PathID": "4578"
+  },
+  "createdOffers": []
+}

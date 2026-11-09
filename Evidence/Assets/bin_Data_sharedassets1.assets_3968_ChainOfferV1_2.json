@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "658"
+  },
+  "m_Name": "ChainOfferV1 2",
+  "iapData": {
+    "productId": "iap_coin_cubeblast_xsmall",
+    "adjustKey": "doermd"
+  },
+  "offerType": 10,
+  "title": "CHAIN OFFER",
+  "bundleOfferElements": [
+    {
+      "type": 0,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "121"
+      },
+      "amount": 1500,
+      "info": "1500"
+    },
+    {
+      "type": 2,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "430"
+      },
+      "amount": 1,
+      "info": "x1"
+    }
+  ],
+  "shopPanelBundleItem": {
+    "m_FileID": 0,
+    "m_PathID": "4229"
+  },
+  "discountAmount": 0
+}

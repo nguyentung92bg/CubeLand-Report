@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1823"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "81"
+  },
+  "m_Name": "",
+  "seasonPassManager": {
+    "m_FileID": 0,
+    "m_PathID": "9543"
+  },
+  "timeTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8050"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8024"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8091"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8300"
+    }
+  ],
+  "notification": {
+    "m_FileID": 0,
+    "m_PathID": "7068"
+  },
+  "notificationText": {
+    "m_FileID": 0,
+    "m_PathID": "8326"
+  },
+  "seasonPassSo": {
+    "m_FileID": 2,
+    "m_PathID": "3966"
+  },
+  "seasonPassResultController": {
+    "m_FileID": 0,
+    "m_PathID": "10525"
+  },
+  "rewardParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8519"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9822"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10354"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9245"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10795"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10624"
+    }
+  ],
+  "seasonPassClaimedRewards": []
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "943"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "727"
+  },
+  "m_Name": "",
+  "panel": {
+    "m_FileID": 0,
+    "m_PathID": "7479"
+  },
+  "singleRewardPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4003"
+  },
+  "visibleDuration": 1.5,
+  "anchorOffsetY": 200.0
+}

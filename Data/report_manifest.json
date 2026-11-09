@@ -1,0 +1,45 @@
+{
+  "game": "Cube Land",
+  "version": "0.6.3",
+  "date": "2026-11-09",
+  "pages": [
+    "LevelDesign.html",
+    "Levels/Levels.html",
+    "Items/Items.html",
+    "Boosters/Boosters.html",
+    "IAP/IAP.html",
+    "Events/Events.html",
+    "Leaderboard/Leaderboard.html",
+    "Daily/Daily.html",
+    "Analytics/Analytics.html",
+    "Evidence/Evidence.html"
+  ],
+  "stats": {
+    "levels": 850,
+    "levelBundles": 170,
+    "difficulty": {
+      "Normal": 600,
+      "Hard": 167,
+      "VeryHard": 83
+    },
+    "mechanics": {
+      "LargeVoxelData": 41,
+      "DoubleLargeVoxelData": 9,
+      "IceWrapperData": 38,
+      "GiftWrapperData": 25,
+      "PlaypenData": 27,
+      "ShrinkingCoverData": 10,
+      "BombData": 0,
+      "ColorBoxData": 10,
+      "ShieldData": 0,
+      "FlyingPiggyData": 0,
+      "HiddenChestData": 0
+    },
+    "boosters": 7,
+    "levelIcons": 850,
+    "loop": 689,
+    "meteor": 576,
+    "uniqueHashes": 731,
+    "catalogReferences": 850
+  }
+}

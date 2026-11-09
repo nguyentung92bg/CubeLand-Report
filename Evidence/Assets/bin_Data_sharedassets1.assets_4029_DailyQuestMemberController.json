@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1747"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1199"
+  },
+  "m_Name": "",
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": "4083"
+  },
+  "info": {
+    "m_FileID": 0,
+    "m_PathID": "4181"
+  },
+  "sliderText": {
+    "m_FileID": 0,
+    "m_PathID": "4454"
+  },
+  "slider": {
+    "m_FileID": 0,
+    "m_PathID": "4519"
+  },
+  "chest": {
+    "m_FileID": 0,
+    "m_PathID": "4076"
+  },
+  "isCollectable": 0
+}

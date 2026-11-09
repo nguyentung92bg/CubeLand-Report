@@ -1,0 +1,86 @@
+/* IL2CPP: Rotatelab.Boosters.BaseBoosterController$$OnUsed
+void Rotatelab_Boosters_BaseBoosterController__OnUsed (Rotatelab_Boosters_BaseBoosterController_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* WARNING: Removing unreachable block (ram,0x01027b98) */
+/* WARNING: Removing unreachable block (ram,0x01027ba0) */
+/* WARNING: Removing unreachable block (ram,0x01027ba4) */
+/* WARNING: Removing unreachable block (ram,0x01494980) */
+/* WARNING: Removing unreachable block (ram,0x01494988) */
+/* WARNING: Removing unreachable block (ram,0x01494990) */
+/* WARNING: Removing unreachable block (ram,0x01494994) */
+/* WARNING: Removing unreachable block (ram,0x014949a8) */
+/* WARNING: Removing unreachable block (ram,0x014949b4) */
+/* WARNING: Removing unreachable block (ram,0x014949c4) */
+/* WARNING: Removing unreachable block (ram,0x014949cc) */
+/* WARNING: Removing unreachable block (ram,0x014949f4) */
+/* WARNING: Removing unreachable block (ram,0x014949d8) */
+/* WARNING: Removing unreachable block (ram,0x014949e4) */
+/* WARNING: Removing unreachable block (ram,0x01494a00) */
+/* WARNING: Removing unreachable block (ram,0x01494a20) */
+/* WARNING: Removing unreachable block (ram,0x01494a34) */
+/* WARNING: Removing unreachable block (ram,0x01494a40) */
+/* WARNING: Removing unreachable block (ram,0x01494a50) */
+/* WARNING: Removing unreachable block (ram,0x01494a58) */
+/* WARNING: Removing unreachable block (ram,0x01494a80) */
+/* WARNING: Removing unreachable block (ram,0x01494a64) */
+/* WARNING: Removing unreachable block (ram,0x01494a70) */
+/* WARNING: Removing unreachable block (ram,0x01494a8c) */
+/* WARNING: Removing unreachable block (ram,0x01494aa4) */
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+/* IL2CPP: Rotatelab.Boosters.BaseBoosterController$$OnUsed
+   void Rotatelab_Boosters_BaseBoosterController__OnUsed
+   (Rotatelab_Boosters_BaseBoosterController_o* __this, const MethodInfo* method); */
+
+uint Rotatelab_Boosters_BaseBoosterController__OnUsed_1132458(undefined4 param_1)
+
+{
+  int iVar1;
+  uint uVar2;
+  int iVar3;
+  char *pcVar4;
+  
+  pcVar4 = (char *)(_UNK_011424c0 + 0x114246c);
+  if (*pcVar4 == '\0') {
+    FUN_00ec37c0(*(undefined4 *)(_UNK_011424c4 + 0x1142480));
+    *pcVar4 = '\x01';
+  }
+  iVar1 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                    (**(undefined4 **)(_UNK_011424c8 + 0x1142494));
+  if (iVar1 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  pcVar4 = (char *)(_UNK_01027be8 + 0x1027b48);
+  if (*pcVar4 == '\0') {
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01027bec + 0x1027b5c),0,param_1,0);
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01027bf0 + 0x1027b68));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01027bf4 + 0x1027b74));
+    *pcVar4 = '\x01';
+  }
+  iVar1 = *(int *)(iVar1 + 0x1c);
+  if (*(int *)(**(int **)(_UNK_01027bf8 + 0x1027b8c) + 0x74) == 0) {
+    FUN_00ec3934();
+  }
+  iVar3 = **(int **)(_UNK_01027c00 + 0x1027bdc);
+  if ((*(int *)(iVar3 + 0x1c) == 0) &&
+     (FUN_00ec37c0(*(undefined4 *)(_UNK_01498550 + 0x14984d4)), *(int *)(iVar3 + 0x1c) == 0)) {
+    FUN_00efd7c4(iVar3);
+  }
+  if (iVar1 != 0) {
+    uVar2 = System_Collections_Generic_List_object___IndexOf_267e86c
+                      (iVar1,param_1,*(undefined4 *)(*(int *)(iVar3 + 0x1c) + 8));
+    if (-1 < (int)uVar2) {
+      if (*(int *)(**(int **)(_UNK_01498554 + 0x1498520) + 0x74) == 0) {
+        FUN_00ec3934();
+      }
+      Rotatelab_Extensions__RemoveAtFast_object__14882cc
+                (iVar1,uVar2,*(undefined4 *)(*(int *)(iVar3 + 0x1c) + 0xc));
+    }
+    return ~uVar2 >> 0x1f;
+  }
+                    /* WARNING: Subroutine does not return */
+  thunk_FUN_00f078d4();
+}
+

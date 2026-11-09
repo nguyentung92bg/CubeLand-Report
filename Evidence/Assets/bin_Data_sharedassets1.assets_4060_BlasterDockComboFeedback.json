@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1560"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "707"
+  },
+  "m_Name": "",
+  "levelRoots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "1433"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1321"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1133"
+    }
+  ]
+}

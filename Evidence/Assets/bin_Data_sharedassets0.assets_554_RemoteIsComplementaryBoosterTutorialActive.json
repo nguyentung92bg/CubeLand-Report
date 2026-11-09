@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1047"
+  },
+  "m_Name": "RemoteIsComplementaryBoosterTutorialActive",
+  "remoteKey": "is_complementar_booster_tutorial_active",
+  "needToCache": 0,
+  "_defaultValue": 1
+}

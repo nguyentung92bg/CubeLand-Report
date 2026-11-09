@@ -1,0 +1,1699 @@
+[
+  {
+    "name": "NO-ADS",
+    "id": "iap_noads_cubeblast",
+    "rewards": [],
+    "discount": 0,
+    "source": {
+      "name": "NoAds",
+      "cls": "ShopNoAdsSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets0.assets",
+      "path_id": "568",
+      "file": "Evidence/Assets/bin_Data_sharedassets0.assets_568_NoAds.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "discountAmount",
+        "title",
+        "icon",
+        "shopPanelNoAdsItem"
+      ]
+    },
+    "noads": true
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xxsmall",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 1000,
+        "info": "1000"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 1,
+        "info": "x1"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV1 1",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3967",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3967_ChainOfferV1_1.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xsmall",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 1500,
+        "info": "1500"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 1,
+        "info": "x1"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV1 2",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3968",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3968_ChainOfferV1_2.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_medium",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 2000,
+        "info": "2000"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 1,
+        "info": "x1"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV1 3",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3969",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3969_ChainOfferV1_3.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xlarge",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 3000,
+        "info": "3000"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 2,
+        "info": "x2"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV1 4",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3970",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3970_ChainOfferV1_4.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xxlarge",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 5000,
+        "info": "5000"
+      },
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -120,
+        "info": "2H"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 3,
+        "info": "x3"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 3,
+        "info": "x3"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV1 5",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3971",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3971_ChainOfferV1_5.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_bundle",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 10000,
+        "info": "10K"
+      },
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -120,
+        "info": "2H"
+      },
+      {
+        "type": 4,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "384"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 9,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "393"
+        },
+        "amount": 1,
+        "info": "x1"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV1 6",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3972",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3972_ChainOfferV1_6.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xxsmall",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 1000,
+        "info": "1000"
+      },
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -15,
+        "info": "15M"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV2 1",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3973",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3973_ChainOfferV2_1.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xsmall",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 2000,
+        "info": "2000"
+      },
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -30,
+        "info": "30M"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV2 2",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3974",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3974_ChainOfferV2_2.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xlarge",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 7500,
+        "info": "7500"
+      },
+      {
+        "type": 4,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "384"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 9,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "393"
+        },
+        "amount": 1,
+        "info": "x1"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV2 3",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3975",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3975_ChainOfferV2_3.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_bundle",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 15000,
+        "info": "15K"
+      },
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -120,
+        "info": "2H"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 5,
+        "info": "x5"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 5,
+        "info": "x5"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV2 4",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3976",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3976_ChainOfferV2_4.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CHAIN OFFER",
+    "id": "iap_coin_cubeblast_xbundle",
+    "rewards": [
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 20000,
+        "info": "20K"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 10,
+        "info": "x10"
+      },
+      {
+        "type": 4,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "384"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 9,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "393"
+        },
+        "amount": 2,
+        "info": "x2"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "ChainOfferV2 5",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3977",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3977_ChainOfferV2_5.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "DELUXE BUNDLE",
+    "id": "iap_deluxe_bundle_cubeblast",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -120,
+        "info": "2h"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "283"
+        },
+        "amount": 7500,
+        "info": "7.5K Coins"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "DeluxeBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3978",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3978_DeluxeBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "ESSENTIAL BUNDLE",
+    "id": "iap_essential_bundle_cubeblast",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -60,
+        "info": "1h"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 5000,
+        "info": "5K Coins"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "EssentialBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3979",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3979_EssentialBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "FAIL-PROOF OFFER",
+    "id": "iap_fail_proof_offer_cubeblast",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -60,
+        "info": "1h"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 1000,
+        "info": "1K Coins"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "FailProofOffer",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3980",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3980_FailProofOffer.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "1K COINS",
+    "id": "iap_coin_cubeblast_1",
+    "rewards": [
+      {
+        "iapData": {
+          "productId": "iap_coin_cubeblast_1",
+          "adjustKey": "xn0gk3"
+        },
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "iconScale": 1.2000000476837158,
+        "amount": 1000,
+        "info": "1K COINS"
+      }
+    ],
+    "source": {
+      "name": "GemPacksNew",
+      "cls": "ShopPackSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3981",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3981_GemPacksNew.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "title",
+        "packOfferElements",
+        "shopPanelPackItem"
+      ]
+    }
+  },
+  {
+    "name": "5K COINS",
+    "id": "iap_coin_cubeblast_2",
+    "rewards": [
+      {
+        "iapData": {
+          "productId": "iap_coin_cubeblast_2",
+          "adjustKey": "4r8gv3"
+        },
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "283"
+        },
+        "iconScale": 1.4288549423217773,
+        "amount": 5000,
+        "info": "5K COINS"
+      }
+    ],
+    "source": {
+      "name": "GemPacksNew",
+      "cls": "ShopPackSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3981",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3981_GemPacksNew.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "title",
+        "packOfferElements",
+        "shopPanelPackItem"
+      ]
+    }
+  },
+  {
+    "name": "10K COINS",
+    "id": "iap_coin_cubeblast_3",
+    "rewards": [
+      {
+        "iapData": {
+          "productId": "iap_coin_cubeblast_3",
+          "adjustKey": "oywm7w"
+        },
+        "type": 0,
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": "990"
+        },
+        "iconScale": 1.3556050062179565,
+        "amount": 10000,
+        "info": "10K COINS"
+      }
+    ],
+    "source": {
+      "name": "GemPacksNew",
+      "cls": "ShopPackSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3981",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3981_GemPacksNew.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "title",
+        "packOfferElements",
+        "shopPanelPackItem"
+      ]
+    }
+  },
+  {
+    "name": "25K COINS",
+    "id": "iap_coin_cubeblast_4",
+    "rewards": [
+      {
+        "iapData": {
+          "productId": "iap_coin_cubeblast_4",
+          "adjustKey": "b7kt3v"
+        },
+        "type": 0,
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": "860"
+        },
+        "iconScale": 1.4918509721755981,
+        "amount": 25000,
+        "info": "25K COINS"
+      }
+    ],
+    "source": {
+      "name": "GemPacksNew",
+      "cls": "ShopPackSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3981",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3981_GemPacksNew.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "title",
+        "packOfferElements",
+        "shopPanelPackItem"
+      ]
+    }
+  },
+  {
+    "name": "50K COINS",
+    "id": "iap_coin_cubeblast_5",
+    "rewards": [
+      {
+        "iapData": {
+          "productId": "iap_coin_cubeblast_5",
+          "adjustKey": "7ksvdt"
+        },
+        "type": 0,
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": "820"
+        },
+        "iconScale": 1.7387559413909912,
+        "amount": 50000,
+        "info": "50K COINS"
+      }
+    ],
+    "source": {
+      "name": "GemPacksNew",
+      "cls": "ShopPackSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3981",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3981_GemPacksNew.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "title",
+        "packOfferElements",
+        "shopPanelPackItem"
+      ]
+    }
+  },
+  {
+    "name": "100K COINS",
+    "id": "iap_coin_cubeblast_6",
+    "rewards": [
+      {
+        "iapData": {
+          "productId": "iap_coin_cubeblast_6",
+          "adjustKey": "8xlt8m"
+        },
+        "type": 0,
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": "831"
+        },
+        "iconScale": 1.8279629945755005,
+        "amount": 100000,
+        "info": "100K COINS"
+      }
+    ],
+    "source": {
+      "name": "GemPacksNew",
+      "cls": "ShopPackSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3981",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3981_GemPacksNew.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "title",
+        "packOfferElements",
+        "shopPanelPackItem"
+      ]
+    }
+  },
+  {
+    "name": "NO-ADS BUNDLE",
+    "id": "iap_noads_bundle_cubeblast",
+    "rewards": [
+      {
+        "type": 7,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "370"
+        },
+        "amount": 1,
+        "info": ""
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 2000,
+        "info": "2K Coins"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "NoAdsBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3982",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3982_NoAdsBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "PREMIUM BUNDLE",
+    "id": "iap_premium_bundle_cubeblast",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -300,
+        "info": "5h"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 5,
+        "info": "x5"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 5,
+        "info": "x5"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 5,
+        "info": "x5"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": "990"
+        },
+        "amount": 25000,
+        "info": "25K Coins"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "PremiumBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3983",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3983_PremiumBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CUBE PASS",
+    "id": "iap_season_pass_cubeblast",
+    "rewards": [],
+    "discount": 0,
+    "source": {
+      "name": "SeasonPassBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3984",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3984_SeasonPassBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "CUBE PASS",
+    "id": "iap_season_pass_cubeblast",
+    "rewards": [],
+    "discount": 0,
+    "source": {
+      "name": "SeasonPassFailBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3985",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3985_SeasonPassFailBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "SPOOKY DISCOUNT",
+    "id": "iap_coin_cubeblast_minimum",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -60,
+        "info": "1h"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 2000,
+        "info": "2000"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "SeasonalOfferSpookyBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3987",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3987_SeasonalOfferSpookyBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "THANKSGIVING FEAST",
+    "id": "iap_coin_cubeblast_minimum",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -60,
+        "info": "1h"
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 2,
+        "info": "x2"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 2000,
+        "info": "2000"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "SeasonalOfferThanksgivingBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3988",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3988_SeasonalOfferThanksgivingBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "STARTER BUNDLE",
+    "id": "iap_starter_bundle_cubeblast",
+    "rewards": [
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "350"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "430"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 2000,
+        "info": "2000"
+      }
+    ],
+    "discount": 90,
+    "source": {
+      "name": "StarterBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3989",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3989_StarterBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "Starter Bundle",
+    "id": "iap_coin_cubeblast_minimum",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "458"
+        },
+        "amount": -15,
+        "info": "15M"
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "94"
+        },
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "121"
+        },
+        "amount": 1000,
+        "info": "1000"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "SuperHardOffer",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3990",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3990_SuperHardOffer.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "ULTIMATE BUNDLE",
+    "id": "iap_coin_cubeblast_xbundle",
+    "rewards": [
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "236"
+        },
+        "amount": -600,
+        "info": "10h"
+      },
+      {
+        "type": 4,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "384"
+        },
+        "amount": 10,
+        "info": "x10"
+      },
+      {
+        "type": 9,
+        "icon": {
+          "m_FileID": 54,
+          "m_PathID": "393"
+        },
+        "amount": 10,
+        "info": "x10"
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": "990"
+        },
+        "amount": 50000,
+        "info": "50K Coins"
+      }
+    ],
+    "discount": 0,
+    "source": {
+      "name": "UltimateBundle",
+      "cls": "ShopBundleSO",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "sharedassets1.assets",
+      "path_id": "3991",
+      "file": "Evidence/Assets/bin_Data_sharedassets1.assets_3991_UltimateBundle.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "iapData",
+        "offerType",
+        "title",
+        "bundleOfferElements",
+        "shopPanelBundleItem",
+        "discountAmount"
+      ]
+    },
+    "noads": false
+  },
+  {
+    "name": "FailProofOfferConfig",
+    "id": "iap_fail_proof_offer_cubeblast",
+    "rewards": [
+      {
+        "type": "Heart",
+        "amount": -60,
+        "info": "1h"
+      },
+      {
+        "type": "Booster1",
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": "Booster2",
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": "Booster3",
+        "amount": 1,
+        "info": "x1"
+      },
+      {
+        "type": "Coin",
+        "amount": 1000,
+        "info": "1K Coins"
+      }
+    ],
+    "source": {
+      "name": "",
+      "cls": "RemoteConfigManager",
+      "type": "MonoBehaviour",
+      "source": "bin_Data",
+      "serialized": "level0",
+      "path_id": "1751",
+      "file": "Evidence/Assets/bin_Data_level0_1751_RemoteConfigManager.json",
+      "keys": [
+        "m_GameObject",
+        "m_Enabled",
+        "m_Script",
+        "m_Name",
+        "remoteIsComplementaryBoosterTutorialActive",
+        "remoteIsRewardedActivationCheckByCoinAmount",
+        "remoteShopPopularBadgeIndex",
+        "remoteShopBestOfferBadgeIndex",
+        "remoteRateUsAndroid",
+        "remoteRateUsIos",
+        "AdsConfig",
+        "IsAlternateCrownTournamentRewardEnabled",
+        "IsIAPUser",
+        "IsLevelStartMotionEnabled",
+        "IsLossAversionEnabled",
+        "IsOfflinePlayAllowed",
+        "IsConsecutivePlayOnEnabled",
+        "AdBreakConfig",
+        "LevelUpCoinReward",
+        "LevelUpDifficultyMultiplier",
+        "AppUpdate",
+        "FailCountdown",
+        "SeasonalOffer",
+        "LevelVersion",
+        "CloudRushLevel",
+        "NeftaConfig",
+        "IsEcpmAnyTrackEnabled",
+        "OfferPopupConfig",
+        "SuperHardOfferConfig",
+        "JewelConfig",
+        "NoAdsBundleConfig",
+        "FailProofOfferConfig",
+        "MidGameLeaderboardConfig"
+      ]
+    }
+  }
+]

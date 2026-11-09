@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2499"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "69"
+  },
+  "m_Name": "",
+  "rewardPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4058"
+  },
+  "rewardArea": {
+    "m_FileID": 0,
+    "m_PathID": "7527"
+  },
+  "generatedRewards": [],
+  "rewardParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "10434"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8509"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10615"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10540"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10804"
+    }
+  ],
+  "starIcon": {
+    "m_FileID": 2,
+    "m_PathID": "983"
+  }
+}

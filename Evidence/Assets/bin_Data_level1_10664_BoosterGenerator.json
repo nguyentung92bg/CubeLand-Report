@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "793"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1336"
+  },
+  "m_Name": "",
+  "specialBoosterPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4138"
+  },
+  "boosterPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4291"
+  },
+  "horizontalLayoutGroup": {
+    "m_FileID": 0,
+    "m_PathID": "8651"
+  },
+  "uiElementHider": {
+    "m_FileID": 0,
+    "m_PathID": "8872"
+  },
+  "generatedBoosters": []
+}

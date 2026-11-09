@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1269"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2356"
+  },
+  "m_Name": "",
+  "dim": {
+    "m_FileID": 0,
+    "m_PathID": "7955"
+  },
+  "popup": {
+    "m_FileID": 0,
+    "m_PathID": "7581"
+  },
+  "completeLevels": {
+    "m_FileID": 0,
+    "m_PathID": "5985"
+  },
+  "arrow1Tween": {
+    "m_FileID": 0,
+    "m_PathID": "9024"
+  },
+  "collectKeys": {
+    "m_FileID": 0,
+    "m_PathID": "6951"
+  },
+  "arrow2Tween": {
+    "m_FileID": 0,
+    "m_PathID": "9972"
+  },
+  "unlockRewards": {
+    "m_FileID": 0,
+    "m_PathID": "6233"
+  },
+  "tapToContinueTween": {
+    "m_FileID": 0,
+    "m_PathID": "10648"
+  },
+  "headers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "7987"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8400"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8231"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8010"
+    }
+  ]
+}

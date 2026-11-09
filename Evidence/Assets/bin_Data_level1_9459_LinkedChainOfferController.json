@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "786"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1198"
+  },
+  "m_Name": "",
+  "deactivateGameObjectOnHide": 1,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7945"
+  },
+  "<Data>k__BackingField": {
+    "m_FileID": 2,
+    "m_PathID": "3956"
+  },
+  "offerButtonsParent": {
+    "m_FileID": 0,
+    "m_PathID": "5783"
+  },
+  "offerButtonPositions": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "7525"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7582"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7585"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5333"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "6651"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "6299"
+    }
+  ],
+  "freeOfferButtonPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4597"
+  },
+  "paidOfferButtonPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4302"
+  },
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "9590"
+  },
+  "rewardParticlesParent": {
+    "m_FileID": 0,
+    "m_PathID": "5498"
+  },
+  "rewardParticlePrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4200"
+  }
+}

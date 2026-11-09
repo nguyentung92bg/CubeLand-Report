@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "947"
+  },
+  "m_Name": "SeasonalOffer",
+  "seasonalOfferData": [
+    {
+      "bundle": {
+        "m_FileID": 0,
+        "m_PathID": "3987"
+      },
+      "headerSprite": {
+        "m_FileID": 54,
+        "m_PathID": "323"
+      },
+      "bgSprite": {
+        "m_FileID": 54,
+        "m_PathID": "282"
+      },
+      "buttonSprite": {
+        "m_FileID": 54,
+        "m_PathID": "411"
+      }
+    },
+    {
+      "bundle": {
+        "m_FileID": 0,
+        "m_PathID": "3988"
+      },
+      "headerSprite": {
+        "m_FileID": 54,
+        "m_PathID": "438"
+      },
+      "bgSprite": {
+        "m_FileID": 54,
+        "m_PathID": "467"
+      },
+      "buttonSprite": {
+        "m_FileID": 54,
+        "m_PathID": "346"
+      }
+    }
+  ]
+}

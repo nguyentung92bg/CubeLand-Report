@@ -1,0 +1,4871 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2613"
+  },
+  "m_Name": "BlasterColorData",
+  "blasterColors": [
+    {
+      "colorType": 0,
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.20000000298023224,
+        "g": 0.20000000298023224,
+        "b": 0.20000000298023224,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.10196078568696976,
+        "g": 0.10196078568696976,
+        "b": 0.10196078568696976,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 2,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 3,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 4,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 5,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 6,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.0,
+          "g": 0.9882352948188782,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.0,
+          "g": 0.2549019753932953,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 33924,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.014150917530059814,
+          "g": 0.8391073942184448,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 65535,
+        "ctime2": 0,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 2,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      }
+    },
+    {
+      "colorType": 1,
+      "color": {
+        "r": 1.0,
+        "g": 0.8941176533699036,
+        "b": 0.7411764860153198,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.4431372880935669,
+        "g": 0.3450980484485626,
+        "b": 0.20000001788139343,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.16513223946094513,
+        "g": 0.09758736193180084,
+        "b": 0.03310477361083031,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 9,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 10,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 11,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 12,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 13,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 0.9033198356628418,
+          "b": 0.7613207101821899,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 0.894912838935852,
+          "b": 0.7405659556388855,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.44999998807907104,
+          "g": 0.39892762899398804,
+          "b": 0.323915034532547,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 0.9033198356628418,
+          "b": 0.7613207101821899,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 0.894912838935852,
+          "b": 0.7405659556388855,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.44999998807907104,
+          "g": 0.39892762899398804,
+          "b": 0.323915034532547,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 14,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 15,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 16,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 2,
+      "color": {
+        "r": 0.1882352977991104,
+        "g": 0.20000000298023224,
+        "b": 0.23529411852359772,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.20000000298023224,
+        "g": 0.20000000298023224,
+        "b": 0.20000000298023224,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.05951124057173729,
+        "g": 0.05951124057173729,
+        "b": 0.05951124057173729,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 2,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 3,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 4,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 5,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 6,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.21489892899990082,
+          "g": 0.22858023643493652,
+          "b": 0.25867918133735657,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.15396931767463684,
+          "g": 0.16481614112854004,
+          "b": 0.18867918848991394,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.06803663074970245,
+          "g": 0.07330819219350815,
+          "b": 0.08490563184022903,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.21489892899990082,
+          "g": 0.22858023643493652,
+          "b": 0.25867918133735657,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.15396931767463684,
+          "g": 0.16481614112854004,
+          "b": 0.18867918848991394,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.06803663074970245,
+          "g": 0.07330819219350815,
+          "b": 0.08490563184022903,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 17,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 18,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 19,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 3,
+      "color": {
+        "r": 0.16862745583057404,
+        "g": 0.5137255191802979,
+        "b": 0.8666666746139526,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.06666667014360428,
+        "g": 0.29411765933036804,
+        "b": 0.529411792755127,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.07036010921001434,
+        "g": 0.09084173291921616,
+        "b": 0.14995981752872467,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 20,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 21,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 22,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 23,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 24,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.24191370606422424,
+          "g": 0.5855140089988708,
+          "b": 0.9379245042800903,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.16785326600074768,
+          "g": 0.5134581327438354,
+          "b": 0.8679245114326477,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.05033141002058983,
+          "g": 0.21829535067081451,
+          "b": 0.39056602120399475,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.24191370606422424,
+          "g": 0.5855140089988708,
+          "b": 0.9379245042800903,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.16785326600074768,
+          "g": 0.5134581327438354,
+          "b": 0.8679245114326477,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.05033141002058983,
+          "g": 0.21829535067081451,
+          "b": 0.39056602120399475,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 25,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 26,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 27,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 4,
+      "color": {
+        "r": 0.5372549295425415,
+        "g": 0.40392157435417175,
+        "b": 0.20000000298023224,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.5098039507865906,
+        "g": 0.2549019753932953,
+        "b": 0.0313725508749485,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.12213881313800812,
+        "g": 0.06847818195819855,
+        "b": 0.05286065489053726,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 28,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 10,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 11,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 12,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 13,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.551132082939148,
+          "g": 0.34319719672203064,
+          "b": 0.16606749594211578,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.4811320900917053,
+          "g": 0.28382250666618347,
+          "b": 0.11574400216341019,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.21650943160057068,
+          "g": 0.12061697244644165,
+          "b": 0.03893081471323967,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.551132082939148,
+          "g": 0.34319719672203064,
+          "b": 0.16606749594211578,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.4811320900917053,
+          "g": 0.28382250666618347,
+          "b": 0.11574400216341019,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.21650943160057068,
+          "g": 0.12061697244644165,
+          "b": 0.03893081471323967,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 29,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 30,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 31,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 5,
+      "color": {
+        "r": 0.0470588244497776,
+        "g": 0.5647059082984924,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.08627451211214066,
+        "g": 0.5490196347236633,
+        "b": 0.04313725605607033,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.05951124057173729,
+        "g": 0.11443538218736649,
+        "b": 0.05951124057173729,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 32,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 33,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 34,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 35,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 36,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.07854156196117401,
+          "g": 0.5088302493095398,
+          "b": 0.04070641100406647,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.045748814940452576,
+          "g": 0.5660377740859985,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.020586976781487465,
+          "g": 0.25471699237823486,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.07854156196117401,
+          "g": 0.5088302493095398,
+          "b": 0.04070641100406647,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.045748814940452576,
+          "g": 0.5660377740859985,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.020586976781487465,
+          "g": 0.25471699237823486,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 37,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 38,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 39,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 6,
+      "color": {
+        "r": 0.0,
+        "g": 0.9058823585510254,
+        "b": 0.4156862795352936,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.0,
+        "g": 0.43529415130615234,
+        "b": 0.20000001788139343,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.13843165338039398,
+        "g": 0.3005438446998596,
+        "b": 0.17144115269184113,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 40,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 41,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 42,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 43,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 44,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.06400330364704132,
+          "g": 0.8000414967536926,
+          "b": 0.4031217396259308,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.0,
+          "g": 0.9056603908538818,
+          "b": 0.4172692596912384,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.0,
+          "g": 0.4075471758842468,
+          "b": 0.18777118623256683,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.06400330364704132,
+          "g": 0.8000414967536926,
+          "b": 0.4031217396259308,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.0,
+          "g": 0.9056603908538818,
+          "b": 0.4172692596912384,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.0,
+          "g": 0.4075471758842468,
+          "b": 0.18777118623256683,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 45,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 46,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 47,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 7,
+      "color": {
+        "r": 1.0,
+        "g": 0.7058823704719543,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.46274513006210327,
+        "g": 0.3137255012989044,
+        "b": 0.003921568859368563,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.17788846790790558,
+        "g": 0.12743772566318512,
+        "b": 0.08650046586990356,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 48,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 49,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 50,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 51,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 52,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.8199999928474426,
+          "g": 0.580221951007843,
+          "b": 0.06559998542070389,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9450979828834534,
+          "g": 0.6447086334228516,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.42529407143592834,
+          "g": 0.29011887311935425,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.8199999928474426,
+          "g": 0.580221951007843,
+          "b": 0.06559998542070389,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9450979828834534,
+          "g": 0.6447086334228516,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.42529407143592834,
+          "g": 0.29011887311935425,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 53,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 54,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 55,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 8,
+      "color": {
+        "r": 0.9843137264251709,
+        "g": 0.3333333432674408,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.48235297203063965,
+        "g": 0.09019608050584793,
+        "b": 0.4901961088180542,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.3277781307697296,
+        "g": 0.13843165338039398,
+        "b": 0.33245158195495605,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 56,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 57,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 58,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 59,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 60,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.8077500462532043,
+          "g": 0.3182527720928192,
+          "b": 0.8199999928474426,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9837619662284851,
+          "g": 0.3349056541919708,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.4421083331108093,
+          "g": 0.12676411867141724,
+          "b": 0.44999998807907104,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.8077500462532043,
+          "g": 0.3182527720928192,
+          "b": 0.8199999928474426,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9837619662284851,
+          "g": 0.3349056541919708,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.4421083331108093,
+          "g": 0.12676411867141724,
+          "b": 0.44999998807907104,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 61,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 62,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 63,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 9,
+      "color": {
+        "r": 0.545098066329956,
+        "g": 0.11764706671237946,
+        "b": 0.9333333969116211,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.3294117748737335,
+        "g": 0.0470588281750679,
+        "b": 0.5843137502670288,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.10461649298667908,
+        "g": 0.07036010921001434,
+        "b": 0.18782080709934235,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 64,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 65,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 66,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 67,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 68,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.556690514087677,
+          "g": 0.17745274305343628,
+          "b": 0.8999999761581421,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.5467182993888855,
+          "g": 0.11894800513982773,
+          "b": 0.9339622855186462,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.23208242654800415,
+          "g": 0.024186065420508385,
+          "b": 0.4202830195426941,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.556690514087677,
+          "g": 0.17745274305343628,
+          "b": 0.8999999761581421,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.5467182993888855,
+          "g": 0.11894800513982773,
+          "b": 0.9339622855186462,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.23208242654800415,
+          "g": 0.024186065420508385,
+          "b": 0.4202830195426941,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 69,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 70,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 71,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 10,
+      "color": {
+        "r": 0.8500000238418579,
+        "g": 0.08500002324581146,
+        "b": 0.08500002324581146,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.38679248094558716,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.23074007034301758,
+        "g": 0.07036010921001434,
+        "b": 0.07036010921001434,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 72,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 73,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 74,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 75,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 76,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.9099999070167542,
+          "g": 0.1492566168308258,
+          "b": 0.1492566168308258,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.8399999141693115,
+          "g": 0.07671230286359787,
+          "b": 0.07671230286359787,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.3779999613761902,
+          "g": 0.007042172364890575,
+          "b": 0.007042172364890575,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.9099999070167542,
+          "g": 0.1492566168308258,
+          "b": 0.1492566168308258,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.8399999141693115,
+          "g": 0.07671230286359787,
+          "b": 0.07671230286359787,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.3779999613761902,
+          "g": 0.007042172364890575,
+          "b": 0.007042172364890575,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 77,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 78,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 79,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 11,
+      "color": {
+        "r": 0.1764705926179886,
+        "g": 0.9019607901573181,
+        "b": 0.9137254953384399,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.0470588281750679,
+        "g": 0.4745098352432251,
+        "b": 0.48235297203063965,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.14995981752872467,
+        "g": 0.34191444516181946,
+        "b": 0.3467040956020355,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 80,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 81,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 82,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 83,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 84,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.24708299338817596,
+          "g": 0.8104515075683594,
+          "b": 0.8199999928474426,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.24056598544120789,
+          "g": 0.987342894077301,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.08091505616903305,
+          "g": 0.4438486695289612,
+          "b": 0.44999998807907104,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.24708299338817596,
+          "g": 0.8104515075683594,
+          "b": 0.8199999928474426,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.24056598544120789,
+          "g": 0.987342894077301,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.08091505616903305,
+          "g": 0.4438486695289612,
+          "b": 0.44999998807907104,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 85,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 86,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 87,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 12,
+      "color": {
+        "r": 0.9120000600814819,
+        "g": 0.9200000166893005,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.5372549295425415,
+        "g": 0.4117647409439087,
+        "b": 0.04313725605607033,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.3467040956020355,
+        "g": 0.26225072145462036,
+        "b": 0.14995981752872467,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 88,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 89,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 90,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 91,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 92,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.8199999928474426,
+          "g": 0.7667482495307922,
+          "b": 0.06559998542070389,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 0.929411768913269,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.44999998807907104,
+          "g": 0.41823527216911316,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.8199999928474426,
+          "g": 0.7667482495307922,
+          "b": 0.06559998542070389,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 0.929411768913269,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.44999998807907104,
+          "g": 0.41823527216911316,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 93,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 94,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 95,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 13,
+      "color": {
+        "r": 0.8741596341133118,
+        "g": 0.9060924053192139,
+        "b": 0.949999988079071,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.4705882668495178,
+        "g": 0.4705882668495178,
+        "b": 0.4705882668495178,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.623960554599762,
+        "g": 0.623960554599762,
+        "b": 0.623960554599762,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 96,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 97,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 98,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 99,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 100,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.929230809211731,
+          "g": 0.9590283632278442,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9046154022216797,
+          "g": 0.9363563060760498,
+          "b": 0.9799999594688416,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.40436309576034546,
+          "g": 0.4197891652584076,
+          "b": 0.44099998474121094,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.929230809211731,
+          "g": 0.9590283632278442,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9046154022216797,
+          "g": 0.9363563060760498,
+          "b": 0.9799999594688416,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.40436309576034546,
+          "g": 0.4197891652584076,
+          "b": 0.44099998474121094,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 101,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 102,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 103,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 14,
+      "color": {
+        "r": 0.6039215922355652,
+        "g": 0.6313725709915161,
+        "b": 0.6705882549285889,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.40392160415649414,
+        "g": 0.41960787773132324,
+        "b": 0.44705885648727417,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.15592649579048157,
+        "g": 0.17464745044708252,
+        "b": 0.19806934893131256,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 104,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 105,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 106,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 107,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 108,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.525138795375824,
+          "g": 0.5459632277488708,
+          "b": 0.5771999955177307,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.6043136715888977,
+          "g": 0.630588173866272,
+          "b": 0.6700000166893005,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.26957643032073975,
+          "g": 0.28234583139419556,
+          "b": 0.30149999260902405,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.525138795375824,
+          "g": 0.5459632277488708,
+          "b": 0.5771999955177307,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.6043136715888977,
+          "g": 0.630588173866272,
+          "b": 0.6700000166893005,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.26957643032073975,
+          "g": 0.28234583139419556,
+          "b": 0.30149999260902405,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 109,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 110,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 111,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 15,
+      "color": {
+        "r": 0.3764706254005432,
+        "g": 0.3921568989753723,
+        "b": 0.41960787773132324,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.2039215862751007,
+        "g": 0.21176472306251526,
+        "b": 0.22745099663734436,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.10461649298667908,
+        "g": 0.10461649298667908,
+        "b": 0.13286836445331573,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 112,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 113,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 114,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 115,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 116,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.34550875425338745,
+          "g": 0.3577391505241394,
+          "b": 0.3821999430656433,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.37617388367652893,
+          "g": 0.39078256487846375,
+          "b": 0.41999995708465576,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.16770051419734955,
+          "g": 0.1748003214597702,
+          "b": 0.1889999806880951,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.34550875425338745,
+          "g": 0.3577391505241394,
+          "b": 0.3821999430656433,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.37617388367652893,
+          "g": 0.39078256487846375,
+          "b": 0.41999995708465576,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.16770051419734955,
+          "g": 0.1748003214597702,
+          "b": 0.1889999806880951,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 117,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 118,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 119,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 16,
+      "color": {
+        "r": 0.7254902124404907,
+        "g": 0.4588235318660736,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.37254902720451355,
+        "g": 0.11372549831867218,
+        "b": 0.6431372761726379,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.1946178674697876,
+        "g": 0.15896086394786835,
+        "b": 0.28314879536628723,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 120,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 121,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 122,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 123,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 124,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.613330066204071,
+          "g": 0.4107736051082611,
+          "b": 0.8199999928474426,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.7260472774505615,
+          "g": 0.4575471878051758,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.3168589770793915,
+          "g": 0.186367928981781,
+          "b": 0.44999998807907104,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.613330066204071,
+          "g": 0.4107736051082611,
+          "b": 0.8199999928474426,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.7260472774505615,
+          "g": 0.4575471878051758,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.3168589770793915,
+          "g": 0.186367928981781,
+          "b": 0.44999998807907104,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 125,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 126,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 127,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 17,
+      "color": {
+        "r": 0.8588235378265381,
+        "g": 0.0,
+        "b": 0.5568627715110779,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.5098039507865906,
+        "g": 0.02352941408753395,
+        "b": 0.33725491166114807,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.16826945543289185,
+        "g": 0.07618539035320282,
+        "b": 0.11443538218736649,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 128,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 129,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 130,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 131,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 132,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.9284905791282654,
+          "g": 0.07427923381328583,
+          "b": 0.628610372543335,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.8584905862808228,
+          "g": 0.0,
+          "b": 0.5571081638336182,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.38632073998451233,
+          "g": 0.0,
+          "b": 0.25069865584373474,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.9284905791282654,
+          "g": 0.07427923381328583,
+          "b": 0.628610372543335,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.8584905862808228,
+          "g": 0.0,
+          "b": 0.5571081638336182,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.38632073998451233,
+          "g": 0.0,
+          "b": 0.25069865584373474,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 133,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 134,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 135,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 18,
+      "color": {
+        "r": 0.5568627715110779,
+        "g": 0.0235294122248888,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.48235297203063965,
+        "g": 0.019607843831181526,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.13286836445331573,
+        "g": 0.04518621414899826,
+        "b": 0.04518621414899826,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 136,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 137,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 138,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 139,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 140,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.6266037225723267,
+          "g": 0.073453888297081,
+          "b": 0.05012828856706619,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.556603729724884,
+          "g": 0.02252154052257538,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.25047168135643005,
+          "g": 0.01013469323515892,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.6266037225723267,
+          "g": 0.073453888297081,
+          "b": 0.05012828856706619,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.556603729724884,
+          "g": 0.02252154052257538,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.25047168135643005,
+          "g": 0.01013469323515892,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 141,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 142,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 143,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 19,
+      "color": {
+        "r": 0.11764705926179886,
+        "g": 0.6784313917160034,
+        "b": 0.5882353186607361,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.062745101749897,
+        "g": 0.4705882668495178,
+        "b": 0.4078431725502014,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.06124607101082802,
+        "g": 0.13286836445331573,
+        "b": 0.1119324341416359,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 144,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 145,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 146,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 147,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 148,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.14779917895793915,
+          "g": 0.6143811345100403,
+          "b": 0.539647102355957,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.11854750663042068,
+          "g": 0.6792452931404114,
+          "b": 0.5894364714622498,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.033161237835884094,
+          "g": 0.3056603670120239,
+          "b": 0.2620132565498352,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.14779917895793915,
+          "g": 0.6143811345100403,
+          "b": 0.539647102355957,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.11854750663042068,
+          "g": 0.6792452931404114,
+          "b": 0.5894364714622498,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.033161237835884094,
+          "g": 0.3056603670120239,
+          "b": 0.2620132565498352,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 149,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 150,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 151,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 20,
+      "color": {
+        "r": 0.9450980424880981,
+        "g": 0.3764705955982208,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.5098039507865906,
+        "g": 0.24705883860588074,
+        "b": 0.07450980693101883,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.20863689482212067,
+        "g": 0.12477186322212219,
+        "b": 0.10224174708127975,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hatMaterial": {
+        "m_FileID": 152,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 153,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 154,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 155,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 156,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 0.8799999952316284,
+          "g": 0.391298770904541,
+          "b": 0.07039998471736908,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9450979828834534,
+          "g": 0.3746057152748108,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.42529407143592834,
+          "g": 0.1685725599527359,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 0.8799999952316284,
+          "g": 0.391298770904541,
+          "b": 0.07039998471736908,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 0.9450979828834534,
+          "g": 0.3746057152748108,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.42529407143592834,
+          "g": 0.1685725599527359,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 32768,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": -1,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 157,
+        "m_PathID": "1"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 158,
+        "m_PathID": "1"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 159,
+        "m_PathID": "1"
+      }
+    },
+    {
+      "colorType": 21,
+      "color": {
+        "r": 0.8784313797950745,
+        "g": 0.7490196228027344,
+        "b": 0.48235294222831726,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.6705882549285889,
+        "g": 0.6039215922355652,
+        "b": 0.15294118225574493,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.18039216101169586,
+        "g": 0.125490203499794,
+        "b": 0.08627451211214066,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 160,
+        "m_PathID": "1"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 160,
+        "m_PathID": "1"
+      },
+      "hatMaterial": {
+        "m_FileID": 161,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 10,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 11,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 12,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 13,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 0.708228588104248,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.5660377740859985,
+          "g": 0.4017758369445801,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 33924,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": 0,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 0.705513596534729,
+          "b": 0.0156862735748291,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 65535,
+        "ctime2": 0,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": 0,
+        "m_NumColorKeys": 2,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      }
+    },
+    {
+      "colorType": 22,
+      "color": {
+        "r": 0.8784313797950745,
+        "g": 0.7490196228027344,
+        "b": 0.48235294222831726,
+        "a": 1.0
+      },
+      "shadowColor": {
+        "r": 0.6705882549285889,
+        "g": 0.6039215922355652,
+        "b": 0.15294118225574493,
+        "a": 1.0
+      },
+      "specularColor": {
+        "r": 0.18039216101169586,
+        "g": 0.125490203499794,
+        "b": 0.08627451211214066,
+        "a": 1.0
+      },
+      "StaticBodyMaterial": {
+        "m_FileID": 162,
+        "m_PathID": "1"
+      },
+      "SkinnedBodyMaterial": {
+        "m_FileID": 162,
+        "m_PathID": "1"
+      },
+      "hatMaterial": {
+        "m_FileID": 161,
+        "m_PathID": "1"
+      },
+      "propellerMaterial": {
+        "m_FileID": 10,
+        "m_PathID": "1"
+      },
+      "propellerLowAlphaMaterial": {
+        "m_FileID": 11,
+        "m_PathID": "1"
+      },
+      "propellerMediumAlphaMaterial": {
+        "m_FileID": 12,
+        "m_PathID": "1"
+      },
+      "propellerHighAlphaMaterial": {
+        "m_FileID": 13,
+        "m_PathID": "1"
+      },
+      "dieRingParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 2120,
+        "ctime1": 33924,
+        "ctime2": 65535,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 13878,
+        "atime2": 38550,
+        "atime3": 53392,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": 0,
+        "m_NumColorKeys": 3,
+        "m_NumAlphaKeys": 4
+      },
+      "dieDropletParticleColor": {
+        "key0": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        },
+        "key1": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "key2": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "key3": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key4": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key5": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key6": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "key7": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "ctime0": 0,
+        "ctime1": 65535,
+        "ctime2": 0,
+        "ctime3": 0,
+        "ctime4": 0,
+        "ctime5": 0,
+        "ctime6": 0,
+        "ctime7": 0,
+        "atime0": 0,
+        "atime1": 14649,
+        "atime2": 19661,
+        "atime3": 65535,
+        "atime4": 0,
+        "atime5": 0,
+        "atime6": 0,
+        "atime7": 0,
+        "m_Mode": 0,
+        "m_ColorSpace": 0,
+        "m_NumColorKeys": 2,
+        "m_NumAlphaKeys": 4
+      },
+      "bulletMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "bulletTrailMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "colorBarrelBaseMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "colorBarrelTopMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "colorBarrelExplosionParticleMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      }
+    }
+  ],
+  "baseBlasterStaticBodyMaterial": {
+    "m_FileID": 163,
+    "m_PathID": "1"
+  },
+  "baseBlasterSkinnedBodyMaterial": {
+    "m_FileID": 164,
+    "m_PathID": "1"
+  },
+  "<BlasterHiddenBodyMaterial>k__BackingField": {
+    "m_FileID": 165,
+    "m_PathID": "1"
+  },
+  "<BlasterStaticBodyOutlineMaterial>k__BackingField": {
+    "m_FileID": 166,
+    "m_PathID": "1"
+  },
+  "<IcedConnectionMaterial>k__BackingField": {
+    "m_FileID": 167,
+    "m_PathID": "1"
+  },
+  "baseBlasterDieRingParticleMaterial": {
+    "m_FileID": 168,
+    "m_PathID": "1"
+  },
+  "goldenBlasterDieRingParticleMaterial": {
+    "m_FileID": 169,
+    "m_PathID": "1"
+  },
+  "rainbowBlasterDieRingParticleMaterial": {
+    "m_FileID": 170,
+    "m_PathID": "1"
+  },
+  "baseBlasterDieDropletsParticleMaterial": {
+    "m_FileID": 171,
+    "m_PathID": "1"
+  },
+  "goldenBlasterDieDropletsParticleMaterial": {
+    "m_FileID": 172,
+    "m_PathID": "1"
+  },
+  "rainbowBlasterDieDropletsParticleMaterial": {
+    "m_FileID": 173,
+    "m_PathID": "1"
+  },
+  "hiddenConnectionColor": {
+    "r": 0.2862745225429535,
+    "g": 0.37254902720451355,
+    "b": 0.7647058963775635,
+    "a": 1.0
+  }
+}

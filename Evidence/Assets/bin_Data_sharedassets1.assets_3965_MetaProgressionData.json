@@ -1,0 +1,896 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2217"
+  },
+  "m_Name": "MetaProgressionData",
+  "cubeLeagueArtwork": {
+    "m_AssetGUID": "dc68995168ce17348a9e9634f2fbe1b5",
+    "m_SubObjectName": "0_Journey_Artwork_CubeLeagueMeta",
+    "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "metaProgressData": [
+    {
+      "unlockLevel": 1,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "162163d34cf544e4db460f7812d119c3",
+          "m_SubObjectName": "1_Journey_Artwork_NewYork",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "New York",
+        "iconOffsetY": -140
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 15,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -15,
+          "info": "15M"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 20,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "2a2330743f7270a4c9849d9d626a7dd8",
+          "m_SubObjectName": "2_Journey_Artwork_Memphis-Egypt",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Cairo",
+        "iconOffsetY": -80
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 30,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 50,
+          "info": "50"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 40,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -15,
+          "info": "15M"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 50,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "75c908492fb0d6e4eb3ebcfcfacc249a",
+          "m_SubObjectName": "4_Journey_Artwork_Rome",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Rome",
+        "iconOffsetY": -80
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 60,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 75,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 100,
+          "info": "100"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 90,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -30,
+          "info": "30M"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 100,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "e96e30d06ab27d8418327d42d154c7e4",
+          "m_SubObjectName": "5_Journey_Artwork_Tokyo",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Tokyo",
+        "iconOffsetY": -80
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 125,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 100,
+          "info": "100"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 150,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -30,
+          "info": "30M"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 175,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 200,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "b7f86b2b644eb9e45a2a46e3362eaac5",
+          "m_SubObjectName": "6_Journey_Artwork_Paris",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Paris",
+        "iconOffsetY": -120
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 225,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 250,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 200,
+          "info": "200"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 275,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 300,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "28d0a637fbeb1d942937f463bd3e8c3d",
+          "m_SubObjectName": "7_Journey_Artwork_London",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "London",
+        "iconOffsetY": -150
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 325,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -60,
+          "info": "1H"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 350,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 375,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 200,
+          "info": "200"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 400,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "b877a6cc7a18dfd4b9272ca7a784ba4a",
+          "m_SubObjectName": "8_Journey_Artwork_Barcelona",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Barcelona",
+        "iconOffsetY": -110
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 425,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 450,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 300,
+          "info": "300"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 475,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 500,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "976a0ebaf71057c4489853821f9ccaa6",
+          "m_SubObjectName": "3_Journey_Artwork_Brazil",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Rio de Janeiro",
+        "iconOffsetY": -100
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 525,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 300,
+          "info": "300"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 550,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 575,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -60,
+          "info": "1H"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 600,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "7bf6726b8f12bac40b8d09577ab8e9e6",
+          "m_SubObjectName": "9_Journey_Artwork_Istanbul",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Istanbul",
+        "iconOffsetY": -175
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 625,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 650,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -60,
+          "info": "1H"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 675,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 300,
+          "info": "300"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 700,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "b02703981d3558d43b3b1e7d027c055a",
+          "m_SubObjectName": "10_Journey_Artwork_Berlin",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Berlin",
+        "iconOffsetY": -150
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 725,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -30,
+          "info": "30M"
+        },
+        {
+          "type": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 750,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 300,
+          "info": "300"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 775,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 800,
+      "isCity": 1,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "1d4df8d34ee5746ae976d74447fc6a47",
+          "m_SubObjectName": "11_Journey_Artwork_TacMahal",
+          "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "cityName": "Tac Mahal",
+        "iconOffsetY": -60
+      },
+      "rewards": []
+    },
+    {
+      "unlockLevel": 825,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 300,
+          "info": "300"
+        }
+      ]
+    },
+    {
+      "unlockLevel": 850,
+      "isCity": 0,
+      "cityData": {
+        "cityIcon": {
+          "m_AssetGUID": "",
+          "m_SubObjectName": "",
+          "m_SubObjectType": ""
+        },
+        "cityName": "",
+        "iconOffsetY": 0
+      },
+      "rewards": [
+        {
+          "type": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    }
+  ]
+}

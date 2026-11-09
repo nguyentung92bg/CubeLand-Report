@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1463"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1600"
+  },
+  "m_Name": "",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": "2611"
+  },
+  "queueJumpTransform": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "blasterVisual": {
+    "m_FileID": 0,
+    "m_PathID": "2045"
+  },
+  "skinnedMeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2665"
+  },
+  "staticMeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2476"
+  },
+  "animEventBridge": {
+    "m_FileID": 0,
+    "m_PathID": "4614"
+  },
+  "bulletCountText": {
+    "m_FileID": 0,
+    "m_PathID": "4622"
+  },
+  "timeBetweenShoots": 0.03500000014901161,
+  "bulletSpawnPoint": {
+    "m_FileID": 0,
+    "m_PathID": "2046"
+  },
+  "hiddenModeQuestionMarkText": {
+    "m_FileID": 0,
+    "m_PathID": "4448"
+  },
+  "connectionJoint": {
+    "m_FileID": 0,
+    "m_PathID": "2200"
+  },
+  "connectionPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "4045"
+  },
+  "chainConnectionPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "4507"
+  },
+  "goldenShineObject": {
+    "m_FileID": 0,
+    "m_PathID": "1703"
+  },
+  "iceObject": {
+    "m_FileID": 0,
+    "m_PathID": "1230"
+  },
+  "iceHealthText": {
+    "m_FileID": 0,
+    "m_PathID": "4447"
+  },
+  "jewelHeistPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "4633"
+  },
+  "jewelHeistSpawnPoint": {
+    "m_FileID": 0,
+    "m_PathID": "2165"
+  },
+  "trapObject": {
+    "m_FileID": 0,
+    "m_PathID": "4407"
+  },
+  "colorBarrelObject": {
+    "m_FileID": 0,
+    "m_PathID": "4567"
+  }
+}

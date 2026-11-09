@@ -1,0 +1,1236 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": "-5830258833825837554"
+  },
+  "m_Name": "Box",
+  "Version": 1,
+  "contentHash": "1641e6ddb79a",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": "2169673270556920424"
+  },
+  "dockCount": 5,
+  "rootPosition": {
+    "x": 0.0,
+    "y": -4.0,
+    "z": 2.25
+  },
+  "rootLocalEulerAngles": {
+    "x": 330.0,
+    "y": 0.0,
+    "z": 180.0
+  },
+  "voxelizedObjectCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "voxelizedObjectShadowPosition": {
+    "x": 0.0,
+    "y": -12.5,
+    "z": 4.300000190734863
+  },
+  "voxelizedObjectScale": 2.0,
+  "difficulty": 0,
+  "shouldLoop": 0,
+  "shouldOfferMeteorShower": 1,
+  "LayerData": [
+    {
+      "depth": 0,
+      "colorType": 3,
+      "VoxelPositions": [
+        {
+          "x": -2,
+          "y": 1,
+          "z": -2
+        },
+        {
+          "x": -2,
+          "y": 1,
+          "z": -1
+        },
+        {
+          "x": -2,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "y": 1,
+          "z": 1
+        },
+        {
+          "x": -2,
+          "y": 1,
+          "z": 2
+        },
+        {
+          "x": -2,
+          "y": 1,
+          "z": 3
+        },
+        {
+          "x": -2,
+          "y": 2,
+          "z": -2
+        },
+        {
+          "x": -2,
+          "y": 2,
+          "z": -1
+        },
+        {
+          "x": -2,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "y": 2,
+          "z": 1
+        },
+        {
+          "x": -2,
+          "y": 2,
+          "z": 2
+        },
+        {
+          "x": -2,
+          "y": 2,
+          "z": 3
+        },
+        {
+          "x": -2,
+          "y": 3,
+          "z": -2
+        },
+        {
+          "x": -2,
+          "y": 3,
+          "z": -1
+        },
+        {
+          "x": -2,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "y": 3,
+          "z": 1
+        },
+        {
+          "x": -2,
+          "y": 3,
+          "z": 2
+        },
+        {
+          "x": -2,
+          "y": 3,
+          "z": 3
+        },
+        {
+          "x": -1,
+          "y": 1,
+          "z": -2
+        },
+        {
+          "x": -1,
+          "y": 1,
+          "z": 3
+        },
+        {
+          "x": -1,
+          "y": 2,
+          "z": -2
+        },
+        {
+          "x": -1,
+          "y": 2,
+          "z": 3
+        },
+        {
+          "x": -1,
+          "y": 3,
+          "z": -2
+        },
+        {
+          "x": -1,
+          "y": 3,
+          "z": -1
+        },
+        {
+          "x": -1,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "y": 3,
+          "z": 1
+        },
+        {
+          "x": -1,
+          "y": 3,
+          "z": 2
+        },
+        {
+          "x": -1,
+          "y": 3,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "z": -1
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "z": 2
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "z": 3
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "z": -2
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "z": 3
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "z": -2
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "z": 3
+        },
+        {
+          "x": 1,
+          "y": 3,
+          "z": -2
+        },
+        {
+          "x": 1,
+          "y": 3,
+          "z": -1
+        },
+        {
+          "x": 1,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 3,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 3,
+          "z": 2
+        },
+        {
+          "x": 1,
+          "y": 3,
+          "z": 3
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "z": -2
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "z": -1
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "z": 1
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "z": 2
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "z": 3
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "z": -2
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "z": -1
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "z": 1
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "z": 2
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "z": 3
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "z": -2
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "z": -1
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "z": 1
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "z": 2
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "depth": 0,
+      "colorType": 8,
+      "VoxelPositions": [
+        {
+          "x": -2,
+          "y": -2,
+          "z": -2
+        },
+        {
+          "x": -2,
+          "y": -2,
+          "z": -1
+        },
+        {
+          "x": -2,
+          "y": -2,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "y": -2,
+          "z": 1
+        },
+        {
+          "x": -2,
+          "y": -2,
+          "z": 2
+        },
+        {
+          "x": -2,
+          "y": -2,
+          "z": 3
+        },
+        {
+          "x": -2,
+          "y": -1,
+          "z": -2
+        },
+        {
+          "x": -2,
+          "y": -1,
+          "z": -1
+        },
+        {
+          "x": -2,
+          "y": -1,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "y": -1,
+          "z": 1
+        },
+        {
+          "x": -2,
+          "y": -1,
+          "z": 2
+        },
+        {
+          "x": -2,
+          "y": -1,
+          "z": 3
+        },
+        {
+          "x": -2,
+          "y": 0,
+          "z": -2
+        },
+        {
+          "x": -2,
+          "y": 0,
+          "z": -1
+        },
+        {
+          "x": -2,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": -2,
+          "y": 0,
+          "z": 2
+        },
+        {
+          "x": -2,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": -1,
+          "y": -2,
+          "z": -2
+        },
+        {
+          "x": -1,
+          "y": -2,
+          "z": -1
+        },
+        {
+          "x": -1,
+          "y": -2,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "y": -2,
+          "z": 1
+        },
+        {
+          "x": -1,
+          "y": -2,
+          "z": 2
+        },
+        {
+          "x": -1,
+          "y": -2,
+          "z": 3
+        },
+        {
+          "x": -1,
+          "y": -1,
+          "z": -2
+        },
+        {
+          "x": -1,
+          "y": -1,
+          "z": 3
+        },
+        {
+          "x": -1,
+          "y": 0,
+          "z": -2
+        },
+        {
+          "x": -1,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": -2,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": -2,
+          "z": -1
+        },
+        {
+          "x": 0,
+          "y": -2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": -2,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": -2,
+          "z": 2
+        },
+        {
+          "x": 0,
+          "y": -2,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": -1,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": -1,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": -2
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 1,
+          "y": -2,
+          "z": -2
+        },
+        {
+          "x": 1,
+          "y": -2,
+          "z": -1
+        },
+        {
+          "x": 1,
+          "y": -2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": -2,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": -2,
+          "z": 2
+        },
+        {
+          "x": 1,
+          "y": -2,
+          "z": 3
+        },
+        {
+          "x": 1,
+          "y": -1,
+          "z": -2
+        },
+        {
+          "x": 1,
+          "y": -1,
+          "z": 3
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": -2
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 2,
+          "y": -2,
+          "z": -2
+        },
+        {
+          "x": 2,
+          "y": -2,
+          "z": -1
+        },
+        {
+          "x": 2,
+          "y": -2,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "y": -2,
+          "z": 1
+        },
+        {
+          "x": 2,
+          "y": -2,
+          "z": 2
+        },
+        {
+          "x": 2,
+          "y": -2,
+          "z": 3
+        },
+        {
+          "x": 2,
+          "y": -1,
+          "z": -2
+        },
+        {
+          "x": 2,
+          "y": -1,
+          "z": -1
+        },
+        {
+          "x": 2,
+          "y": -1,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "y": -1,
+          "z": 1
+        },
+        {
+          "x": 2,
+          "y": -1,
+          "z": 2
+        },
+        {
+          "x": 2,
+          "y": -1,
+          "z": 3
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "z": -2
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "z": -1
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "z": 2
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "colorType": 7,
+      "VoxelPositions": [
+        {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        {
+          "x": -1,
+          "y": -1,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "y": -1,
+          "z": 1
+        },
+        {
+          "x": -1,
+          "y": -1,
+          "z": 2
+        },
+        {
+          "x": -1,
+          "y": 0,
+          "z": -1
+        },
+        {
+          "x": -1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": -1,
+          "y": 0,
+          "z": 2
+        },
+        {
+          "x": -1,
+          "y": 1,
+          "z": -1
+        },
+        {
+          "x": -1,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "y": 1,
+          "z": 1
+        },
+        {
+          "x": -1,
+          "y": 1,
+          "z": 2
+        },
+        {
+          "x": -1,
+          "y": 2,
+          "z": -1
+        },
+        {
+          "x": -1,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "y": 2,
+          "z": 1
+        },
+        {
+          "x": -1,
+          "y": 2,
+          "z": 2
+        },
+        {
+          "x": 0,
+          "y": -1,
+          "z": -1
+        },
+        {
+          "x": 0,
+          "y": -1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": -1,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": -1,
+          "z": 2
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": -1
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 2
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": 2
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "z": -1
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "z": 2
+        },
+        {
+          "x": 1,
+          "y": -1,
+          "z": -1
+        },
+        {
+          "x": 1,
+          "y": -1,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": -1,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": -1,
+          "z": 2
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": -1
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 2
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "z": -1
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "z": 2
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "z": -1
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "z": 2
+        }
+      ]
+    },
+    {
+      "depth": 2,
+      "colorType": 7,
+      "VoxelPositions": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": 1
+        }
+      ]
+    }
+  ],
+  "LargeVoxelData": [],
+  "DoubleLargeVoxelData": [],
+  "IceWrapperData": [],
+  "GiftWrapperData": [],
+  "PlaypenData": [],
+  "ShrinkingCoverData": [],
+  "BombData": [],
+  "ColorBoxData": [],
+  "ShieldData": [],
+  "FlyingPiggyData": [],
+  "HiddenChestData": [],
+  "SolutionColumns": [],
+  "serializedPlaceableColumn": [
+    {
+      "Placeables": [
+        {
+          "rid": 1000
+        },
+        {
+          "rid": 1001
+        },
+        {
+          "rid": 1002
+        },
+        {
+          "rid": 1003
+        }
+      ]
+    },
+    {
+      "Placeables": [
+        {
+          "rid": 1004
+        },
+        {
+          "rid": 1005
+        },
+        {
+          "rid": 1006
+        },
+        {
+          "rid": 1007
+        }
+      ]
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 1000,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 28,
+          "Type": 0,
+          "color": 3,
+          "secondaryColor": 0,
+          "bulletCount": 20,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      },
+      {
+        "rid": 1001,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 27,
+          "Type": 0,
+          "color": 3,
+          "secondaryColor": 0,
+          "bulletCount": 20,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      },
+      {
+        "rid": 1002,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 26,
+          "Type": 0,
+          "color": 3,
+          "secondaryColor": 0,
+          "bulletCount": 26,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      },
+      {
+        "rid": 1003,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 32,
+          "Type": 0,
+          "color": 7,
+          "secondaryColor": 0,
+          "bulletCount": 24,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      },
+      {
+        "rid": 1004,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 31,
+          "Type": 0,
+          "color": 8,
+          "secondaryColor": 0,
+          "bulletCount": 20,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      },
+      {
+        "rid": 1005,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 29,
+          "Type": 0,
+          "color": 8,
+          "secondaryColor": 0,
+          "bulletCount": 20,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      },
+      {
+        "rid": 1006,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 30,
+          "Type": 0,
+          "color": 8,
+          "secondaryColor": 0,
+          "bulletCount": 26,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      },
+      {
+        "rid": 1007,
+        "type": {
+          "class": "BlasterData",
+          "ns": "Rotatelab",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "id": 33,
+          "Type": 0,
+          "color": 7,
+          "secondaryColor": 0,
+          "bulletCount": 24,
+          "isHidden": 0,
+          "iceHp": 0,
+          "isPilot": 0,
+          "isChained": 0,
+          "hasTrap": 0,
+          "isTrapOpen": 0,
+          "hasColorBarrel": 0,
+          "colorBarrelHp": 0,
+          "colorBarrelColor": 0,
+          "ConnectedBlasters": [],
+          "ChainedBlasters": [],
+          "InnerBlasters": []
+        }
+      }
+    ]
+  }
+}

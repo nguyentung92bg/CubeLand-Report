@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2388"
+  },
+  "m_Name": "RemoteIdfaPool",
+  "remoteKey": "idfa_pool",
+  "needToCache": 0,
+  "_defaultValue": "Kiraz*1831A7AD-8E6F-4CD0-995C-963F6BA636B1|Ofis*62B5E094-8499-48DA-82E0-A62B4D2EA391"
+}

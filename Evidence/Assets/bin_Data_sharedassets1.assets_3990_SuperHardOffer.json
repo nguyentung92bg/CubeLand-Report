@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "658"
+  },
+  "m_Name": "SuperHardOffer",
+  "iapData": {
+    "productId": "iap_coin_cubeblast_minimum",
+    "adjustKey": "gxvh2d"
+  },
+  "offerType": 12,
+  "title": "Starter Bundle",
+  "bundleOfferElements": [
+    {
+      "type": 5,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "458"
+      },
+      "amount": -15,
+      "info": "15M"
+    },
+    {
+      "type": 3,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "94"
+      },
+      "amount": 1,
+      "info": "x1"
+    },
+    {
+      "type": 0,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "121"
+      },
+      "amount": 1000,
+      "info": "1000"
+    }
+  ],
+  "shopPanelBundleItem": {
+    "m_FileID": 0,
+    "m_PathID": "4529"
+  },
+  "discountAmount": 0
+}

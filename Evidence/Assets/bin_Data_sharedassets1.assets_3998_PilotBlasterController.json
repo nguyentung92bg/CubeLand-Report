@@ -1,0 +1,160 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1073"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1903"
+  },
+  "m_Name": "",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": "2627"
+  },
+  "queueJumpTransform": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "blasterVisual": {
+    "m_FileID": 0,
+    "m_PathID": "2248"
+  },
+  "skinnedMeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2658"
+  },
+  "staticMeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2402"
+  },
+  "animEventBridge": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "bulletCountText": {
+    "m_FileID": 0,
+    "m_PathID": "4320"
+  },
+  "timeBetweenShoots": 0.03500000014901161,
+  "bulletSpawnPoint": {
+    "m_FileID": 0,
+    "m_PathID": "2273"
+  },
+  "hiddenModeQuestionMarkText": {
+    "m_FileID": 0,
+    "m_PathID": "4132"
+  },
+  "connectionJoint": {
+    "m_FileID": 0,
+    "m_PathID": "2015"
+  },
+  "connectionPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "4045"
+  },
+  "chainConnectionPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "goldenShineObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "iceObject": {
+    "m_FileID": 0,
+    "m_PathID": "1704"
+  },
+  "iceHealthText": {
+    "m_FileID": 0,
+    "m_PathID": "4133"
+  },
+  "jewelHeistPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "jewelHeistSpawnPoint": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "trapObject": {
+    "m_FileID": 0,
+    "m_PathID": "4113"
+  },
+  "colorBarrelObject": {
+    "m_FileID": 0,
+    "m_PathID": "4224"
+  },
+  "pilotShooterTransform": {
+    "m_FileID": 0,
+    "m_PathID": "2219"
+  },
+  "hatRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2432"
+  },
+  "propellerRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2471"
+  },
+  "propellerFadeBlades": {
+    "m_FileID": 0,
+    "m_PathID": "1759"
+  },
+  "fadeBladesLowAlpha": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2391"
+    }
+  ],
+  "fadeBladesMediumAlpha": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2480"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2418"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2435"
+    }
+  ],
+  "fadeBladesHighAlpha": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2463"
+    }
+  ],
+  "blobShadowRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "3020"
+  },
+  "queueShooterScale": 0.800000011920929,
+  "leftSideText": {
+    "m_FileID": 0,
+    "m_PathID": "4564"
+  },
+  "rightSideText": {
+    "m_FileID": 0,
+    "m_PathID": "4635"
+  },
+  "flightDuration": 0.6000000238418579,
+  "takeoffHeight": 1.5,
+  "landingScale": 0.75,
+  "closeLegsWeight": 40.0,
+  "aimYawIdle": 12.0,
+  "aimYawMin": 0.0,
+  "aimYawMax": 25.0,
+  "aimWorldXRange": 0.10000000149011612,
+  "aimTweenDuration": 0.25,
+  "hoverBobAmplitude": 0.30000001192092896,
+  "hoverBobUpDuration": 1.0,
+  "hoverBobDownDuration": 1.0,
+  "queuePropellerSpeed": 60.0,
+  "frontRowPropellerSpeed": 120.0,
+  "hoverPropellerSpeed": 1200.0,
+  "flightPropellerSpeed": 720.0
+}

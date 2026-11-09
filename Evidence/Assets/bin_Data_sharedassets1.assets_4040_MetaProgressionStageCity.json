@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1825"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "974"
+  },
+  "m_Name": "",
+  "slider": {
+    "m_FileID": 0,
+    "m_PathID": "4276"
+  },
+  "cityPanelImage": {
+    "m_FileID": 0,
+    "m_PathID": "4012"
+  },
+  "cityImage": {
+    "m_FileID": 0,
+    "m_PathID": "4126"
+  },
+  "cityName": {
+    "m_FileID": 0,
+    "m_PathID": "4277"
+  },
+  "cityLevelInfo": {
+    "m_FileID": 0,
+    "m_PathID": "4081"
+  },
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": "1730"
+  },
+  "selectedSprite": {
+    "m_FileID": 0,
+    "m_PathID": "889"
+  },
+  "deSelectedSprite": {
+    "m_FileID": 0,
+    "m_PathID": "800"
+  },
+  "visitButton": {
+    "m_FileID": 0,
+    "m_PathID": "1124"
+  },
+  "selectedColor": {
+    "r": 0.9490196704864502,
+    "g": 0.6274510025978088,
+    "b": 0.2352941334247589,
+    "a": 1.0
+  },
+  "deselectColor": {
+    "r": 0.5647059082984924,
+    "g": 0.6117647290229797,
+    "b": 0.6117647290229797,
+    "a": 1.0
+  }
+}

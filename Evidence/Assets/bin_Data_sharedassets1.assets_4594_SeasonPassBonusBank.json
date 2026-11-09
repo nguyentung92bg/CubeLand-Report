@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1385"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1924"
+  },
+  "m_Name": "",
+  "bonusTarget": {
+    "m_FileID": 0,
+    "m_PathID": "4190"
+  },
+  "progressText": {
+    "m_FileID": 0,
+    "m_PathID": "4146"
+  },
+  "infoText": {
+    "m_FileID": 0,
+    "m_PathID": "4209"
+  },
+  "lockUi": {
+    "m_FileID": 0,
+    "m_PathID": "1556"
+  }
+}

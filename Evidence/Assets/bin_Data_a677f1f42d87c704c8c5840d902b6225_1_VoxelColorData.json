@@ -1,0 +1,916 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "377"
+  },
+  "m_Name": "VoxelColorData",
+  "voxelColors": [
+    {
+      "colorType": 0,
+      "color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 2,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 0.75,
+      "colorShiftValue": 1.5
+    },
+    {
+      "colorType": 1,
+      "color": {
+        "r": 1.0,
+        "g": 0.8941176533699036,
+        "b": 0.7411764860153198,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.25,
+        "g": 0.13333334028720856,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 3,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 4,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 5,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 6,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.5,
+      "colorShiftValue": 0.5
+    },
+    {
+      "colorType": 2,
+      "color": {
+        "r": 0.1882352977991104,
+        "g": 0.20000000298023224,
+        "b": 0.23529411852359772,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.11372549831867218,
+        "g": 0.11372549831867218,
+        "b": 0.15294118225574493,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 7,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 8,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 9,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 2,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.5,
+      "colorShiftValue": 1.2999999523162842
+    },
+    {
+      "colorType": 3,
+      "color": {
+        "r": 0.16862745583057404,
+        "g": 0.5137255191802979,
+        "b": 0.8666666746139526,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.0784313753247261,
+        "g": 0.250980406999588,
+        "b": 0.43529415130615234,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 10,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 11,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 12,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 13,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 0.75,
+      "colorShiftValue": 1.5
+    },
+    {
+      "colorType": 4,
+      "color": {
+        "r": 0.5372549295425415,
+        "g": 0.40392157435417175,
+        "b": 0.20000000298023224,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.30588236451148987,
+        "g": 0.22352942824363708,
+        "b": 0.08627451211214066,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 14,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 15,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 16,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 17,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.600000023841858,
+      "colorShiftValue": 1.2999999523162842
+    },
+    {
+      "colorType": 5,
+      "color": {
+        "r": 0.0470588244497776,
+        "g": 0.5647059082984924,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.0,
+        "g": 0.3607843220233917,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 18,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 19,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 20,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 21,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.399999976158142,
+      "colorShiftValue": 1.2999999523162842
+    },
+    {
+      "colorType": 6,
+      "color": {
+        "r": 0.0,
+        "g": 0.9058823585510254,
+        "b": 0.4156862795352936,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.0,
+        "g": 0.5333333611488342,
+        "b": 0.2352941334247589,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 22,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 23,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 24,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 25,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.0,
+      "colorShiftValue": 0.5
+    },
+    {
+      "colorType": 7,
+      "color": {
+        "r": 1.0,
+        "g": 0.7058823704719543,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.7058823704719543,
+        "g": 0.4901961088180542,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 26,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 27,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 28,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 29,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.0499999523162842,
+      "colorShiftValue": 0.5
+    },
+    {
+      "colorType": 8,
+      "color": {
+        "r": 0.9843137264251709,
+        "g": 0.3333333432674408,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.6509804129600525,
+        "g": 0.2196078598499298,
+        "b": 0.6627451181411743,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 30,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 31,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 32,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 33,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.0499999523162842,
+      "colorShiftValue": 1.2999999523162842
+    },
+    {
+      "colorType": 9,
+      "color": {
+        "r": 0.545098066329956,
+        "g": 0.11764705926179886,
+        "b": 0.9333333373069763,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.458823561668396,
+        "g": 0.08627451211214066,
+        "b": 0.7921569347381592,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 34,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 35,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 36,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 37,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.0499999523162842,
+      "colorShiftValue": 1.2999999523162842
+    },
+    {
+      "colorType": 10,
+      "color": {
+        "r": 0.7843137383460999,
+        "g": 0.054901961237192154,
+        "b": 0.054901961237192154,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.4117647409439087,
+        "g": 0.12156863510608673,
+        "b": 0.12156863510608673,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 38,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 39,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 40,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 41,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 2.0,
+      "colorShiftValue": 1.350000023841858
+    },
+    {
+      "colorType": 11,
+      "color": {
+        "r": 0.1769757717847824,
+        "g": 0.9036802053451538,
+        "b": 0.9150943160057068,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.14901961386203766,
+        "g": 0.6666666865348816,
+        "b": 0.6745098233222961,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 42,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 43,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 44,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 45,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.2000000476837158,
+      "colorShiftValue": 0.5
+    },
+    {
+      "colorType": 12,
+      "color": {
+        "r": 0.8929411768913269,
+        "g": 0.8999999761581421,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.5960784554481506,
+        "g": 0.6000000238418579,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 46,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 47,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 48,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 49,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.100000023841858,
+      "colorShiftValue": 0.4000000059604645
+    },
+    {
+      "colorType": 13,
+      "color": {
+        "r": 0.8778480887413025,
+        "g": 0.905907154083252,
+        "b": 0.949999988079071,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.5647059082984924,
+        "g": 0.5843137502670288,
+        "b": 0.6117647290229797,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 50,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 51,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 52,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 53,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.0,
+      "colorShiftValue": 0.44999998807907104
+    },
+    {
+      "colorType": 14,
+      "color": {
+        "r": 0.6054217219352722,
+        "g": 0.6296385526657104,
+        "b": 0.6700000166893005,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.2862745225429535,
+        "g": 0.3019607961177826,
+        "b": 0.32156863808631897,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 54,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 55,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 56,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 57,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 0.75,
+      "colorShiftValue": 1.399999976158142
+    },
+    {
+      "colorType": 15,
+      "color": {
+        "r": 0.3761739134788513,
+        "g": 0.39078259468078613,
+        "b": 0.41999998688697815,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.21176472306251526,
+        "g": 0.21176472306251526,
+        "b": 0.22745099663734436,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 58,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 59,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 60,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 61,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 0.75,
+      "colorShiftValue": 1.350000023841858
+    },
+    {
+      "colorType": 16,
+      "color": {
+        "r": 0.7254902124404907,
+        "g": 0.4588235318660736,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.7254902124404907,
+        "g": 0.4588235318660736,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 62,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 63,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 64,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 65,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.399999976158142,
+      "colorShiftValue": 1.399999976158142
+    },
+    {
+      "colorType": 17,
+      "color": {
+        "r": 0.8588235378265381,
+        "g": 0.0,
+        "b": 0.5568627715110779,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.5686274766921997,
+        "g": 0.07450980693101883,
+        "b": 0.3686274588108063,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 66,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 67,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 68,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 69,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.399999976158142,
+      "colorShiftValue": 1.350000023841858
+    },
+    {
+      "colorType": 18,
+      "color": {
+        "r": 0.5568627715110779,
+        "g": 0.0235294122248888,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.3137255012989044,
+        "g": 0.10588236153125763,
+        "b": 0.10588236153125763,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 70,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 71,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 72,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 73,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.5,
+      "colorShiftValue": 1.2999999523162842
+    },
+    {
+      "colorType": 19,
+      "color": {
+        "r": 0.11764705926179886,
+        "g": 0.6784313917160034,
+        "b": 0.5882353186607361,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.04313725605607033,
+        "g": 0.458823561668396,
+        "b": 0.3921568989753723,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 74,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 75,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 76,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 77,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.5,
+      "colorShiftValue": 1.4500000476837158
+    },
+    {
+      "colorType": 20,
+      "color": {
+        "r": 0.9450980424880981,
+        "g": 0.3764705955982208,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.6470588445663452,
+        "g": 0.250980406999588,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 78,
+        "m_PathID": "1"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 79,
+        "m_PathID": "1"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 80,
+        "m_PathID": "1"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 81,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.5,
+      "colorShiftValue": 1.350000023841858
+    },
+    {
+      "colorType": 21,
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.8705882430076599,
+        "b": 0.7960784435272217,
+        "a": 1.0
+      },
+      "bombOutlineColor": {
+        "r": 0.6823529601097107,
+        "g": 0.5215686559677124,
+        "b": 0.3176470696926117,
+        "a": 1.0
+      },
+      "shrinkingCoverMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "shrinkingCoverTopMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "hiddenChestLockMaterial": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "destructionParticleMaterial": {
+        "m_FileID": 82,
+        "m_PathID": "1"
+      },
+      "colorShiftSaturation": 1.5,
+      "colorShiftValue": 1.350000023841858
+    }
+  ],
+  "baseVoxelMesh": {
+    "m_FileID": 83,
+    "m_PathID": "1"
+  },
+  "<BaseVoxelMaterial>k__BackingField": {
+    "m_FileID": 84,
+    "m_PathID": "1"
+  },
+  "<GoldenVoxelMaterial>k__BackingField": {
+    "m_FileID": 85,
+    "m_PathID": "1"
+  },
+  "<BaseVoxelDestructionParticleTrailMaterial>k__BackingField": {
+    "m_FileID": 86,
+    "m_PathID": "1"
+  },
+  "<GoldenVoxelDestructionParticleTrailMaterial>k__BackingField": {
+    "m_FileID": 87,
+    "m_PathID": "1"
+  },
+  "<BaseVoxelDestructionGlowParticleMaterial>k__BackingField": {
+    "m_FileID": 88,
+    "m_PathID": "1"
+  },
+  "<GoldenVoxelDestructionGlowParticleMaterial>k__BackingField": {
+    "m_FileID": 89,
+    "m_PathID": "1"
+  },
+  "<BaseVoxelDestructionGlowParticleColorOverLifetime>k__BackingField": {
+    "key0": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 0.0
+    },
+    "key1": {
+      "r": 0.0,
+      "g": 0.9882352948188782,
+      "b": 1.0,
+      "a": 0.6274510025978088
+    },
+    "key2": {
+      "r": 0.0,
+      "g": 0.2549019753932953,
+      "b": 1.0,
+      "a": 0.5098039507865906
+    },
+    "key3": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key4": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key5": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key6": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key7": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "ctime0": 2120,
+    "ctime1": 33924,
+    "ctime2": 65535,
+    "ctime3": 0,
+    "ctime4": 0,
+    "ctime5": 0,
+    "ctime6": 0,
+    "ctime7": 0,
+    "atime0": 0,
+    "atime1": 13878,
+    "atime2": 19853,
+    "atime3": 48959,
+    "atime4": 0,
+    "atime5": 0,
+    "atime6": 0,
+    "atime7": 0,
+    "m_Mode": 0,
+    "m_ColorSpace": 0,
+    "m_NumColorKeys": 3,
+    "m_NumAlphaKeys": 4
+  },
+  "<GoldenVoxelDestructionGlowParticleColorOverLifetime>k__BackingField": {
+    "key0": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 0.0
+    },
+    "key1": {
+      "r": 1.0,
+      "g": 0.7402892112731934,
+      "b": 0.0,
+      "a": 0.6274510025978088
+    },
+    "key2": {
+      "r": 0.0,
+      "g": 0.2549019753932953,
+      "b": 1.0,
+      "a": 0.5098039507865906
+    },
+    "key3": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key4": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key5": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key6": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key7": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "ctime0": 2120,
+    "ctime1": 33924,
+    "ctime2": 65535,
+    "ctime3": 0,
+    "ctime4": 0,
+    "ctime5": 0,
+    "ctime6": 0,
+    "ctime7": 0,
+    "atime0": 0,
+    "atime1": 13878,
+    "atime2": 19853,
+    "atime3": 48959,
+    "atime4": 0,
+    "atime5": 0,
+    "atime6": 0,
+    "atime7": 0,
+    "m_Mode": 0,
+    "m_ColorSpace": 0,
+    "m_NumColorKeys": 3,
+    "m_NumAlphaKeys": 4
+  },
+  "<GoldenVoxelCoinSprite>k__BackingField": {
+    "m_FileID": 90,
+    "m_PathID": "285"
+  },
+  "<JewelHeistSprite>k__BackingField": {
+    "m_FileID": 90,
+    "m_PathID": "190"
+  }
+}

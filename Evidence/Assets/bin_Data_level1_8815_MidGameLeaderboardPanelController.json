@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "327"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1171"
+  },
+  "m_Name": "",
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7801"
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": "8897"
+  },
+  "competitorsParent": {
+    "m_FileID": 0,
+    "m_PathID": "6893"
+  },
+  "botPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4410"
+  },
+  "playerPrefab": {
+    "m_FileID": 2,
+    "m_PathID": "4074"
+  },
+  "infoButton": {
+    "m_FileID": 0,
+    "m_PathID": "10855"
+  },
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "9800"
+  },
+  "winStreakStages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8814"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10095"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8601"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9969"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9286"
+    }
+  ]
+}

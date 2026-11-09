@@ -1,0 +1,736 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1357"
+  },
+  "m_Name": "JewelSo_0",
+  "starChallenges": [
+    {
+      "starCost": 5,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -15,
+          "info": "15M"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 10,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 15,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 10,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 50,
+          "info": "50"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 20,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 10,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -15,
+          "info": "15M"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 15,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 100,
+          "info": "100"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 20,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 25,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 50,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 25,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -30,
+          "info": "30M"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 30,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 100,
+          "info": "100"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 40,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 3,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "94"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 50,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 60,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -30,
+          "info": "30M"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 30,
+      "rewardSlot": {
+        "slotType": 1,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 0,
+          "info": "0"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "934"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "846"
+        },
+        "chestRewards": [
+          {
+            "currencyType": 1,
+            "icon": {
+              "m_FileID": 54,
+              "m_PathID": "350"
+            },
+            "amount": 1,
+            "info": "x1"
+          },
+          {
+            "currencyType": 2,
+            "icon": {
+              "m_FileID": 54,
+              "m_PathID": "430"
+            },
+            "amount": 1,
+            "info": "x1"
+          }
+        ]
+      }
+    },
+    {
+      "starCost": 40,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 2,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "430"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 50,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 1,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "350"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 60,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 200,
+          "info": "200"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 70,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 5,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "236"
+          },
+          "amount": -60,
+          "info": "1H"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 50,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 4,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "384"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 75,
+      "rewardSlot": {
+        "slotType": 1,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 0,
+          "info": "0"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "987"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "801"
+        },
+        "chestRewards": [
+          {
+            "currencyType": 5,
+            "icon": {
+              "m_FileID": 54,
+              "m_PathID": "236"
+            },
+            "amount": -30,
+            "info": "30M"
+          },
+          {
+            "currencyType": 1,
+            "icon": {
+              "m_FileID": 54,
+              "m_PathID": "350"
+            },
+            "amount": 1,
+            "info": "x1"
+          }
+        ]
+      }
+    },
+    {
+      "starCost": 100,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 9,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "393"
+          },
+          "amount": 1,
+          "info": "x1"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    },
+    {
+      "starCost": 150,
+      "rewardSlot": {
+        "slotType": 1,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 0,
+          "info": "0"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "864"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "977"
+        },
+        "chestRewards": [
+          {
+            "currencyType": 5,
+            "icon": {
+              "m_FileID": 54,
+              "m_PathID": "236"
+            },
+            "amount": -30,
+            "info": "30M"
+          },
+          {
+            "currencyType": 3,
+            "icon": {
+              "m_FileID": 54,
+              "m_PathID": "94"
+            },
+            "amount": 1,
+            "info": "x1"
+          }
+        ]
+      }
+    },
+    {
+      "starCost": 200,
+      "rewardSlot": {
+        "slotType": 0,
+        "singleReward": {
+          "currencyType": 0,
+          "icon": {
+            "m_FileID": 54,
+            "m_PathID": "285"
+          },
+          "amount": 1000,
+          "info": "1000"
+        },
+        "chestClosedIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestOpenIcon": {
+          "m_FileID": 0,
+          "m_PathID": "0"
+        },
+        "chestRewards": []
+      }
+    }
+  ],
+  "rewardTypes": [
+    {
+      "currencyType": 0,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "285"
+      },
+      "prefix": "",
+      "suffix": ""
+    },
+    {
+      "currencyType": 1,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "350"
+      },
+      "prefix": "x",
+      "suffix": ""
+    },
+    {
+      "currencyType": 2,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "430"
+      },
+      "prefix": "x",
+      "suffix": ""
+    },
+    {
+      "currencyType": 3,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "94"
+      },
+      "prefix": "x",
+      "suffix": ""
+    },
+    {
+      "currencyType": 4,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "384"
+      },
+      "prefix": "x",
+      "suffix": ""
+    },
+    {
+      "currencyType": 9,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "393"
+      },
+      "prefix": "x",
+      "suffix": ""
+    },
+    {
+      "currencyType": 5,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "236"
+      },
+      "prefix": "",
+      "suffix": "M"
+    }
+  ]
+}

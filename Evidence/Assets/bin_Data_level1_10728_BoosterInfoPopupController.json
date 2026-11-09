@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1232"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1141"
+  },
+  "m_Name": "",
+  "headerTxt": {
+    "m_FileID": 0,
+    "m_PathID": "8072"
+  },
+  "infoTxt": {
+    "m_FileID": 0,
+    "m_PathID": "8419"
+  },
+  "infoIcon": {
+    "m_FileID": 0,
+    "m_PathID": "10043"
+  },
+  "canvas": {
+    "m_FileID": 0,
+    "m_PathID": "5251"
+  },
+  "infoPopup": {
+    "m_FileID": 0,
+    "m_PathID": "5536"
+  },
+  "amountInfo": {
+    "m_FileID": 0,
+    "m_PathID": "2448"
+  },
+  "isActive": 0
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "665"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "221"
+  },
+  "m_Name": "",
+  "pages": {
+    "m_FileID": 0,
+    "m_PathID": "6745"
+  },
+  "lossPage": {
+    "m_FileID": 0,
+    "m_PathID": "5815"
+  },
+  "eventIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "10166"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10832"
+    }
+  ],
+  "messageText": {
+    "m_FileID": 0,
+    "m_PathID": "8015"
+  },
+  "skyliftIcon": {
+    "m_FileID": 6,
+    "m_PathID": "327"
+  },
+  "cloudRushIcon": {
+    "m_FileID": 6,
+    "m_PathID": "231"
+  }
+}

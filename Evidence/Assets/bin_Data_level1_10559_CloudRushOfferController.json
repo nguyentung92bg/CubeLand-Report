@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1062"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1080"
+  },
+  "m_Name": "",
+  "popupCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7852"
+  },
+  "backgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": "9158"
+  },
+  "offerBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": "9353"
+  },
+  "entryRewardPanel": {
+    "m_FileID": 0,
+    "m_PathID": "1307"
+  },
+  "startButtonGameobject": {
+    "m_FileID": 0,
+    "m_PathID": "1950"
+  },
+  "playButtonTextTransform": {
+    "m_FileID": 0,
+    "m_PathID": "7154"
+  },
+  "grandPrizePreviewPanel": {
+    "m_FileID": 0,
+    "m_PathID": "6781"
+  },
+  "timerPanel": {
+    "m_FileID": 0,
+    "m_PathID": "6369"
+  },
+  "defaultBackgroundPanelSprite": {
+    "m_FileID": 6,
+    "m_PathID": "435"
+  },
+  "failBackgroundPanelSprite": {
+    "m_FileID": 6,
+    "m_PathID": "183"
+  },
+  "infoText": {
+    "m_FileID": 0,
+    "m_PathID": "8146"
+  }
+}

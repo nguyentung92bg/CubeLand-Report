@@ -1,0 +1,114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1877"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "938"
+  },
+  "m_Name": "",
+  "giftWrapperCutRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2563"
+  },
+  "giftWrapperRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "2652"
+  },
+  "cutMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "461"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "485"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "547"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "0"
+    }
+  ],
+  "destroyParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2745"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2838"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2802"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2778"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2817"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2707"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2756"
+    }
+  ],
+  "cutParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2738"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2703"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2731"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2750"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2824"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2714"
+    }
+  ],
+  "hpTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "4227"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4421"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4161"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4208"
+    }
+  ],
+  "blendshapeSetDuration": 0.5,
+  "cutPointRandomOffset": 0.5
+}

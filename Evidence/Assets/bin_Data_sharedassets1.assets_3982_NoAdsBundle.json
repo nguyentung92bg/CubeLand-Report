@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "658"
+  },
+  "m_Name": "NoAdsBundle",
+  "iapData": {
+    "productId": "iap_noads_bundle_cubeblast",
+    "adjustKey": "u45ovc"
+  },
+  "offerType": 0,
+  "title": "NO-ADS BUNDLE",
+  "bundleOfferElements": [
+    {
+      "type": 7,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "370"
+      },
+      "amount": 1,
+      "info": ""
+    },
+    {
+      "type": 1,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "350"
+      },
+      "amount": 1,
+      "info": "x1"
+    },
+    {
+      "type": 2,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "430"
+      },
+      "amount": 1,
+      "info": "x1"
+    },
+    {
+      "type": 3,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "94"
+      },
+      "amount": 1,
+      "info": "x1"
+    },
+    {
+      "type": 0,
+      "icon": {
+        "m_FileID": 54,
+        "m_PathID": "121"
+      },
+      "amount": 2000,
+      "info": "2K Coins"
+    }
+  ],
+  "shopPanelBundleItem": {
+    "m_FileID": 0,
+    "m_PathID": "4530"
+  },
+  "discountAmount": 0
+}

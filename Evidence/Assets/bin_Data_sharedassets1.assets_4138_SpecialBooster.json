@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1291"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2559"
+  },
+  "m_Name": "",
+  "iconFillImageBackground": {
+    "m_FileID": 0,
+    "m_PathID": "4317"
+  },
+  "iconFillImage": {
+    "m_FileID": 0,
+    "m_PathID": "4520"
+  },
+  "progressImage": {
+    "m_FileID": 0,
+    "m_PathID": "4120"
+  },
+  "requiredBullets": 100,
+  "scaleEasing": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.6754134893417358,
+        "value": 1.2303578853607178,
+        "inSlope": 0.002116631716489792,
+        "outSlope": 0.002116631716489792,
+        "weightedMode": 0,
+        "inWeight": 0.08806467801332474,
+        "outWeight": 0.3147542476654053
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.979245662689209,
+        "outSlope": -0.979245662689209,
+        "weightedMode": 0,
+        "inWeight": 0.18675263226032257,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

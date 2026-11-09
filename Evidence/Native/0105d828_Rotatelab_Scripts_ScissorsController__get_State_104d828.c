@@ -1,0 +1,15 @@
+/* IL2CPP: Rotatelab.Scripts.ScissorsController$$get_State
+int32_t Rotatelab_Scripts_ScissorsController__get_State (Rotatelab_Scripts_ScissorsController_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Rotatelab.Scripts.ScissorsController$$get_State
+   int32_t Rotatelab_Scripts_ScissorsController__get_State (Rotatelab_Scripts_ScissorsController_o*
+   __this, const MethodInfo* method); */
+
+undefined4 Rotatelab_Scripts_ScissorsController__get_State_104d828(int param_1)
+
+{
+  return *(undefined4 *)(param_1 + 0x6c);
+}
+

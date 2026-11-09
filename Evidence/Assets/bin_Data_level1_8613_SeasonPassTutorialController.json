@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1573"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1464"
+  },
+  "m_Name": "",
+  "highlights": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "7884"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "7869"
+    }
+  ],
+  "backgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": "10138"
+  },
+  "activateSeasonTitle": {
+    "m_FileID": 0,
+    "m_PathID": "8234"
+  },
+  "activateSeasonInfo": {
+    "m_FileID": 0,
+    "m_PathID": "8032"
+  }
+}

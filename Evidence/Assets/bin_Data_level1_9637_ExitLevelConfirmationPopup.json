@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1017"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "622"
+  },
+  "m_Name": "",
+  "deactivateGameObjectOnHide": 1,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7875"
+  },
+  "popup": {
+    "m_FileID": 0,
+    "m_PathID": "6937"
+  },
+  "hideButton": {
+    "m_FileID": 0,
+    "m_PathID": "9150"
+  },
+  "quitLevelButton": {
+    "m_FileID": 0,
+    "m_PathID": "10557"
+  },
+  "progressLossPage": {
+    "m_FileID": 0,
+    "m_PathID": "10839"
+  }
+}

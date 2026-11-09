@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1393"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2118"
+  },
+  "m_Name": "",
+  "claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "4066"
+  },
+  "claimedIcon": {
+    "m_FileID": 0,
+    "m_PathID": "4210"
+  },
+  "claimParticle": {
+    "m_FileID": 0,
+    "m_PathID": "4505"
+  },
+  "lockAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "2640"
+  },
+  "<RewardEntriesGridLayout>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "4284"
+  }
+}

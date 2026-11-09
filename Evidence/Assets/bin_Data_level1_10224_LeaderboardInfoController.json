@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1209"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1557"
+  },
+  "m_Name": "",
+  "dim": {
+    "m_FileID": 0,
+    "m_PathID": "7948"
+  },
+  "popup": {
+    "m_FileID": 0,
+    "m_PathID": "7630"
+  },
+  "completeLevels": {
+    "m_FileID": 0,
+    "m_PathID": "6075"
+  },
+  "arrow1Tween": {
+    "m_FileID": 0,
+    "m_PathID": "8916"
+  },
+  "arrow2Tween": {
+    "m_FileID": 0,
+    "m_PathID": "9729"
+  },
+  "tapToContinueTween": {
+    "m_FileID": 0,
+    "m_PathID": "10884"
+  },
+  "tapToContinueButton": {
+    "m_FileID": 0,
+    "m_PathID": "9285"
+  },
+  "leaderboardAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "2956"
+  },
+  "rewardAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "2899"
+  },
+  "playerName": {
+    "m_FileID": 0,
+    "m_PathID": "8163"
+  }
+}

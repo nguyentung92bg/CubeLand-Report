@@ -1,0 +1,389 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "460"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "400"
+  },
+  "m_Name": "",
+  "remoteIsComplementaryBoosterTutorialActive": {
+    "m_FileID": 2,
+    "m_PathID": "554"
+  },
+  "remoteIsRewardedActivationCheckByCoinAmount": {
+    "m_FileID": 2,
+    "m_PathID": "555"
+  },
+  "remoteShopPopularBadgeIndex": {
+    "m_FileID": 2,
+    "m_PathID": "557"
+  },
+  "remoteShopBestOfferBadgeIndex": {
+    "m_FileID": 2,
+    "m_PathID": "556"
+  },
+  "remoteRateUsAndroid": {
+    "m_FileID": 2,
+    "m_PathID": "560"
+  },
+  "remoteRateUsIos": {
+    "m_FileID": 2,
+    "m_PathID": "561"
+  },
+  "AdsConfig": {
+    "remoteKey": "AdsConfig",
+    "banner": {
+      "enabledLevel": 999999
+    },
+    "interstitial": {
+      "enabledLevel": 20,
+      "timerSeconds": 90,
+      "timerOverrides": []
+    },
+    "rewarded": {
+      "dailyCap": 5,
+      "capStartLevel": 54,
+      "capOverrides": [],
+      "enabledLevels": {
+        "life": 1,
+        "boosters": 1,
+        "playOn": 1,
+        "levelUp": 11
+      }
+    }
+  },
+  "IsAlternateCrownTournamentRewardEnabled": {
+    "remoteKey": "IsAlternateCrownTournamentRewardEnabled",
+    "defaultValue": 0
+  },
+  "IsIAPUser": {
+    "remoteKey": "IsIAPUser",
+    "defaultValue": 0
+  },
+  "IsLevelStartMotionEnabled": {
+    "remoteKey": "IsLevelStartMotionEnabled",
+    "defaultValue": 0
+  },
+  "IsLossAversionEnabled": {
+    "remoteKey": "IsLossAversionEnabled",
+    "defaultValue": 0
+  },
+  "IsOfflinePlayAllowed": {
+    "remoteKey": "IsOfflinePlayAllowed",
+    "defaultValue": 1
+  },
+  "IsConsecutivePlayOnEnabled": {
+    "remoteKey": "IsConsecutivePlayOnEnabled",
+    "defaultValue": 0
+  },
+  "AdBreakConfig": {
+    "remoteKey": "AdBreakConfig",
+    "mod": 0,
+    "duration": 2.0,
+    "skipIn": 1.0
+  },
+  "LevelUpCoinReward": {
+    "remoteKey": "LevelUpCoinReward",
+    "normal": 30,
+    "hard": 30,
+    "superHard": 30
+  },
+  "LevelUpDifficultyMultiplier": {
+    "remoteKey": "LevelUpDifficultyMultiplier",
+    "normal": 1,
+    "hard": 2,
+    "superHard": 5
+  },
+  "AppUpdate": {
+    "remoteKey": "AppUpdate",
+    "checkByRoundSystem": 1,
+    "closeButtonAvailable": 1,
+    "releasedAndroidVersion": "",
+    "releasedIOSVersion": "",
+    "message": "Update to play new levels!",
+    "androidUrl": "market://details?id=com.rotatelab.cubeblast",
+    "iosUrl": "itms-apps://apps.apple.com/us/app/cube-land-puzzle-game/id6757154335"
+  },
+  "FailCountdown": {
+    "remoteKey": "FailCountdown",
+    "defaultValue": 3.0
+  },
+  "SeasonalOffer": {
+    "remoteKey": "SeasonalOffer",
+    "index": 0,
+    "startTimeInSeconds": 0,
+    "endTimeInSeconds": 0,
+    "discountAmount": 0,
+    "version": 0
+  },
+  "LevelVersion": {
+    "remoteKey": "LevelVersion",
+    "defaultValue": 6
+  },
+  "CloudRushLevel": {
+    "remoteKey": "CloudRushLevel",
+    "defaultValue": 999999
+  },
+  "NeftaConfig": {
+    "remoteKey": "NeftaConfig",
+    "status": 1,
+    "cohort": "none"
+  },
+  "IsEcpmAnyTrackEnabled": {
+    "remoteKey": "IsEcpmAnyTrackEnabled",
+    "defaultValue": 0
+  },
+  "OfferPopupConfig": {
+    "remoteKey": "OfferPopupConfig",
+    "starter": {
+      "homeEnabledLevel": 25,
+      "shopEnabledLevel": 25,
+      "mod": 1,
+      "limit": 1,
+      "limitResetHours": 876000.0,
+      "runOnSessionStart": 0,
+      "sessionStartIntervalHours": 876000.0,
+      "runOnShopExit": 0,
+      "runOnHeartZero": 0
+    },
+    "noAds": {
+      "homeEnabledLevel": 21,
+      "shopEnabledLevel": 21,
+      "mod": 1,
+      "limit": 1,
+      "limitResetHours": 876000.0,
+      "runOnSessionStart": 0,
+      "sessionStartIntervalHours": 876000.0,
+      "runOnShopExit": 0,
+      "runOnHeartZero": 0
+    },
+    "noAdsBundle": {
+      "homeEnabledLevel": 999999,
+      "shopEnabledLevel": 21,
+      "mod": 1,
+      "limit": 1,
+      "limitResetHours": 876000.0,
+      "runOnSessionStart": 0,
+      "sessionStartIntervalHours": 876000.0,
+      "runOnShopExit": 0,
+      "runOnHeartZero": 0
+    },
+    "chainOffer": {
+      "homeEnabledLevel": 37,
+      "shopEnabledLevel": 999999,
+      "mod": 1,
+      "limit": 1,
+      "limitResetHours": 876000.0,
+      "runOnSessionStart": 0,
+      "sessionStartIntervalHours": 876000.0,
+      "runOnShopExit": 0,
+      "runOnHeartZero": 0
+    }
+  },
+  "SuperHardOfferConfig": {
+    "remoteKey": "SuperHardOfferConfig",
+    "enabledLevel": 999999,
+    "mod": 1,
+    "limit": 1,
+    "runOnPlayButton": 1
+  },
+  "JewelConfig": {
+    "remoteKey": "JewelConfig",
+    "unlockLevel": 999999,
+    "visibleLevel": 999999,
+    "rewardSo": 0
+  },
+  "NoAdsBundleConfig": {
+    "remoteKey": "NoAdsBundleConfig",
+    "defaults": {
+      "productId": "iap_noads_bundle_cubeblast",
+      "adjustKey": "u45ovc",
+      "elements": [
+        {
+          "type": "NoAds",
+          "amount": 1,
+          "info": ""
+        },
+        {
+          "type": "Coin",
+          "amount": 2000,
+          "info": "2K Coins"
+        },
+        {
+          "type": "Booster1",
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": "Booster2",
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": "Booster3",
+          "amount": 1,
+          "info": "x1"
+        }
+      ]
+    },
+    "icons": [
+      {
+        "type": 7,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "370"
+        }
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "121"
+        }
+      },
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "236"
+        }
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "350"
+        }
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "430"
+        }
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "94"
+        }
+      },
+      {
+        "type": 4,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "384"
+        }
+      },
+      {
+        "type": 9,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "393"
+        }
+      }
+    ],
+    "ecpmOverrides": []
+  },
+  "FailProofOfferConfig": {
+    "remoteKey": "FailProofOfferConfig",
+    "defaults": {
+      "productId": "iap_fail_proof_offer_cubeblast",
+      "adjustKey": "o9waom",
+      "elements": [
+        {
+          "type": "Heart",
+          "amount": -60,
+          "info": "1h"
+        },
+        {
+          "type": "Booster1",
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": "Booster2",
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": "Booster3",
+          "amount": 1,
+          "info": "x1"
+        },
+        {
+          "type": "Coin",
+          "amount": 1000,
+          "info": "1K Coins"
+        }
+      ]
+    },
+    "icons": [
+      {
+        "type": 7,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "370"
+        }
+      },
+      {
+        "type": 0,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "121"
+        }
+      },
+      {
+        "type": 5,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "236"
+        }
+      },
+      {
+        "type": 1,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "350"
+        }
+      },
+      {
+        "type": 2,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "430"
+        }
+      },
+      {
+        "type": 3,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "94"
+        }
+      },
+      {
+        "type": 4,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "384"
+        }
+      },
+      {
+        "type": 9,
+        "icon": {
+          "m_FileID": 2,
+          "m_PathID": "393"
+        }
+      }
+    ],
+    "ecpmOverrides": []
+  },
+  "MidGameLeaderboardConfig": {
+    "remoteKey": "MidGameLeaderboardConfig",
+    "pirateDays": ""
+  }
+}

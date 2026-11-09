@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": "1144"
+  },
+  "m_Name": "RenderBulletsAboveVoxels",
+  "m_Active": 1,
+  "settings": {
+    "passTag": "RenderBulletsAboveVoxels",
+    "Event": 500,
+    "filterSettings": {
+      "RenderQueueType": 0,
+      "LayerMask": {
+        "m_Bits": 256
+      },
+      "PassNames": ""
+    },
+    "overrideMaterial": {
+      "m_FileID": 0,
+      "m_PathID": "0"
+    },
+    "overrideMaterialPassIndex": 0,
+    "overrideShader": {
+      "m_FileID": 0,
+      "m_PathID": "0"
+    },
+    "overrideShaderPassIndex": 0,
+    "overrideMode": 0,
+    "overrideDepthState": 1,
+    "depthCompareFunction": 8,
+    "enableWrite": 1,
+    "stencilSettings": {
+      "overrideStencilState": 0,
+      "stencilReference": 0,
+      "stencilCompareFunction": 8,
+      "passOperation": 0,
+      "failOperation": 0,
+      "zFailOperation": 0
+    },
+    "cameraSettings": {
+      "overrideCamera": 0,
+      "restoreCamera": 1,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "cameraFieldOfView": 60.0
+    }
+  }
+}

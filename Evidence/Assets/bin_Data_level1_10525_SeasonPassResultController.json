@@ -1,0 +1,99 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2617"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "265"
+  },
+  "m_Name": "",
+  "title": {
+    "m_FileID": 0,
+    "m_PathID": "8349"
+  },
+  "info": {
+    "m_FileID": 0,
+    "m_PathID": "8049"
+  },
+  "unclaimedPanelTitle": {
+    "m_FileID": 0,
+    "m_PathID": "8405"
+  },
+  "bonusBankRewardAmount": {
+    "m_FileID": 0,
+    "m_PathID": "8141"
+  },
+  "unclaimedPanelButton": {
+    "m_FileID": 0,
+    "m_PathID": "10505"
+  },
+  "unclaimedPanelButtonText": {
+    "m_FileID": 0,
+    "m_PathID": "7360"
+  },
+  "bonusBankPanelButton": {
+    "m_FileID": 0,
+    "m_PathID": "9322"
+  },
+  "bonusBankPanelButtonText": {
+    "m_FileID": 0,
+    "m_PathID": "7698"
+  },
+  "bonusBankRewardArea": {
+    "m_FileID": 0,
+    "m_PathID": "5317"
+  },
+  "endPopup": {
+    "m_FileID": 0,
+    "m_PathID": "7864"
+  },
+  "unClaimedPopup": {
+    "m_FileID": 0,
+    "m_PathID": "7921"
+  },
+  "bonusPopup": {
+    "m_FileID": 0,
+    "m_PathID": "7825"
+  },
+  "unClaimedRewardsObject": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "10285"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9920"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9294"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10003"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10851"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "9970"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "8894"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10296"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10144"
+    }
+  ],
+  "unclaimedRewardsData": []
+}

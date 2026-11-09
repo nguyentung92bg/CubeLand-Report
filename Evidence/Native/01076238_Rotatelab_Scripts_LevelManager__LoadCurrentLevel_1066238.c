@@ -1,0 +1,196 @@
+/* IL2CPP: Rotatelab.Scripts.LevelManager$$LoadCurrentLevel
+void Rotatelab_Scripts_LevelManager__LoadCurrentLevel (Rotatelab_Scripts_LevelManager_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+/* IL2CPP: Rotatelab.Scripts.LevelManager$$LoadCurrentLevel
+   void Rotatelab_Scripts_LevelManager__LoadCurrentLevel (Rotatelab_Scripts_LevelManager_o* __this,
+   const MethodInfo* method); */
+
+void Rotatelab_Scripts_LevelManager__LoadCurrentLevel_1066238(int param_1)
+
+{
+  char cVar1;
+  undefined4 uVar2;
+  undefined4 uVar3;
+  undefined4 uVar4;
+  undefined4 uVar5;
+  undefined4 uVar6;
+  undefined4 uVar7;
+  undefined4 uVar8;
+  undefined4 uVar9;
+  int iVar10;
+  undefined4 uVar11;
+  undefined4 *puVar12;
+  int iVar13;
+  int *piVar14;
+  char *pcVar15;
+  undefined4 uStack_48;
+  undefined4 uStack_44;
+  undefined4 uStack_40;
+  undefined4 uStack_3c;
+  undefined4 uStack_38;
+  undefined4 uStack_34;
+  undefined4 uStack_30;
+  undefined4 uStack_2c;
+  undefined4 uStack_28;
+  undefined4 uStack_24;
+  
+  Rotatelab_Scripts_LevelManager__RefreshCurrentLevel_1066138();
+  uVar11 = *(undefined4 *)(param_1 + 0x18);
+  pcVar15 = (char *)(_UNK_010790fc + 0x1078ce4);
+  if (*pcVar15 == '\0') {
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079100 + 0x1078cfc));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079104 + 0x1078d08));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079108 + 0x1078d14));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_0107910c + 0x1078d20));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079110 + 0x1078d2c));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079114 + 0x1078d38));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079118 + 0x1078d44));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_0107911c + 0x1078d50));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079120 + 0x1078d5c));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079124 + 0x1078d68));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079128 + 0x1078d74));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_0107912c + 0x1078d80));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079130 + 0x1078d8c));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079134 + 0x1078d98));
+    FUN_00ec37c0(*(undefined4 *)(_UNK_01079138 + 0x1078da4));
+    *pcVar15 = '\x01';
+  }
+  Rotatelab_Scripts_LevelManager__ClearCurrentLevel_1068b7c(param_1);
+  *(undefined4 *)(param_1 + 0x18) = uVar11;
+  thunk_FUN_00ec5080((undefined4 *)(param_1 + 0x18),uVar11);
+  Rotatelab_Scripts_LevelManager__GetAttemptInfo_1069364(&uStack_48,param_1,uVar11);
+  uVar9 = uStack_2c;
+  uVar8 = uStack_30;
+  uVar7 = uStack_34;
+  uVar6 = uStack_38;
+  uVar5 = uStack_3c;
+  uVar4 = uStack_40;
+  uVar3 = uStack_44;
+  uVar2 = uStack_48;
+  uStack_44 = *(undefined4 *)((undefined1  [16])0x0 + (undefined1  [16])0x4);
+  uStack_40 = *(undefined4 *)((undefined1  [16])0x0 + (undefined1  [16])0x8);
+  uStack_3c = *(undefined4 *)((undefined1  [16])0x0 + (undefined1  [16])0xc);
+  uStack_48 = 0;
+  uStack_38 = 0;
+  uStack_28 = 0;
+  uStack_24 = 0;
+  uStack_34 = uStack_44;
+  uStack_30 = uStack_40;
+  uStack_2c = uStack_3c;
+  System_Nullable_LevelAttemptInfo____ctor_17dbf8c
+            (&uStack_48,uVar5,uVar2,uVar3,uVar4,uVar5,uVar6,uVar7,uVar8,uVar9,
+             **(undefined4 **)(_UNK_0107913c + 0x1078e18));
+  *(undefined4 *)(param_1 + 0x38) = uStack_48;
+  *(undefined4 *)(param_1 + 0x3c) = uStack_44;
+  *(undefined4 *)(param_1 + 0x40) = uStack_40;
+  *(undefined4 *)(param_1 + 0x44) = uStack_3c;
+  *(undefined4 *)(param_1 + 0x48) = uStack_38;
+  *(undefined4 *)(param_1 + 0x4c) = uStack_34;
+  *(undefined4 *)(param_1 + 0x50) = uStack_30;
+  *(undefined4 *)(param_1 + 0x54) = uStack_2c;
+  *(undefined4 *)(param_1 + 0x58) = uStack_28;
+  *(undefined4 *)(param_1 + 0x5c) = uStack_24;
+  thunk_FUN_00ec5080(param_1 + 0x40,0);
+  iVar10 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                     (**(undefined4 **)(_UNK_01079140 + 0x1078e68));
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_Scripts_CameraManager__Initialize_ffb770(iVar10,0);
+  iVar10 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                     (**(undefined4 **)(_UNK_01079144 + 0x1078e94));
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_Scripts_EnvironmentManager__Initialize_100d908(iVar10,uVar11,0);
+  iVar10 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                     (**(undefined4 **)(_UNK_01079148 + 0x1078ec4));
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_Scripts_DockManager__Initialize_1005340(iVar10,uVar11,0);
+  iVar10 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                     (**(undefined4 **)(_UNK_0107914c + 0x1078ef4));
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_Scripts_PlaceableManager__Initialize_1041970(iVar10,uVar11,0);
+  iVar10 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                     (**(undefined4 **)(_UNK_01079150 + 0x1078f24));
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_Scripts_ObjectManager__Initialize_102a844(iVar10,uVar11,0);
+  iVar10 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                     (**(undefined4 **)(_UNK_01079154 + 0x1078f54));
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_Scripts_LevelStateManager__Initialize_10167e4(iVar10,0);
+  piVar14 = *(int **)(_UNK_01079158 + 0x1078f80);
+  iVar10 = *piVar14;
+  if (*(int *)(iVar10 + 0x74) == 0) {
+    FUN_00ec3934();
+    iVar10 = *piVar14;
+  }
+  iVar10 = *(int *)(*(int *)(iVar10 + 0x5c) + 0x124);
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_GameAction_object___Raise_23a2f44
+            (iVar10,uVar11,**(undefined4 **)(_UNK_0107915c + 0x1078fb8));
+  iVar10 = Rotatelab_SingletonBehaviour_object___get_Instance_1a99858
+                     (**(undefined4 **)(_UNK_01079160 + 0x1078fcc));
+  if (iVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+    thunk_FUN_00f078d4();
+  }
+  Rotatelab_Currency_HeartManager__DecreaseHeart_1084088(iVar10,0);
+  piVar14 = *(int **)(_UNK_01079164 + 0x1078ff8);
+  iVar10 = *piVar14;
+  if (*(int *)(iVar10 + 0x74) == 0) {
+    FUN_00ec3934();
+    iVar10 = *piVar14;
+  }
+  piVar14 = *(int **)(_UNK_01079168 + 0x107901c);
+  cVar1 = *(char *)(*(int *)(iVar10 + 0x5c) + 0x79);
+  iVar10 = *piVar14;
+  if (*(int *)(iVar10 + 0x74) == 0) {
+    FUN_00ec3934();
+    iVar10 = *piVar14;
+  }
+  puVar12 = *(undefined4 **)(iVar10 + 0x5c);
+  iVar13 = puVar12[1];
+  if (iVar13 == 0) {
+    if (*(int *)(iVar10 + 0x74) == 0) {
+      FUN_00ec3934();
+      puVar12 = *(undefined4 **)(*piVar14 + 0x5c);
+    }
+    uVar11 = *puVar12;
+    iVar13 = thunk_FUN_00f00cdc(**(undefined4 **)(_UNK_0107916c + 0x1079068));
+    System_Action___ctor_2b10bac(iVar13,uVar11,**(undefined4 **)(_UNK_01079170 + 0x1079088),0);
+    piVar14 = (int *)(*(int *)(*piVar14 + 0x5c) + 4);
+    *piVar14 = iVar13;
+    thunk_FUN_00ec5080(piVar14,iVar13);
+  }
+  if (*(int *)(**(int **)(_UNK_01079174 + 0x10790b0) + 0x74) == 0) {
+    FUN_00ec3934();
+  }
+  uVar11 = _UNK_010790f8;
+  if (cVar1 == '\0') {
+    uVar11 = 0x3f800000;
+  }
+  PrimeTween_Tween__Delay_2ce9f2c(&uStack_48,uVar11,iVar13,0,0,0);
+  return;
+}
+

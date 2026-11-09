@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1508"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2442"
+  },
+  "m_Name": "",
+  "offerButton": {
+    "m_FileID": 0,
+    "m_PathID": "10587"
+  },
+  "offerButtonRect": {
+    "m_FileID": 0,
+    "m_PathID": "7259"
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7940"
+  },
+  "deactivateCanvasGroupOnHide": 0,
+  "generatedCheckpoints": [],
+  "seasonPassSo": {
+    "m_FileID": 2,
+    "m_PathID": "3966"
+  },
+  "contentMask": {
+    "m_FileID": 0,
+    "m_PathID": "6209"
+  },
+  "checkpointsParent": {
+    "m_FileID": 0,
+    "m_PathID": "10451"
+  },
+  "checkpointStart": {
+    "m_FileID": 2,
+    "m_PathID": "4416"
+  },
+  "checkpointMiddle": {
+    "m_FileID": 2,
+    "m_PathID": "4363"
+  },
+  "checkpointBonusBank": {
+    "m_FileID": 2,
+    "m_PathID": "4594"
+  },
+  "inputPrevent": {
+    "m_FileID": 0,
+    "m_PathID": "1082"
+  },
+  "buttonCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": "7813"
+  },
+  "seasonHeader": {
+    "m_FileID": 0,
+    "m_PathID": "8317"
+  },
+  "targetBar": {
+    "m_FileID": 0,
+    "m_PathID": "9247"
+  },
+  "activateButton": {
+    "m_FileID": 0,
+    "m_PathID": "2336"
+  },
+  "buttonBgFill": {
+    "m_FileID": 0,
+    "m_PathID": "9493"
+  },
+  "seasonPassController": {
+    "m_FileID": 0,
+    "m_PathID": "10272"
+  }
+}
