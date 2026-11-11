@@ -1,0 +1,133 @@
+{
+  "scope": "Packaged BlasterData RefIds, unique per level including nested shooters; type and flags can overlap",
+  "catalog": [
+    {
+      "feature": "type:1",
+      "name": "Key",
+      "info": "Chìa khóa; controller có xử lý Unlock nhắm tới LockController.",
+      "levels": 61,
+      "records": 82,
+      "firstLevel": 40
+    },
+    {
+      "feature": "type:2",
+      "name": "Lock",
+      "info": "Shooter khóa; có trạng thái đang mở khóa riêng.",
+      "levels": 61,
+      "records": 82,
+      "firstLevel": 40
+    },
+    {
+      "feature": "type:3",
+      "name": "Scissors",
+      "info": "Kéo; có thao tác Cut đối với GiftWrapperController.",
+      "levels": 25,
+      "records": 100,
+      "firstLevel": 120
+    },
+    {
+      "feature": "type:4",
+      "name": "Generator",
+      "info": "Chứa shooter trong InnerBlasters; có xử lý lần lượt đưa shooter tiếp theo ra.",
+      "levels": 43,
+      "records": 102,
+      "firstLevel": 140
+    },
+    {
+      "feature": "type:5",
+      "name": "Hammer",
+      "info": "Búa; có thao tác đánh vào WallController.",
+      "levels": 35,
+      "records": 152,
+      "firstLevel": 301
+    },
+    {
+      "feature": "type:6",
+      "name": "Sword",
+      "info": "Có trong enum/code và xử lý đánh Shield; chưa thấy Type này trong 850 level.",
+      "levels": 0,
+      "records": 0,
+      "firstLevel": null
+    },
+    {
+      "feature": "type:7",
+      "name": "Propeller",
+      "info": "Có thao tác đánh vào VoxelController riêng.",
+      "levels": 11,
+      "records": 46,
+      "firstLevel": 501
+    },
+    {
+      "feature": "type:8",
+      "name": "Stop Sign",
+      "info": "Có trạng thái và thông số health riêng trong controller.",
+      "levels": 12,
+      "records": 31,
+      "firstLevel": 701
+    },
+    {
+      "feature": "type:9",
+      "name": "Machete",
+      "info": "Có controller và thao tác Hit; xuất hiện đầu tiên trong asset IvyLockBox. Chưa khẳng định đầy đủ rule tương tác.",
+      "levels": 13,
+      "records": 13,
+      "firstLevel": 801
+    },
+    {
+      "feature": "flag:hidden",
+      "name": "Hidden — ẩn",
+      "info": "Che thông tin shooter; có xử lý reveal.",
+      "levels": 145,
+      "records": 2288,
+      "firstLevel": 9
+    },
+    {
+      "feature": "flag:iced",
+      "name": "Iced — băng",
+      "info": "Có iceHp; điều kiện đặt kiểm tra độ bền băng còn lại.",
+      "levels": 99,
+      "records": 283,
+      "firstLevel": 30
+    },
+    {
+      "feature": "flag:doubleColor",
+      "name": "Double Color — hai màu",
+      "info": "Lưu màu chính và secondaryColor; chưa mô phỏng cơ chế chuyển màu.",
+      "levels": 33,
+      "records": 228,
+      "firstLevel": 80
+    },
+    {
+      "feature": "flag:pilot",
+      "name": "Pilot",
+      "info": "Dùng PilotBlasterController, có luồng đặt và xoay riêng.",
+      "levels": 29,
+      "records": 73,
+      "firstLevel": 351
+    },
+    {
+      "feature": "flag:inner",
+      "name": "Chứa shooter",
+      "info": "Danh sách InnerBlasters trỏ tới shooter lồng qua RefIds; không phải cạnh nối nhóm/xích.",
+      "levels": 43,
+      "records": 102,
+      "firstLevel": 140
+    },
+    {
+      "feature": "flag:trap",
+      "name": "Trap",
+      "info": "Có hasTrap/isTrapOpen trong code; chưa thấy bật trong 850 level.",
+      "levels": 0,
+      "records": 0,
+      "firstLevel": null
+    },
+    {
+      "feature": "flag:colorBarrel",
+      "name": "Color Barrel",
+      "info": "Có độ bền và màu riêng trong code; chưa thấy bật trong 850 level.",
+      "levels": 0,
+      "records": 0,
+      "firstLevel": null
+    }
+  ]
+}

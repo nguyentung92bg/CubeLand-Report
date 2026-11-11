@@ -1,0 +1,1650 @@
+{
+  "Cameras": [
+    {
+      "Source": "level1_2873",
+      "Name": "AboveUiOverlayCamera",
+      "Data": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 15
+        },
+        "m_Enabled": 0,
+        "m_ClearFlags": 2,
+        "m_BackGroundColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        },
+        "m_projectionMatrixMode": 1,
+        "m_GateFitMode": 2,
+        "m_Iso": 200,
+        "m_ShutterSpeed": 0.004999999888241291,
+        "m_Aperture": 16.0,
+        "m_FocusDistance": 10.0,
+        "m_FocalLength": 50.0,
+        "m_BladeCount": 5,
+        "m_Curvature": {
+          "x": 2.0,
+          "y": 11.0
+        },
+        "m_BarrelClipping": 0.25,
+        "m_Anamorphism": 0.0,
+        "m_SensorSize": {
+          "x": 36.0,
+          "y": 24.0
+        },
+        "m_LensShift": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_NormalizedViewPortRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "near clip plane": 0.30000001192092896,
+        "far clip plane": 30.0,
+        "field of view": 60.0,
+        "orthographic": true,
+        "orthographic size": 5.0,
+        "m_Depth": -2.0,
+        "m_CullingMask": {
+          "m_Bits": 8192
+        },
+        "m_RenderingPath": -1,
+        "m_TargetTexture": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_TargetDisplay": 0,
+        "m_TargetEye": 3,
+        "m_HDR": false,
+        "m_AllowMSAA": false,
+        "m_AllowDynamicResolution": false,
+        "m_ForceIntoRT": false,
+        "m_OcclusionCulling": false,
+        "m_StereoConvergence": 10.0,
+        "m_StereoSeparation": 0.02199999988079071
+      },
+      "Hierarchy": [
+        {
+          "Name": "Main Camera",
+          "Position": {
+            "x": 0.0,
+            "y": 8.609999656677246,
+            "z": -5.099999904632568
+          },
+          "Rotation": {
+            "x": 0.537299633026123,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.843391478061676
+          },
+          "Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "Name": "AboveUiOverlayCamera",
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "Source": "level1_2874",
+      "Name": "PropOverlayCamera",
+      "Data": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 18
+        },
+        "m_Enabled": 1,
+        "m_ClearFlags": 4,
+        "m_BackGroundColor": {
+          "r": 0.1921568661928177,
+          "g": 0.3019607961177826,
+          "b": 0.4745098054409027,
+          "a": 0.0
+        },
+        "m_projectionMatrixMode": 1,
+        "m_GateFitMode": 2,
+        "m_Iso": 200,
+        "m_ShutterSpeed": 0.004999999888241291,
+        "m_Aperture": 16.0,
+        "m_FocusDistance": 10.0,
+        "m_FocalLength": 50.0,
+        "m_BladeCount": 5,
+        "m_Curvature": {
+          "x": 2.0,
+          "y": 11.0
+        },
+        "m_BarrelClipping": 0.25,
+        "m_Anamorphism": 0.0,
+        "m_SensorSize": {
+          "x": 36.0,
+          "y": 24.0
+        },
+        "m_LensShift": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_NormalizedViewPortRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "near clip plane": 0.30000001192092896,
+        "far clip plane": 30.0,
+        "field of view": 60.0,
+        "orthographic": true,
+        "orthographic size": 5.0,
+        "m_Depth": 0.0,
+        "m_CullingMask": {
+          "m_Bits": 64
+        },
+        "m_RenderingPath": -1,
+        "m_TargetTexture": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_TargetDisplay": 0,
+        "m_TargetEye": 3,
+        "m_HDR": false,
+        "m_AllowMSAA": false,
+        "m_AllowDynamicResolution": false,
+        "m_ForceIntoRT": false,
+        "m_OcclusionCulling": true,
+        "m_StereoConvergence": 10.0,
+        "m_StereoSeparation": 0.02199999988079071
+      },
+      "Hierarchy": [
+        {
+          "Name": "Main Camera",
+          "Position": {
+            "x": 0.0,
+            "y": 8.609999656677246,
+            "z": -5.099999904632568
+          },
+          "Rotation": {
+            "x": 0.537299633026123,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.843391478061676
+          },
+          "Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "Name": "PropOverlayCamera",
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "Source": "level1_2875",
+      "Name": "Main Camera",
+      "Data": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 26
+        },
+        "m_Enabled": 1,
+        "m_ClearFlags": 2,
+        "m_BackGroundColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "m_projectionMatrixMode": 1,
+        "m_GateFitMode": 2,
+        "m_Iso": 200,
+        "m_ShutterSpeed": 0.004999999888241291,
+        "m_Aperture": 16.0,
+        "m_FocusDistance": 10.0,
+        "m_FocalLength": 50.0,
+        "m_BladeCount": 5,
+        "m_Curvature": {
+          "x": 2.0,
+          "y": 11.0
+        },
+        "m_BarrelClipping": 0.25,
+        "m_Anamorphism": 0.0,
+        "m_SensorSize": {
+          "x": 36.0,
+          "y": 24.0
+        },
+        "m_LensShift": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_NormalizedViewPortRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "near clip plane": 0.30000001192092896,
+        "far clip plane": 30.0,
+        "field of view": 30.0,
+        "orthographic": true,
+        "orthographic size": 5.0,
+        "m_Depth": -1.0,
+        "m_CullingMask": {
+          "m_Bits": 447
+        },
+        "m_RenderingPath": -1,
+        "m_TargetTexture": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_TargetDisplay": 0,
+        "m_TargetEye": 3,
+        "m_HDR": false,
+        "m_AllowMSAA": false,
+        "m_AllowDynamicResolution": false,
+        "m_ForceIntoRT": false,
+        "m_OcclusionCulling": true,
+        "m_StereoConvergence": 10.0,
+        "m_StereoSeparation": 0.02199999988079071
+      },
+      "Hierarchy": [
+        {
+          "Name": "Main Camera",
+          "Position": {
+            "x": 0.0,
+            "y": 8.609999656677246,
+            "z": -5.099999904632568
+          },
+          "Rotation": {
+            "x": 0.537299633026123,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.843391478061676
+          },
+          "Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "CameraBehaviours": [
+    {
+      "Class": "UniversalAdditionalCameraData",
+      "Source": "level1_8465",
+      "Data": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 15
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 16777216,
+          "m_PathID": 30081548288
+        },
+        "m_Name": "",
+        "m_RenderShadows": 0,
+        "m_RequiresDepthTextureOption": 2,
+        "m_RequiresOpaqueTextureOption": 2,
+        "m_CameraType": 0,
+        "m_Cameras": [],
+        "m_RendererIndex": -1,
+        "m_VolumeLayerMask": {
+          "m_Bits": 0
+        },
+        "m_VolumeTrigger": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_VolumeFrameworkUpdateModeOption": 2,
+        "m_RenderPostProcessing": 0,
+        "m_Antialiasing": 0,
+        "m_AntialiasingQuality": 2,
+        "m_StopNaN": 0,
+        "m_Dithering": 0,
+        "m_ClearDepth": 1,
+        "m_AllowXRRendering": 1,
+        "m_AllowHDROutput": 1,
+        "m_UseScreenCoordOverride": 0,
+        "m_ScreenSizeOverride": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_ScreenCoordScaleBias": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_RequiresDepthTexture": 0,
+        "m_RequiresColorTexture": 0,
+        "m_TaaSettings": {
+          "m_Quality": 3,
+          "m_FrameInfluence": 0.10000000149011612,
+          "m_JitterScale": 1.0,
+          "m_MipBias": 0.0,
+          "m_VarianceClampScale": 0.8999999761581421,
+          "m_ContrastAdaptiveSharpening": 0.0
+        },
+        "m_Version": 2
+      }
+    },
+    {
+      "Class": "UniversalAdditionalCameraData",
+      "Source": "level1_8467",
+      "Data": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 18
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 16777216,
+          "m_PathID": 30081548288
+        },
+        "m_Name": "",
+        "m_RenderShadows": 0,
+        "m_RequiresDepthTextureOption": 2,
+        "m_RequiresOpaqueTextureOption": 2,
+        "m_CameraType": 1,
+        "m_Cameras": [],
+        "m_RendererIndex": -1,
+        "m_VolumeLayerMask": {
+          "m_Bits": 0
+        },
+        "m_VolumeTrigger": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_VolumeFrameworkUpdateModeOption": 2,
+        "m_RenderPostProcessing": 0,
+        "m_Antialiasing": 0,
+        "m_AntialiasingQuality": 2,
+        "m_StopNaN": 0,
+        "m_Dithering": 0,
+        "m_ClearDepth": 1,
+        "m_AllowXRRendering": 1,
+        "m_AllowHDROutput": 1,
+        "m_UseScreenCoordOverride": 0,
+        "m_ScreenSizeOverride": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_ScreenCoordScaleBias": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_RequiresDepthTexture": 0,
+        "m_RequiresColorTexture": 0,
+        "m_TaaSettings": {
+          "m_Quality": 3,
+          "m_FrameInfluence": 0.10000000149011612,
+          "m_JitterScale": 1.0,
+          "m_MipBias": 0.0,
+          "m_VarianceClampScale": 0.8999999761581421,
+          "m_ContrastAdaptiveSharpening": 0.0
+        },
+        "m_Version": 2
+      }
+    },
+    {
+      "Class": "UniversalAdditionalCameraData",
+      "Source": "level1_8471",
+      "Data": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 26
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 16777216,
+          "m_PathID": 30081548288
+        },
+        "m_Name": "",
+        "m_RenderShadows": 0,
+        "m_RequiresDepthTextureOption": 2,
+        "m_RequiresOpaqueTextureOption": 2,
+        "m_CameraType": 0,
+        "m_Cameras": [
+          {
+            "m_FileID": 0,
+            "m_PathID": 2874
+          }
+        ],
+        "m_RendererIndex": -1,
+        "m_VolumeLayerMask": {
+          "m_Bits": 0
+        },
+        "m_VolumeTrigger": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_VolumeFrameworkUpdateModeOption": 2,
+        "m_RenderPostProcessing": 0,
+        "m_Antialiasing": 0,
+        "m_AntialiasingQuality": 2,
+        "m_StopNaN": 0,
+        "m_Dithering": 0,
+        "m_ClearDepth": 1,
+        "m_AllowXRRendering": 1,
+        "m_AllowHDROutput": 1,
+        "m_UseScreenCoordOverride": 0,
+        "m_ScreenSizeOverride": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_ScreenCoordScaleBias": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "m_RequiresDepthTexture": 0,
+        "m_RequiresColorTexture": 0,
+        "m_TaaSettings": {
+          "m_Quality": 3,
+          "m_FrameInfluence": 0.10000000149011612,
+          "m_JitterScale": 1.0,
+          "m_MipBias": 0.0,
+          "m_VarianceClampScale": 0.8999999761581421,
+          "m_ContrastAdaptiveSharpening": 0.0
+        },
+        "m_Version": 2
+      }
+    },
+    {
+      "Class": "CameraManager",
+      "Source": "level1_8472",
+      "Data": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 26
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 16777216,
+          "m_PathID": 25937575936
+        },
+        "m_Name": "",
+        "shakeStrength": 0.07999999821186066,
+        "shakeFrequency": 5.0
+      }
+    }
+  ],
+  "AuthoringScripts": [
+    {
+      "m_Name": "EditorFacebookLoader",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 218,
+        "bytes[1]": 254,
+        "bytes[2]": 37,
+        "bytes[3]": 25,
+        "bytes[4]": 69,
+        "bytes[5]": 152,
+        "bytes[6]": 226,
+        "bytes[7]": 90,
+        "bytes[8]": 41,
+        "bytes[9]": 154,
+        "bytes[10]": 244,
+        "bytes[11]": 180,
+        "bytes[12]": 160,
+        "bytes[13]": 143,
+        "bytes[14]": 125,
+        "bytes[15]": 137
+      },
+      "m_ClassName": "EditorFacebookLoader",
+      "m_Namespace": "Facebook.Unity.Editor",
+      "m_AssemblyName": "Facebook.Unity.dll"
+    },
+    {
+      "m_Name": "MaxSdkUnityEditor",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "MaxSdkUnityEditor",
+      "m_Namespace": "",
+      "m_AssemblyName": "MaxSdk.Scripts"
+    },
+    {
+      "m_Name": "VoxelController",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 241,
+        "bytes[1]": 15,
+        "bytes[2]": 129,
+        "bytes[3]": 249,
+        "bytes[4]": 155,
+        "bytes[5]": 104,
+        "bytes[6]": 125,
+        "bytes[7]": 189,
+        "bytes[8]": 148,
+        "bytes[9]": 56,
+        "bytes[10]": 117,
+        "bytes[11]": 54,
+        "bytes[12]": 146,
+        "bytes[13]": 51,
+        "bytes[14]": 163,
+        "bytes[15]": 107
+      },
+      "m_ClassName": "VoxelController",
+      "m_Namespace": "Rotatelab.Scripts",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "SoLevelOverridesData",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 136,
+        "bytes[1]": 219,
+        "bytes[2]": 151,
+        "bytes[3]": 236,
+        "bytes[4]": 69,
+        "bytes[5]": 164,
+        "bytes[6]": 46,
+        "bytes[7]": 56,
+        "bytes[8]": 169,
+        "bytes[9]": 85,
+        "bytes[10]": 125,
+        "bytes[11]": 25,
+        "bytes[12]": 197,
+        "bytes[13]": 67,
+        "bytes[14]": 220,
+        "bytes[15]": 34
+      },
+      "m_ClassName": "SoLevelOverridesData",
+      "m_Namespace": "Rotatelab",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "LargeVoxelCrackParticlePool",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 23,
+        "bytes[1]": 194,
+        "bytes[2]": 191,
+        "bytes[3]": 0,
+        "bytes[4]": 159,
+        "bytes[5]": 143,
+        "bytes[6]": 53,
+        "bytes[7]": 238,
+        "bytes[8]": 50,
+        "bytes[9]": 161,
+        "bytes[10]": 163,
+        "bytes[11]": 241,
+        "bytes[12]": 168,
+        "bytes[13]": 179,
+        "bytes[14]": 51,
+        "bytes[15]": 14
+      },
+      "m_ClassName": "LargeVoxelCrackParticlePool",
+      "m_Namespace": "Rotatelab.Pool",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "InlineEditorAttribute",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "InlineEditorAttribute",
+      "m_Namespace": "TriInspector",
+      "m_AssemblyName": "TriInspector"
+    },
+    {
+      "m_Name": "LargeVoxelController",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 222,
+        "bytes[1]": 64,
+        "bytes[2]": 10,
+        "bytes[3]": 255,
+        "bytes[4]": 59,
+        "bytes[5]": 155,
+        "bytes[6]": 22,
+        "bytes[7]": 168,
+        "bytes[8]": 141,
+        "bytes[9]": 254,
+        "bytes[10]": 40,
+        "bytes[11]": 134,
+        "bytes[12]": 127,
+        "bytes[13]": 154,
+        "bytes[14]": 170,
+        "bytes[15]": 228
+      },
+      "m_ClassName": "LargeVoxelController",
+      "m_Namespace": "Rotatelab.Scripts",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "VoxelColorDataSo",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 244,
+        "bytes[1]": 229,
+        "bytes[2]": 223,
+        "bytes[3]": 132,
+        "bytes[4]": 61,
+        "bytes[5]": 127,
+        "bytes[6]": 50,
+        "bytes[7]": 189,
+        "bytes[8]": 139,
+        "bytes[9]": 230,
+        "bytes[10]": 43,
+        "bytes[11]": 143,
+        "bytes[12]": 195,
+        "bytes[13]": 253,
+        "bytes[14]": 184,
+        "bytes[15]": 194
+      },
+      "m_ClassName": "VoxelColorDataSo",
+      "m_Namespace": "Rotatelab.Scripts",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "EditorLog",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "EditorLog",
+      "m_Namespace": "Rotatelab",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "SoLevelDataAssetReference",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "SoLevelDataAssetReference",
+      "m_Namespace": "Rotatelab",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "HlbvhTopLevelBuilder",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "HlbvhTopLevelBuilder",
+      "m_Namespace": "UnityEngine.Rendering.RadeonRays",
+      "m_AssemblyName": "Unity.UnifiedRayTracing.Runtime"
+    },
+    {
+      "m_Name": "ExitLevelConfirmationPopup",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 40,
+        "bytes[1]": 44,
+        "bytes[2]": 116,
+        "bytes[3]": 163,
+        "bytes[4]": 18,
+        "bytes[5]": 220,
+        "bytes[6]": 212,
+        "bytes[7]": 41,
+        "bytes[8]": 28,
+        "bytes[9]": 181,
+        "bytes[10]": 45,
+        "bytes[11]": 155,
+        "bytes[12]": 177,
+        "bytes[13]": 117,
+        "bytes[14]": 199,
+        "bytes[15]": 115
+      },
+      "m_ClassName": "ExitLevelConfirmationPopup",
+      "m_Namespace": "Rotatelab.UI",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "AdjustLogLevel",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "AdjustLogLevelExtension",
+      "m_Namespace": "AdjustSdk",
+      "m_AssemblyName": "AdjustSdk.Scripts"
+    },
+    {
+      "m_Name": "SoLevelData",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 139,
+        "bytes[1]": 220,
+        "bytes[2]": 204,
+        "bytes[3]": 71,
+        "bytes[4]": 84,
+        "bytes[5]": 8,
+        "bytes[6]": 154,
+        "bytes[7]": 204,
+        "bytes[8]": 161,
+        "bytes[9]": 137,
+        "bytes[10]": 173,
+        "bytes[11]": 49,
+        "bytes[12]": 186,
+        "bytes[13]": 30,
+        "bytes[14]": 163,
+        "bytes[15]": 58
+      },
+      "m_ClassName": "SoLevelData",
+      "m_Namespace": "Rotatelab",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "SatoriLevelUpCoinRewardFlag",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "SatoriLevelUpCoinRewardFlag",
+      "m_Namespace": "Rotatelab.Networking",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "DoubleLargeVoxelController",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 233,
+        "bytes[1]": 224,
+        "bytes[2]": 75,
+        "bytes[3]": 32,
+        "bytes[4]": 115,
+        "bytes[5]": 140,
+        "bytes[6]": 89,
+        "bytes[7]": 233,
+        "bytes[8]": 111,
+        "bytes[9]": 92,
+        "bytes[10]": 112,
+        "bytes[11]": 173,
+        "bytes[12]": 202,
+        "bytes[13]": 252,
+        "bytes[14]": 144,
+        "bytes[15]": 205
+      },
+      "m_ClassName": "DoubleLargeVoxelController",
+      "m_Namespace": "Rotatelab.Scripts",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "GooglePurchaseConverter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "GooglePurchaseConverter",
+      "m_Namespace": "UnityEngine.Purchasing",
+      "m_AssemblyName": "Unity.Purchasing.Stores"
+    },
+    {
+      "m_Name": "EditorHelpers",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "EditorHelpers",
+      "m_Namespace": "Rotatelab.EditorScripting",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "SoLevelsData",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 34,
+        "bytes[1]": 27,
+        "bytes[2]": 105,
+        "bytes[3]": 33,
+        "bytes[4]": 71,
+        "bytes[5]": 138,
+        "bytes[6]": 3,
+        "bytes[7]": 163,
+        "bytes[8]": 104,
+        "bytes[9]": 209,
+        "bytes[10]": 251,
+        "bytes[11]": 142,
+        "bytes[12]": 243,
+        "bytes[13]": 8,
+        "bytes[14]": 155,
+        "bytes[15]": 32
+      },
+      "m_ClassName": "SoLevelsData",
+      "m_Namespace": "Rotatelab",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "LevelMovePathRecorder",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "LevelMovePathRecorder",
+      "m_Namespace": "Rotatelab.Scripts",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "VoxelBreakAudioGroup",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 181,
+        "bytes[1]": 229,
+        "bytes[2]": 27,
+        "bytes[3]": 30,
+        "bytes[4]": 65,
+        "bytes[5]": 171,
+        "bytes[6]": 197,
+        "bytes[7]": 18,
+        "bytes[8]": 106,
+        "bytes[9]": 96,
+        "bytes[10]": 12,
+        "bytes[11]": 71,
+        "bytes[12]": 79,
+        "bytes[13]": 45,
+        "bytes[14]": 149,
+        "bytes[15]": 104
+      },
+      "m_ClassName": "VoxelBreakAudioGroup",
+      "m_Namespace": "Rotatelab.Audio",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "SatoriLevelUpDifficultyMultiplierFlag",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "SatoriLevelUpDifficultyMultiplierFlag",
+      "m_Namespace": "Rotatelab.Networking",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "IGooglePurchaseConverter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "IGooglePurchaseConverter",
+      "m_Namespace": "UnityEngine.Purchasing",
+      "m_AssemblyName": "Unity.Purchasing.Stores"
+    },
+    {
+      "m_Name": "PreLevelStartController",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 169,
+        "bytes[1]": 219,
+        "bytes[2]": 102,
+        "bytes[3]": 130,
+        "bytes[4]": 8,
+        "bytes[5]": 187,
+        "bytes[6]": 162,
+        "bytes[7]": 252,
+        "bytes[8]": 28,
+        "bytes[9]": 141,
+        "bytes[10]": 168,
+        "bytes[11]": 47,
+        "bytes[12]": 10,
+        "bytes[13]": 225,
+        "bytes[14]": 254,
+        "bytes[15]": 25
+      },
+      "m_ClassName": "PreLevelStartController",
+      "m_Namespace": "Rotatelab.UI",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "LightBackgroundVoxelReviewLayout",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 20,
+        "bytes[1]": 253,
+        "bytes[2]": 2,
+        "bytes[3]": 91,
+        "bytes[4]": 96,
+        "bytes[5]": 18,
+        "bytes[6]": 5,
+        "bytes[7]": 190,
+        "bytes[8]": 193,
+        "bytes[9]": 232,
+        "bytes[10]": 88,
+        "bytes[11]": 212,
+        "bytes[12]": 41,
+        "bytes[13]": 177,
+        "bytes[14]": 171,
+        "bytes[15]": 61
+      },
+      "m_ClassName": "LightBackgroundVoxelReviewLayout",
+      "m_Namespace": "Rotatelab.EditorTools",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "VoxelPool",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 71,
+        "bytes[1]": 117,
+        "bytes[2]": 5,
+        "bytes[3]": 7,
+        "bytes[4]": 206,
+        "bytes[5]": 191,
+        "bytes[6]": 232,
+        "bytes[7]": 173,
+        "bytes[8]": 142,
+        "bytes[9]": 227,
+        "bytes[10]": 8,
+        "bytes[11]": 71,
+        "bytes[12]": 222,
+        "bytes[13]": 91,
+        "bytes[14]": 162,
+        "bytes[15]": 152
+      },
+      "m_ClassName": "VoxelPool",
+      "m_Namespace": "Rotatelab.Pool",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "LevelStateManager",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 169,
+        "bytes[1]": 74,
+        "bytes[2]": 82,
+        "bytes[3]": 36,
+        "bytes[4]": 64,
+        "bytes[5]": 149,
+        "bytes[6]": 5,
+        "bytes[7]": 229,
+        "bytes[8]": 91,
+        "bytes[9]": 4,
+        "bytes[10]": 102,
+        "bytes[11]": 138,
+        "bytes[12]": 167,
+        "bytes[13]": 139,
+        "bytes[14]": 217,
+        "bytes[15]": 13
+      },
+      "m_ClassName": "LevelStateManager",
+      "m_Namespace": "Rotatelab.Scripts",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "UniversalRenderPipelineEditorMaterials",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "UniversalRenderPipelineEditorMaterials",
+      "m_Namespace": "UnityEngine.Rendering.Universal",
+      "m_AssemblyName": "Unity.RenderPipelines.Universal.Runtime"
+    },
+    {
+      "m_Name": "ProductDetailsConverter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "ProductDetailsConverter",
+      "m_Namespace": "UnityEngine.Purchasing.Utils",
+      "m_AssemblyName": "Unity.Purchasing.Stores"
+    },
+    {
+      "m_Name": "VoxelDestructionParticleController",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 168,
+        "bytes[1]": 132,
+        "bytes[2]": 122,
+        "bytes[3]": 9,
+        "bytes[4]": 130,
+        "bytes[5]": 211,
+        "bytes[6]": 26,
+        "bytes[7]": 215,
+        "bytes[8]": 154,
+        "bytes[9]": 248,
+        "bytes[10]": 250,
+        "bytes[11]": 200,
+        "bytes[12]": 194,
+        "bytes[13]": 94,
+        "bytes[14]": 67,
+        "bytes[15]": 102
+      },
+      "m_ClassName": "VoxelDestructionParticleController",
+      "m_Namespace": "Rotatelab.FX",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "IProductDetailsConverter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "IProductDetailsConverter",
+      "m_Namespace": "UnityEngine.Purchasing.Interfaces",
+      "m_AssemblyName": "Unity.Purchasing.Stores"
+    },
+    {
+      "m_Name": "TMP_PackageResourceImporter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "TMP_PackageResourceImporter",
+      "m_Namespace": "TMPro",
+      "m_AssemblyName": "Unity.TextMeshPro"
+    },
+    {
+      "m_Name": "UniversalRenderPipelineEditorShaders",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "UniversalRenderPipelineEditorShaders",
+      "m_Namespace": "UnityEngine.Rendering.Universal",
+      "m_AssemblyName": "Unity.RenderPipelines.Universal.Runtime"
+    },
+    {
+      "m_Name": "AndroidJavaConverter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "AndroidJavaConverter",
+      "m_Namespace": "GooglePlayGames.Android",
+      "m_AssemblyName": "Google.Play.Games"
+    },
+    {
+      "m_Name": "BurstEditorOptions",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "BurstEditorOptions",
+      "m_Namespace": "Unity.Burst.Editor",
+      "m_AssemblyName": "Unity.Burst"
+    },
+    {
+      "m_Name": "UniversalRenderPipelineEditorAssets",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "UniversalRenderPipelineEditorAssets",
+      "m_Namespace": "UnityEngine.Rendering.Universal",
+      "m_AssemblyName": "Unity.RenderPipelines.Universal.Runtime"
+    },
+    {
+      "m_Name": "ObjectRefConverter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "ObjectRefConverter",
+      "m_Namespace": "Unity.Pipeline.Models",
+      "m_AssemblyName": "Unity.Pipeline"
+    },
+    {
+      "m_Name": "ObservableValueJsonConverter",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "DefaultObservableValueConverter",
+      "m_Namespace": "Rotatelab",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "LargeVoxelBreakParticlePool",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 202,
+        "bytes[1]": 56,
+        "bytes[2]": 30,
+        "bytes[3]": 166,
+        "bytes[4]": 98,
+        "bytes[5]": 4,
+        "bytes[6]": 92,
+        "bytes[7]": 60,
+        "bytes[8]": 20,
+        "bytes[9]": 131,
+        "bytes[10]": 85,
+        "bytes[11]": 243,
+        "bytes[12]": 79,
+        "bytes[13]": 167,
+        "bytes[14]": 201,
+        "bytes[15]": 223
+      },
+      "m_ClassName": "LargeVoxelBreakParticlePool",
+      "m_Namespace": "Rotatelab.Pool",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "VoxelDestructionParticlePool",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 241,
+        "bytes[1]": 67,
+        "bytes[2]": 195,
+        "bytes[3]": 107,
+        "bytes[4]": 28,
+        "bytes[5]": 205,
+        "bytes[6]": 123,
+        "bytes[7]": 216,
+        "bytes[8]": 48,
+        "bytes[9]": 163,
+        "bytes[10]": 37,
+        "bytes[11]": 96,
+        "bytes[12]": 107,
+        "bytes[13]": 154,
+        "bytes[14]": 126,
+        "bytes[15]": 164
+      },
+      "m_ClassName": "VoxelDestructionParticlePool",
+      "m_Namespace": "Rotatelab.Pool",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "LevelManager",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 207,
+        "bytes[1]": 251,
+        "bytes[2]": 165,
+        "bytes[3]": 154,
+        "bytes[4]": 165,
+        "bytes[5]": 183,
+        "bytes[6]": 221,
+        "bytes[7]": 48,
+        "bytes[8]": 52,
+        "bytes[9]": 107,
+        "bytes[10]": 241,
+        "bytes[11]": 74,
+        "bytes[12]": 235,
+        "bytes[13]": 207,
+        "bytes[14]": 104,
+        "bytes[15]": 222
+      },
+      "m_ClassName": "LevelManager",
+      "m_Namespace": "Rotatelab.Scripts",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "SoLevelABTestsData",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 83,
+        "bytes[1]": 6,
+        "bytes[2]": 60,
+        "bytes[3]": 8,
+        "bytes[4]": 119,
+        "bytes[5]": 154,
+        "bytes[6]": 202,
+        "bytes[7]": 254,
+        "bytes[8]": 137,
+        "bytes[9]": 53,
+        "bytes[10]": 132,
+        "bytes[11]": 190,
+        "bytes[12]": 177,
+        "bytes[13]": 252,
+        "bytes[14]": 17,
+        "bytes[15]": 141
+      },
+      "m_ClassName": "SoLevelABTestsData",
+      "m_Namespace": "Rotatelab",
+      "m_AssemblyName": "Assembly-CSharp"
+    },
+    {
+      "m_Name": "EditorFacebookGameObject",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 144,
+        "bytes[1]": 236,
+        "bytes[2]": 67,
+        "bytes[3]": 205,
+        "bytes[4]": 142,
+        "bytes[5]": 182,
+        "bytes[6]": 13,
+        "bytes[7]": 77,
+        "bytes[8]": 169,
+        "bytes[9]": 226,
+        "bytes[10]": 209,
+        "bytes[11]": 147,
+        "bytes[12]": 19,
+        "bytes[13]": 24,
+        "bytes[14]": 31,
+        "bytes[15]": 7
+      },
+      "m_ClassName": "EditorFacebookGameObject",
+      "m_Namespace": "Facebook.Unity.Editor",
+      "m_AssemblyName": "Facebook.Unity.dll"
+    },
+    {
+      "m_Name": "EditorFacebookMockDialog",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 0,
+        "bytes[1]": 0,
+        "bytes[2]": 0,
+        "bytes[3]": 0,
+        "bytes[4]": 0,
+        "bytes[5]": 0,
+        "bytes[6]": 0,
+        "bytes[7]": 0,
+        "bytes[8]": 0,
+        "bytes[9]": 0,
+        "bytes[10]": 0,
+        "bytes[11]": 0,
+        "bytes[12]": 0,
+        "bytes[13]": 0,
+        "bytes[14]": 0,
+        "bytes[15]": 0
+      },
+      "m_ClassName": "EditorFacebookMockDialog",
+      "m_Namespace": "Facebook.Unity.Editor",
+      "m_AssemblyName": "Facebook.Unity.dll"
+    },
+    {
+      "m_Name": "PhysicsLowLevelSettings2D",
+      "m_ExecutionOrder": 0,
+      "m_PropertiesHash": {
+        "bytes[0]": 216,
+        "bytes[1]": 86,
+        "bytes[2]": 177,
+        "bytes[3]": 68,
+        "bytes[4]": 250,
+        "bytes[5]": 81,
+        "bytes[6]": 11,
+        "bytes[7]": 43,
+        "bytes[8]": 22,
+        "bytes[9]": 214,
+        "bytes[10]": 32,
+        "bytes[11]": 209,
+        "bytes[12]": 68,
+        "bytes[13]": 110,
+        "bytes[14]": 159,
+        "bytes[15]": 142
+      },
+      "m_ClassName": "PhysicsLowLevelSettings2D",
+      "m_Namespace": "UnityEngine.LowLevelPhysics2D",
+      "m_AssemblyName": "UnityEngine"
+    }
+  ]
+}

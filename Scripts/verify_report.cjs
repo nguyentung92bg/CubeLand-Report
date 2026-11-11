@@ -22,8 +22,21 @@ const assert=(v,msg)=>{if(!v)throw Error(msg)};
   results.push({file,mobile:w});await p.setViewportSize({width:1440,height:1050});
  }
  await p.goto(pathToFileURL(path.join(base,'Levels/Levels.html')).href);
- assert(await p.locator('tbody tr').count()===853,'850 level rows + 3 difficulty rows');
+ assert(await p.locator('.data-table tbody tr').count()===853,'850 level rows + 3 difficulty rows');
  const table=p.locator('.data-table').filter({has:p.locator('input.search')});
+ const number=p.locator('#level-number'),indexBase=p.locator('#level-index-base');
+ assert((await table.locator('tbody tr:visible').first().innerText()).includes('Box'),'Default level order starts with Box');
+ const levelData=JSON.parse(fs.readFileSync(path.join(base,'Data/levels.json'),'utf8'));
+ const mapping=JSON.parse(fs.readFileSync(path.join(base,'Data/level_index_mapping.json'),'utf8'));
+ assert(mapping.mapped===850&&new Set(mapping.levels.map(l=>l.asset_file)).size===850,'Complete unambiguous catalog mapping');
+ for(const n of [1,2,3,25,100,850]){
+  await number.fill(String(n));assert(await table.locator('tbody tr:visible').count()===1,'Exact level '+n);
+  const expected=mapping.levels.find(l=>l.level_number===n);const row=await table.locator('tbody tr:visible').innerText();assert(row.includes(expected.name)&&row.includes('Index '+(n-1)),'Resolved asset for level '+n);
+ }
+ await indexBase.selectOption('0');await number.fill('0');assert(await table.locator('tbody tr:visible').count()===1,'Zero-based index 0');assert((await table.locator('tbody tr:visible').innerText()).includes('Box'),'Index 0 is Box');
+ await table.locator('button.level-open:visible').click();await p.waitForSelector('#voxel-view');assert((await p.locator('#detail-title').innerText()).includes('Level 1 · Box · Index 0'),'Dialog level/index');await p.locator('#close-detail').click();
+ await number.fill('850');assert(await table.locator('tbody tr:visible').count()===0,'Out of range index');await p.locator('#clear-level-filters').click();
+ await p.setViewportSize({width:390,height:844});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'Level filters mobile overflow');await number.fill('25');await p.screenshot({path:path.join(base,'Data/level-index-mobile.png'),fullPage:true});await p.setViewportSize({width:1440,height:1050});await p.screenshot({path:path.join(base,'Data/level-index-desktop.png'),fullPage:true});await p.locator('#clear-level-filters').click();
  await table.locator('input.search').fill('Sheep');assert(await table.locator('tbody tr:visible').count()>0,'Level search');
  await table.locator('button.level-open:visible').first().click();await p.waitForSelector('#voxel-view');
  assert((await p.locator('#detail-body').innerText()).includes('SolutionColumns'),'Full level detail');
@@ -38,6 +51,7 @@ const assert=(v,msg)=>{if(!v)throw Error(msg)};
  const assets=JSON.parse(fs.readFileSync(path.join(base,'Data/asset_records.json'),'utf8'));assert(assets.length===new Set(assets.map(a=>a.file)).size,'Evidence filenames unique');
  const levels=JSON.parse(fs.readFileSync(path.join(base,'Data/levels.json'),'utf8'));assert(levels.length===850&&new Set(levels.map(l=>l.id)).size===850,'Level count and unique IDs');
  for(const l of levels){assert(fs.existsSync(path.join(base,l.image)),'Level image '+l.id);assert(fs.existsSync(path.join(base,l.file)),'Level source '+l.id);}
- fs.writeFileSync(path.join(base,'Data/qa.json'),JSON.stringify({passed:true,pages:results,levelCount:levels.length,checks:['local navigation and resources','10 responsive pages at 390px','no unrelated game copy','images decoded','level search and pagination','offline chunk loading','voxel canvas','shooter queues','mobile detail dialog','unique evidence files','850 level icons and source records','no browser JS errors']},null,2));
+ await p.goto(pathToFileURL(path.join(base,'Levels/Levels.html')).href+'?index=0');assert(await table.locator('tbody tr:visible').count()===1,'Index deep link');assert((await table.locator('tbody tr:visible').innerText()).includes('Box'),'Index deep link asset');
+ fs.writeFileSync(path.join(base,'Data/qa.json'),JSON.stringify({passed:true,pages:results,levelCount:levels.length,checks:['local navigation and resources','10 responsive pages at 390px','no unrelated game copy','images decoded','exact level and zero-based index filters','catalog mapping 850 unique assets','boundary index validation','level/index dialog labels','index deep links','level search and pagination','offline chunk loading','voxel canvas','shooter queues','mobile detail dialog','unique evidence files','850 level icons and source records','no browser JS errors']},null,2));
  await browser.close();console.log('PASS: 10 pages, 850 levels, offline details, responsive layout, images, links, search and pagination');
 })().catch(e=>{console.error(e);process.exit(1)});

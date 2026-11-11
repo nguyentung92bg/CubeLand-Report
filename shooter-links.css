@@ -1,0 +1,11 @@
+.link-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:16px;margin:18px 0}
+.link-group{min-width:0;padding:16px;border:1px solid #c9dedc;border-top:4px solid #188276;border-radius:9px;background:#f6fbfa}
+.link-group h3,.link-group h4{margin:0 0 12px;color:#176d64}.link-group p,.link-group li{font-size:13px;line-height:1.65}.link-group ul{padding-left:18px}.link-group svg{display:block;width:100%;max-height:280px;background:white;border-radius:7px}
+.chain-group{border-color:#e3c791;border-top-color:#af7018;background:#fff9ed}.chain-group h3,.chain-group h4{color:#885409}
+.link-edge{stroke-width:5;fill:none}.group-edge{stroke:#188276}.chain-edge{stroke:#b77b21;stroke-dasharray:8 5}
+.link-node-label{fill:#102d38;font-size:12px;font-weight:750;paint-order:stroke;stroke:white;stroke-width:3px;stroke-linejoin:round}
+.link-badge{display:inline-block;padding:3px 7px;border-radius:5px;margin:3px 4px 3px 0;font-size:11px;line-height:1.4;font-weight:650}.connected-badge{color:#0d625a;background:#def0e9;border:1px solid #9ecfc2}.chain-badge{color:#7b4d0b;background:#fff0cb;border:1px dashed #b67a24}
+.link-legend{padding:12px 15px;background:#f0f5f6;border-radius:7px;font-size:13px;line-height:1.8}.link-demo{display:flex;gap:10px;align-items:center;justify-content:center;margin:25px 0;color:#188276;font-size:22px}.link-demo span{display:grid;place-items:center;width:48px;height:48px;border:2px solid currentColor;border-radius:50%;background:white;font-size:15px;font-weight:700}.chain-group .link-demo{color:#a7721b}
+.highlight-link,#clear-link-highlight{border:1px solid #94b5b7;background:white;border-radius:5px;padding:7px 10px;color:#24525c;cursor:pointer;font:inherit;font-size:12px}
+.link-dim{opacity:.35}.link-selected{outline:3px solid #306bcb;outline-offset:2px}.link-group,.shooter{transition:opacity .15s}.link-doc{scroll-margin-top:20px}.shooter code{font-size:11px}
+@media(max-width:600px){.link-grid{grid-template-columns:minmax(0,1fr)}.link-group{padding:12px}.link-legend .link-badge{display:table}.link-demo{gap:8px}.link-node-label{font-size:13px}}

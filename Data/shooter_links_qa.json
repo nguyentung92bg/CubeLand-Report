@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "levels": 850,
+  "connectedLevels": 606,
+  "chainedLevels": 139,
+  "bothTypes": 99,
+  "checks": [
+    "850 levels, zero unresolved shooter references",
+    "Level 13 exact four-pair topology",
+    "Level 16 transitive three-member group",
+    "Level 401 exact chain topology",
+    "both link types coexist",
+    "actual SVG edges",
+    "highlight and reset shooter groups",
+    "desktop/mobile diagrams and documentation",
+    "no browser JS errors"
+  ]
+}

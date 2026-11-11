@@ -567,5 +567,9 @@
     "9": "Extra Slot",
     "10": "Meteor Shower",
     "11": "Bonus Slot"
+  },
+  "linkStats": {
+    "connected": 606,
+    "chained": 139
   }
 }

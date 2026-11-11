@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "12 type/status filter counts and first levels",
+    "combined level and type filter",
+    "Key/Lock record IDs",
+    "ice HP and second color",
+    "generator inner shooter IDs",
+    "pilot and hidden details",
+    "ordinary level empty state",
+    "feature deep link",
+    "code-only types qualified",
+    "mobile detail and filter layout",
+    "no browser JS errors"
+  ]
+}
